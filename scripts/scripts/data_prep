@@ -1,0 +1,243 @@
+## Data Preparation – Walmart Regional Sales Analysis
+-------------------------------------------------------
+
+
+This file includes all code and logic for preparing the Walmart dataset for analysis, including data cleaning using SQL.  
+Tableau calculations are described at the end.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+** SQL
+
+* Data Cleaning:
+
+ ==========================
+ 1. CUSTOMERS TABLE
+ ==========================
+-- Remove duplicate CustomerID
+DELETE FROM Customers
+WHERE rowid NOT IN (
+  SELECT MIN(rowid)
+  FROM Customers
+  GROUP BY CustomerID
+);
+
+-- Remove rows with any NULL key fields
+DELETE FROM Customers
+WHERE CustomerID IS NULL
+   OR Gender IS NULL
+   OR Age IS NULL
+   OR HouseholdSize IS NULL
+   OR AnnualIncome IS NULL
+   OR EmploymentStatus IS NULL
+   OR OwnsHome IS NULL
+   OR City IS NULL
+   OR State IS NULL;
+
+-- Trim whitespace (if any text column)
+UPDATE Customers
+SET Gender = TRIM(Gender),
+    EmploymentStatus = TRIM(EmploymentStatus),
+    OwnsHome = TRIM(OwnsHome),
+    City = TRIM(City),
+    State = TRIM(State);
+
+-- Remove impossible age or household size
+DELETE FROM Customers
+WHERE Age < 16 OR Age > 100
+   OR HouseholdSize < 1 OR HouseholdSize > 12;
+
+ ==========================
+ 2. PRODUCTS TABLE
+ ==========================
+-- Remove duplicate ProductID
+DELETE FROM Products
+WHERE rowid NOT IN (
+  SELECT MIN(rowid)
+  FROM Products
+  GROUP BY ProductID
+);
+
+-- Remove rows with any NULL key fields
+DELETE FROM Products
+WHERE ProductID IS NULL
+   OR Category IS NULL
+   OR SubCategory IS NULL
+   OR ProductName IS NULL
+   OR Brand IS NULL
+   OR SizeMetric IS NULL
+   OR UnitPrice IS NULL
+   OR PerishableFlag IS NULL
+   OR Currency IS NULL
+   OR SKUCode IS NULL;
+
+-- Trim whitespace
+UPDATE Products
+SET Category = TRIM(Category),
+    SubCategory = TRIM(SubCategory),
+    ProductName = TRIM(ProductName),
+    Brand = TRIM(Brand),
+    SizeMetric = TRIM(SizeMetric),
+    Currency = TRIM(Currency),
+    SKUCode = TRIM(SKUCode),
+    PerishableFlag = TRIM(PerishableFlag);
+
+-- Remove negative price
+DELETE FROM Products WHERE UnitPrice < 0;
+
+-- ==========================
+-- 3. STORES TABLE
+-- ==========================
+-- Remove duplicate StoreID
+DELETE FROM Stores
+WHERE rowid NOT IN (
+  SELECT MIN(rowid)
+  FROM Stores
+  GROUP BY StoreID
+);
+
+-- Remove rows with any NULL key fields
+DELETE FROM Stores
+WHERE StoreID IS NULL
+   OR StoreName IS NULL
+   OR City IS NULL
+   OR State IS NULL
+   OR StoreType IS NULL
+   OR OpenedYear IS NULL
+   OR EmployeesCount IS NULL
+   OR AvgMonthlyFootTraffic IS NULL
+   OR Region IS NULL
+   OR SquareFootage IS NULL
+   OR StoreFormat IS NULL
+   OR NumEmployees IS NULL
+   OR StoreManager IS NULL;
+
+-- Trim whitespace
+UPDATE Stores
+SET StoreName = TRIM(StoreName),
+    City = TRIM(City),
+    State = TRIM(State),
+    StoreType = TRIM(StoreType),
+    Region = TRIM(Region),
+    StoreFormat = TRIM(StoreFormat),
+    StoreManager = TRIM(StoreManager);
+
+-- Remove negative or nonsensical values
+DELETE FROM Stores
+WHERE EmployeesCount < 0
+   OR AvgMonthlyFootTraffic < 0
+   OR SquareFootage < 100
+   OR NumEmployees < 0
+   OR OpenedYear < 1900 OR OpenedYear > strftime('%Y', 'now');
+
+-- ==========================
+-- 4. SALES TABLE
+-- ==========================
+-- Remove duplicate SaleID
+DELETE FROM Sales
+WHERE rowid NOT IN (
+  SELECT MIN(rowid)
+  FROM Sales
+  GROUP BY SaleID
+);
+
+-- Remove rows with any NULL key fields
+DELETE FROM Sales
+WHERE SaleID IS NULL
+   OR CustomerID IS NULL
+   OR StoreID IS NULL
+   OR ProductID IS NULL
+   OR Date IS NULL
+   OR Quantity IS NULL
+   OR UnitPrice IS NULL
+   OR TotalSale IS NULL
+   OR PaymentMethod IS NULL
+   OR DiscountPercent IS NULL
+   OR ReturnFlag IS NULL
+   OR FiscalYear IS NULL
+   OR Channel IS NULL;
+
+-- Remove negative or zero values
+DELETE FROM Sales WHERE Quantity <= 0 OR UnitPrice < 0 OR TotalSale < 0 OR DiscountPercent < 0;
+
+-- Trim whitespace
+UPDATE Sales
+SET PaymentMethod = TRIM(PaymentMethod),
+    ReturnFlag = TRIM(ReturnFlag),
+    Channel = TRIM(Channel);
+
+-- ==========================
+-- 5. DEMOGRAPHICS TABLE
+-- ==========================
+-- Remove duplicate City+State
+DELETE FROM Demographics
+WHERE rowid NOT IN (
+  SELECT MIN(rowid)
+  FROM Demographics
+  GROUP BY City, State
+);
+
+-- Remove rows with any NULL key fields
+DELETE FROM Demographics
+WHERE City IS NULL
+   OR State IS NULL
+   OR AvgAge IS NULL
+   OR Gender_Male% IS NULL
+   OR Gender_Female% IS NULL
+   OR HouseholdSizeAvg IS NULL
+   OR AvgAnnualIncome IS NULL
+   OR UnemploymentRate IS NULL
+   OR OwnsHome% IS NULL;
+
+-- Trim whitespace
+UPDATE Demographics
+SET City = TRIM(City),
+    State = TRIM(State);
+
+-- Remove impossible percentages or average values
+DELETE FROM Demographics
+WHERE "Gender_Male%" < 0 OR "Gender_Male%" > 100
+   OR "Gender_Female%" < 0 OR "Gender_Female%" > 100
+   OR "HouseholdSizeAvg" < 1 OR "HouseholdSizeAvg" > 12
+   OR "UnemploymentRate" < 0 OR "UnemploymentRate" > 100
+   OR "OwnsHome%" < 0 OR "OwnsHome%" > 100
+   OR "AvgAge" < 16 OR "AvgAge" > 100
+   OR "AvgAnnualIncome" < 0;
+
+
+
+**************************************************************************************************************************************************************************************************************
+
+
+
+# Tableau Calculated Fields – Walmart Regional Sales Analysis
+
+## Net Sales
+[Net Sales] = [Quantity] * [UnitPrice]
+
+## Is Return (Return Flag Conversion)
+[Is Return] = IF [ReturnFlag] = 'Y' THEN 1 ELSE 0 END
+
+## Return Rate (by Category, Region, Store, etc.)
+[Return Rate] = SUM([Is Return]) / COUNT([SaleID])
+-- Format as percentage
+
+## Return Value (Value Lost to Returns)
+[Return Value] = IF [ReturnFlag] = 'Y' THEN [TotalSale] ELSE 0 END
+
+## Total Value Lost to Returns
+SUM([Return Value])
+
+## Total Net Sales (KPI Card)
+SUM([TotalSale])
+
+## Total Returns (Count KPI)
+SUM([Is Return])
+
+## Average Unit Price
+[Avg Unit Price] = AVG([UnitPrice])
+
+## Total Sales by Group
+SUM([TotalSale])
+-- Use with dimension (Category, Region, Store, etc.)
+
+
