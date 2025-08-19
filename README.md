@@ -2,7 +2,7 @@ Walmart Regional Product Mix and Profitability Analysis
 --------------------------------------------------------
 
 
-** Project Background
+## Project Background
 
 Walmart is the largest retailer in the United States, serving a wide variety of customers across thousands of stores. This project analyzes a multi-year, multi-region dataset of 1,500 Walmart stores to answer a critical business question:
 
@@ -14,7 +14,7 @@ The analysis is designed to provide actionable, data-driven recommendations for 
 *********************************************************************************************************************************************************************************************************************************************************************************************
 
 
-** Executive Summary
+## Executive Summary
 ---------------------
 
 - Total Sales from 2016 to 2025: 21 billion US dollars across all regions and product categories.
@@ -34,7 +34,7 @@ The analysis is designed to provide actionable, data-driven recommendations for 
 
 
 
-** Data Overview and Data Model Diagram
+## Data Overview and Data Model Diagram
 ----------------------------------------
 
 Data Sources:
@@ -56,7 +56,7 @@ The main data tables are:
 
 
 
- ** Table Relationships and Keys
+ ## Table Relationships and Keys
  --------------------------------
 
 - Sales → Customers
@@ -83,20 +83,23 @@ Key: City in Demographics = City in Stores
 *********************************************************************************************************************************************************************************************************************************************************************************************
 
 
-** Key Insights and Deep Dive
+## Key Insights and Deep Dive
 ------------------------------
 
 - Sales Performance by Region and Category
    -  Grocery is the largest category across all regions (up to 65% of sales in the Northeast).
    -  Clothing, Electronics, and Beauty have significant but smaller shares, with regional variation.
    <img width="1464" height="522" alt="Screenshot 2025-08-19 124324" src="https://github.com/user-attachments/assets/b820e290-33f2-4823-bcd7-c604096517f8" />
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 - Demographic and Income Trends
    - Customers aged 45–64 and those with annual incomes of $60,000–$80,000 account for the largest share of sales.
    - Female customers slightly outspend males in total sales.
      
    <img width="381" height="672" alt="Screenshot 2025-08-19 115730" src="https://github.com/user-attachments/assets/ef7d794f-1571-4b92-921b-9c3cbc50a3c9" />
    <img width="769" height="251" alt="Screenshot 2025-08-19 115813" src="https://github.com/user-attachments/assets/9e8a4e4a-a1b9-47ff-a7e1-f727c7bd3c04" />
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+   
 
 - Return Rates and Profitability
    - Clothing has the highest return rate (8.4%), Electronics is next (7%), while Grocery has the lowest (2%).
@@ -105,9 +108,9 @@ Key: City in Demographics = City in Stores
   <img width="1384" height="458" alt="Screenshot 2025-08-19 124843" src="https://github.com/user-attachments/assets/618aa285-7178-4a23-974b-929223c4f102" />
   <img width="1441" height="432" alt="Screenshot 2025-08-19 124857" src="https://github.com/user-attachments/assets/cda52bd3-3bfd-44af-ac5e-2af6dcb02e7a" />
 
-  ******************************************************************************************************************************************************************************************************************************************************************************************
+  ********************************************************************************************************************************************************************************************************************
 
-** Assumptions and Caveats
+## Assumptions and Caveats
 ---------------------------
 
 - This project uses a sample of 1,500 Walmart stores, which represents about 15% of the company’s U.S. locations.
@@ -124,7 +127,7 @@ Key: City in Demographics = City in Stores
 
   ******************************************************************************************************************************************************************************************************************************************************************************************
 
-** Next Steps and Stakeholder Questions
+## Next Steps and Stakeholder Questions
 ----------------------------------------
 
 Based on the analysis, the following actions are recommended for key Walmart roles:
@@ -147,7 +150,7 @@ Based on the analysis, the following actions are recommended for key Walmart rol
 
 ******************************************************************************************************************************************************************************************************************************************************************************************
 
-Potential Follow-Up Questions:
+## Potential Follow-Up Questions:
 ------------------------------
 
 - Are there specific customer groups or regions where returns are unusually high, suggesting the need for targeted interventions by product or customer experience teams?
