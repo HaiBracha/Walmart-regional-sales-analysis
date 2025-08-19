@@ -1,0 +1,1501 @@
+StoreID,StoreName,City,State,StoreType,OpenedYear,EmployeesCount,AvgMonthlyFootTraffic,Region,SquareFootage,StoreFormat,NumEmployees,StoreManager
+1,Walmart Store 1,Los Angeles,California,Neighborhood Market,2009,61,9858,West,66727,Walmart Supercenter,61,John Anderson
+2,Walmart Store 2,Durham,North Carolina,Supercenter,2021,133,26024,South,150020,Walmart Supercenter,133,Linda Taylor
+3,Walmart Store 3,Durham,North Carolina,Neighborhood Market,2003,56,8000,South,61333,Walmart Discount Store,56,John Johnson
+4,Walmart Store 4,Flint,Michigan,Neighborhood Market,2004,56,8000,Midwest,61360,Walmart Supercenter,56,James Thomas
+5,Walmart Store 5,Reading,Pennsylvania,Supercenter,2008,142,28743,Northeast,150023,Walmart Supercenter,142,Patricia White
+6,Walmart Store 6,Chandler,Arizona,Supercenter,2003,145,29682,West,150005,Walmart Supercenter,145,Elizabeth White
+7,Walmart Store 7,Savannah,Georgia,Neighborhood Market,2003,55,8000,South,59957,Sam's Club,55,Patricia White
+8,Walmart Store 8,Phoenix,Arizona,Sam's Club,2017,114,24344,West,120006,Walmart Supercenter,114,Elizabeth Brown
+9,Walmart Store 9,Houston,Texas,Supercenter,2004,141,36470,South,150013,Sam's Club,141,Elizabeth Smith
+10,Walmart Store 10,Los Angeles,California,Supercenter,2008,137,30835,West,150016,Walmart Discount Store,137,Jennifer Thomas
+11,Walmart Store 11,Tempe,Arizona,Sam's Club,2009,109,20018,West,120021,Walmart Supercenter,109,Elizabeth Harris
+12,Walmart Store 12,Atlanta,Georgia,Sam's Club,2019,112,26012,South,120011,Walmart Supercenter,112,Jennifer Martin
+13,Walmart Store 13,Cincinnati,Ohio,Supercenter,2006,144,27976,Midwest,150003,Sam's Club,144,John Taylor
+14,Walmart Store 14,Los Angeles,California,Supercenter,2022,142,35658,West,150008,Sam's Club,142,Robert White
+15,Walmart Store 15,Atlanta,Georgia,Supercenter,2010,143,32735,South,150013,Walmart Discount Store,143,James Harris
+16,Walmart Store 16,Durham,North Carolina,Supercenter,2006,143,25191,South,150012,Walmart Supercenter,143,Robert Anderson
+17,Walmart Store 17,Tampa,Florida,Neighborhood Market,2021,58,8000,South,61641,Walmart Discount Store,58,Jennifer White
+18,Walmart Store 18,Philadelphia,Pennsylvania,Neighborhood Market,2020,59,10725,Northeast,65261,Walmart Supercenter,59,Jennifer Anderson
+19,Walmart Store 19,Dallas,Texas,Neighborhood Market,2008,60,10340,South,64668,Walmart Discount Store,60,Robert Martin
+20,Walmart Store 20,Augusta,Georgia,Supercenter,2016,140,28305,South,150024,Walmart Supercenter,140,Elizabeth Brown
+21,Walmart Store 21,Glendale,Arizona,Neighborhood Market,2015,53,8000,West,59660,Walmart Supercenter,53,James Thomas
+22,Walmart Store 22,Orlando,Florida,Supercenter,2008,137,28930,South,150013,Walmart Supercenter,137,James Harris
+23,Walmart Store 23,Chandler,Arizona,Supercenter,2001,138,26833,West,150018,Walmart Discount Store,138,James Harris
+24,Walmart Store 24,Fresno,California,Neighborhood Market,2002,54,8000,West,61497,Walmart Supercenter,54,James Brown
+25,Walmart Store 25,Augusta,Georgia,Supercenter,2020,141,24542,South,150017,Sam's Club,141,James Smith
+26,Walmart Store 26,Phoenix,Arizona,Neighborhood Market,2013,61,10234,West,65275,Walmart Supercenter,61,Jennifer Smith
+27,Walmart Store 27,Detroit,Michigan,Neighborhood Market,2008,56,8329,Midwest,62278,Sam's Club,56,Robert Brown
+28,Walmart Store 28,Joliet,Illinois,Neighborhood Market,2001,55,8000,Midwest,60411,Walmart Supercenter,55,William White
+29,Walmart Store 29,Miami,Florida,Neighborhood Market,2000,64,9369,South,66593,Walmart Supercenter,64,Jennifer Anderson
+30,Walmart Store 30,Dayton,Ohio,Neighborhood Market,2010,57,8000,Midwest,61601,Walmart Supercenter,57,Patricia Johnson
+31,Walmart Store 31,Jacksonville,Florida,Sam's Club,2004,109,19877,South,120005,Walmart Supercenter,109,Robert Thomas
+32,Walmart Store 32,Phoenix,Arizona,Sam's Club,2020,116,23363,West,120020,Walmart Supercenter,116,Elizabeth Johnson
+33,Walmart Store 33,Tucson,Arizona,Sam's Club,2008,111,18852,West,120004,Walmart Supercenter,111,James Smith
+34,Walmart Store 34,Plano,Texas,Sam's Club,2005,113,21111,South,120003,Walmart Discount Store,113,Mary Johnson
+35,Walmart Store 35,Lansing,Michigan,Sam's Club,2014,116,17967,Midwest,120017,Walmart Supercenter,116,Mary Harris
+36,Walmart Store 36,Akron,Ohio,Neighborhood Market,2017,57,8000,Midwest,61168,Walmart Supercenter,57,Michael Smith
+37,Walmart Store 37,Erie,Pennsylvania,Supercenter,2022,135,27787,Northeast,150009,Walmart Supercenter,135,John Taylor
+38,Walmart Store 38,Houston,Texas,Supercenter,2013,144,35442,South,150011,Walmart Discount Store,144,Elizabeth Harris
+39,Walmart Store 39,Los Angeles,California,Neighborhood Market,2017,64,10269,West,66312,Walmart Discount Store,64,James Harris
+40,Walmart Store 40,Columbus,Ohio,Supercenter,2000,139,26849,Midwest,150017,Walmart Supercenter,139,William Jackson
+41,Walmart Store 41,Columbus,Ohio,Supercenter,2003,142,25036,Midwest,150006,Walmart Supercenter,142,Michael Anderson
+42,Walmart Store 42,Joliet,Illinois,Sam's Club,2002,116,17309,Midwest,120005,Sam's Club,116,James Harris
+43,Walmart Store 43,San Antonio,Texas,Sam's Club,2022,108,19589,South,120019,Walmart Discount Store,108,Elizabeth Jackson
+44,Walmart Store 44,Joliet,Illinois,Sam's Club,2004,115,20959,Midwest,120026,Walmart Supercenter,115,Elizabeth Taylor
+45,Walmart Store 45,Warren,Michigan,Supercenter,2017,139,24529,Midwest,150019,Walmart Discount Store,139,Linda Martin
+46,Walmart Store 46,Long Beach,California,Sam's Club,2001,112,18116,West,120022,Walmart Supercenter,112,Linda Harris
+47,Walmart Store 47,Los Angeles,California,Neighborhood Market,2011,63,9420,West,64568,Sam's Club,63,Linda White
+48,Walmart Store 48,Pittsburgh,Pennsylvania,Supercenter,2018,144,25902,Northeast,150012,Walmart Discount Store,144,Robert Martin
+49,Walmart Store 49,Los Angeles,California,Supercenter,2017,135,30815,West,150003,Walmart Supercenter,135,Mary White
+50,Walmart Store 50,Phoenix,Arizona,Sam's Club,2004,111,25866,West,120018,Walmart Discount Store,111,Michael White
+51,Walmart Store 51,St. Petersburg,Florida,Neighborhood Market,2013,56,8000,South,59708,Walmart Supercenter,56,Michael Brown
+52,Walmart Store 52,Hialeah,Florida,Sam's Club,2004,115,20880,South,120016,Walmart Supercenter,115,Robert White
+53,Walmart Store 53,Reading,Pennsylvania,Sam's Club,2001,108,19056,Northeast,120020,Sam's Club,108,Linda Anderson
+54,Walmart Store 54,Phoenix,Arizona,Supercenter,2009,143,33560,West,150017,Walmart Supercenter,143,Elizabeth White
+55,Walmart Store 55,Orlando,Florida,Supercenter,2011,141,31913,South,150014,Walmart Supercenter,141,Elizabeth Anderson
+56,Walmart Store 56,Savannah,Georgia,Sam's Club,2001,107,17678,South,120003,Sam's Club,107,Elizabeth Anderson
+57,Walmart Store 57,Mesa,Arizona,Supercenter,2011,140,28053,West,150019,Walmart Supercenter,140,Jennifer Johnson
+58,Walmart Store 58,Warren,Michigan,Supercenter,2006,139,26639,Midwest,150007,Walmart Supercenter,139,Patricia Smith
+59,Walmart Store 59,Greensboro,North Carolina,Supercenter,2021,139,25476,South,150014,Walmart Supercenter,139,Michael Smith
+60,Walmart Store 60,Rockford,Illinois,Sam's Club,2007,109,19656,Midwest,120006,Walmart Discount Store,109,Mary Anderson
+61,Walmart Store 61,Glendale,Arizona,Supercenter,2021,138,26902,West,150016,Walmart Supercenter,138,Jennifer Brown
+62,Walmart Store 62,Rockford,Illinois,Sam's Club,2003,115,18627,Midwest,120014,Walmart Discount Store,115,William Harris
+63,Walmart Store 63,Atlanta,Georgia,Supercenter,2011,139,36452,South,150012,Walmart Discount Store,139,Linda Smith
+64,Walmart Store 64,Raleigh,North Carolina,Neighborhood Market,2017,58,8000,South,59950,Walmart Discount Store,58,Mary Martin
+65,Walmart Store 65,Cleveland,Ohio,Supercenter,2013,143,30316,Midwest,150016,Walmart Discount Store,143,Mary Johnson
+66,Walmart Store 66,Reading,Pennsylvania,Sam's Club,2019,115,20940,Northeast,120006,Walmart Supercenter,115,Patricia Thomas
+67,Walmart Store 67,Gilbert,Arizona,Supercenter,2004,139,27898,West,150013,Walmart Supercenter,139,John White
+68,Walmart Store 68,Pittsburgh,Pennsylvania,Sam's Club,2007,108,17334,Northeast,120020,Walmart Supercenter,108,Mary Anderson
+69,Walmart Store 69,Oakland,California,Sam's Club,2005,106,20365,West,120025,Walmart Discount Store,106,John Anderson
+70,Walmart Store 70,Chicago,Illinois,Supercenter,2005,139,35385,Midwest,150008,Walmart Supercenter,139,Michael Taylor
+71,Walmart Store 71,Joliet,Illinois,Sam's Club,2013,111,19724,Midwest,120022,Sam's Club,111,James Brown
+72,Walmart Store 72,Los Angeles,California,Supercenter,2000,139,34077,West,150011,Walmart Discount Store,139,Linda Thomas
+73,Walmart Store 73,Cincinnati,Ohio,Neighborhood Market,2005,55,8294,Midwest,61934,Walmart Supercenter,55,Elizabeth Martin
+74,Walmart Store 74,El Paso,Texas,Sam's Club,2010,107,19243,South,120012,Walmart Supercenter,107,John Jackson
+75,Walmart Store 75,Grand Rapids,Michigan,Sam's Club,2013,116,20848,Midwest,120022,Walmart Supercenter,116,Jennifer White
+76,Walmart Store 76,Tempe,Arizona,Sam's Club,2021,111,18465,West,120007,Walmart Discount Store,111,Patricia Anderson
+77,Walmart Store 77,Aurora,Illinois,Sam's Club,2007,116,19501,Midwest,120008,Walmart Discount Store,116,James Anderson
+78,Walmart Store 78,Ann Arbor,Michigan,Neighborhood Market,2008,59,8000,Midwest,61407,Walmart Discount Store,59,Michael Smith
+79,Walmart Store 79,Joliet,Illinois,Neighborhood Market,2005,56,8000,Midwest,59526,Walmart Supercenter,56,Elizabeth Smith
+80,Walmart Store 80,Fort Worth,Texas,Supercenter,2022,145,25057,South,150011,Walmart Discount Store,145,John Harris
+81,Walmart Store 81,Bakersfield,California,Sam's Club,2003,117,17724,West,120018,Walmart Supercenter,117,Elizabeth Thomas
+82,Walmart Store 82,Arlington,Texas,Sam's Club,2012,113,18074,South,120023,Walmart Supercenter,113,Patricia Harris
+83,Walmart Store 83,Aurora,Illinois,Neighborhood Market,2001,54,8000,Midwest,60884,Walmart Discount Store,54,Elizabeth Jackson
+84,Walmart Store 84,Anaheim,California,Supercenter,2015,142,28792,West,150009,Walmart Supercenter,142,James Smith
+85,Walmart Store 85,San Antonio,Texas,Neighborhood Market,2007,58,8000,South,61999,Walmart Supercenter,58,Patricia Smith
+86,Walmart Store 86,Dayton,Ohio,Neighborhood Market,2006,59,8000,Midwest,61650,Walmart Supercenter,59,Mary Smith
+87,Walmart Store 87,San Diego,California,Supercenter,2014,138,30420,West,150011,Walmart Supercenter,138,Michael Johnson
+88,Walmart Store 88,Phoenix,Arizona,Sam's Club,2011,114,22313,West,120023,Walmart Supercenter,114,James White
+89,Walmart Store 89,Naperville,Illinois,Sam's Club,2009,110,19123,Midwest,120026,Walmart Supercenter,110,Linda White
+90,Walmart Store 90,Augusta,Georgia,Neighborhood Market,2007,56,8000,South,59768,Sam's Club,56,James Martin
+91,Walmart Store 91,Philadelphia,Pennsylvania,Neighborhood Market,2007,59,10546,Northeast,64008,Sam's Club,59,Michael White
+92,Walmart Store 92,Aurora,Illinois,Neighborhood Market,2000,55,8000,Midwest,60929,Walmart Supercenter,55,William Smith
+93,Walmart Store 93,Mesa,Arizona,Supercenter,2021,138,28025,West,150021,Walmart Supercenter,138,Elizabeth Smith
+94,Walmart Store 94,Jacksonville,Florida,Supercenter,2006,134,25742,South,150016,Sam's Club,134,John Jackson
+95,Walmart Store 95,Grand Rapids,Michigan,Neighborhood Market,2012,58,8000,Midwest,61773,Walmart Supercenter,58,Patricia White
+96,Walmart Store 96,Warren,Michigan,Sam's Club,2010,116,18274,Midwest,120022,Walmart Supercenter,116,Patricia Martin
+97,Walmart Store 97,Philadelphia,Pennsylvania,Sam's Club,2008,113,24246,Northeast,120008,Walmart Discount Store,113,Patricia Anderson
+98,Walmart Store 98,Chicago,Illinois,Supercenter,2002,136,35413,Midwest,150006,Walmart Supercenter,136,Linda Harris
+99,Walmart Store 99,Allentown,Pennsylvania,Supercenter,2008,140,24921,Northeast,150018,Walmart Discount Store,140,Mary Jackson
+100,Walmart Store 100,Greensboro,North Carolina,Sam's Club,2011,109,19344,South,120008,Walmart Discount Store,109,Linda Smith
+101,Walmart Store 101,Chicago,Illinois,Supercenter,2020,139,31644,Midwest,150018,Walmart Supercenter,139,Mary White
+102,Walmart Store 102,Los Angeles,California,Sam's Club,2016,107,25020,West,120008,Walmart Supercenter,107,Robert Smith
+103,Walmart Store 103,Anaheim,California,Neighborhood Market,2012,60,8000,West,61463,Sam's Club,60,Michael White
+104,Walmart Store 104,Durham,North Carolina,Supercenter,2021,140,26257,South,150015,Walmart Supercenter,140,Michael Jackson
+105,Walmart Store 105,Toledo,Ohio,Neighborhood Market,2017,57,8000,Midwest,60656,Walmart Supercenter,57,William Anderson
+106,Walmart Store 106,Charlotte,North Carolina,Supercenter,2010,135,29748,South,150022,Walmart Supercenter,135,Elizabeth Anderson
+107,Walmart Store 107,Raleigh,North Carolina,Supercenter,2000,135,26466,South,150009,Walmart Discount Store,135,William Smith
+108,Walmart Store 108,Reading,Pennsylvania,Neighborhood Market,2003,59,8000,Northeast,60845,Walmart Supercenter,59,James Taylor
+109,Walmart Store 109,Arlington,Texas,Neighborhood Market,2008,58,8000,South,60726,Walmart Supercenter,58,John White
+110,Walmart Store 110,Riverside,California,Supercenter,2005,143,27987,West,150016,Sam's Club,143,Mary Anderson
+111,Walmart Store 111,Plano,Texas,Neighborhood Market,2018,57,8000,South,59899,Walmart Discount Store,57,Patricia Taylor
+112,Walmart Store 112,Raleigh,North Carolina,Sam's Club,2008,117,20582,South,120018,Walmart Discount Store,117,Robert Smith
+113,Walmart Store 113,Cincinnati,Ohio,Sam's Club,2001,114,22861,Midwest,120008,Walmart Discount Store,114,William Taylor
+114,Walmart Store 114,Los Angeles,California,Neighborhood Market,2003,61,9011,West,65466,Walmart Supercenter,61,James White
+115,Walmart Store 115,Rockford,Illinois,Sam's Club,2019,108,20799,Midwest,120014,Walmart Supercenter,108,James Jackson
+116,Walmart Store 116,Rockford,Illinois,Sam's Club,2013,109,18353,Midwest,120020,Walmart Supercenter,109,Elizabeth Taylor
+117,Walmart Store 117,Aurora,Illinois,Sam's Club,2011,109,17868,Midwest,120018,Walmart Supercenter,109,Patricia Taylor
+118,Walmart Store 118,Chandler,Arizona,Supercenter,2010,134,25636,West,150019,Walmart Supercenter,134,William Smith
+119,Walmart Store 119,Allentown,Pennsylvania,Sam's Club,2013,111,20480,Northeast,120016,Sam's Club,111,Mary Johnson
+120,Walmart Store 120,Jacksonville,Florida,Sam's Club,2019,107,20044,South,120025,Sam's Club,107,Robert Taylor
+121,Walmart #121,Augusta,Georgia,Neighborhood Market,2007,39,8000,South,40402,Sam's Club,39,John Thomas
+122,Walmart #122,Naperville,Illinois,Warehouse,2003,93,14274,Midwest,98791,Sam's Club,93,James Taylor
+123,Walmart #123,Allentown,Pennsylvania,Neighborhood Market,2022,64,8640,Northeast,70005,Walmart Supercenter,64,John Thomas
+124,Walmart #124,Macon,Georgia,Warehouse,2019,92,14761,South,101533,Walmart Supercenter,92,Robert Anderson
+125,Walmart #125,Joliet,Illinois,Neighborhood Market,2002,67,8824,Midwest,70015,Sam's Club,67,Robert Harris
+126,Walmart #126,Tucson,Arizona,Neighborhood Market,2013,58,8000,West,60096,Walmart Supercenter,58,Michael Harris
+127,Walmart #127,Glendale,Arizona,Neighborhood Market,2007,68,9143,West,70024,Walmart Discount Store,68,Elizabeth Smith
+128,Walmart #128,San Francisco,California,Neighborhood Market,2015,62,9840,West,70013,Walmart Supercenter,62,Robert Anderson
+129,Walmart #129,Chicago,Illinois,Neighborhood Market,2002,65,11309,Midwest,70003,Walmart Supercenter,65,Robert Smith
+130,Walmart #130,Dayton,Ohio,Neighborhood Market,2008,68,8044,Midwest,70026,Walmart Supercenter,68,Robert Thomas
+131,Walmart #131,Columbus,Ohio,Neighborhood Market,2005,38,8000,Midwest,40459,Walmart Discount Store,38,John Taylor
+132,Walmart #132,Aurora,Illinois,Neighborhood Market,2002,67,8041,Midwest,70010,Walmart Supercenter,67,Elizabeth Johnson
+133,Walmart #133,Columbus,Ohio,Warehouse,2012,91,12765,Midwest,98947,Walmart Discount Store,91,Michael Taylor
+134,Walmart #134,Durham,North Carolina,Warehouse,2022,97,15416,South,100267,Sam's Club,97,Patricia Taylor
+135,Walmart #135,San Jose,California,Neighborhood Market,2009,41,8000,West,41574,Walmart Supercenter,41,Patricia White
+136,Walmart #136,St. Petersburg,Florida,Warehouse,2013,91,13196,South,100779,Walmart Supercenter,91,Linda Brown
+137,Walmart #137,Charlotte,North Carolina,Neighborhood Market,2014,64,9578,South,70004,Walmart Supercenter,64,Jennifer Smith
+138,Walmart #138,San Diego,California,Neighborhood Market,2009,41,8000,West,44490,Walmart Discount Store,41,Linda Brown
+139,Walmart #139,Irving,Texas,Neighborhood Market,2016,39,8000,South,39988,Walmart Supercenter,39,Mary Taylor
+140,Walmart #140,Warren,Michigan,Warehouse,2015,90,13430,Midwest,101282,Sam's Club,90,Linda Harris
+141,Walmart #141,Ann Arbor,Michigan,Neighborhood Market,2008,57,8000,Midwest,60201,Sam's Club,57,Robert Harris
+142,Walmart #142,Rockford,Illinois,Neighborhood Market,2009,56,8000,Midwest,59276,Walmart Supercenter,56,James Johnson
+143,Walmart #143,Columbus,Ohio,Neighborhood Market,2019,67,8182,Midwest,70007,Walmart Supercenter,67,Linda Harris
+144,Walmart #144,Tallahassee,Florida,Neighborhood Market,2014,62,9074,South,70025,Sam's Club,62,Michael Martin
+145,Walmart #145,Detroit,Michigan,Neighborhood Market,2011,38,8000,Midwest,41634,Sam's Club,38,James Thomas
+146,Walmart #146,Augusta,Georgia,Warehouse,2005,94,13737,South,98599,Sam's Club,94,Elizabeth Anderson
+147,Walmart #147,Chicago,Illinois,Neighborhood Market,2023,64,9624,Midwest,65448,Sam's Club,64,Jennifer White
+148,Walmart #148,Joliet,Illinois,Neighborhood Market,2023,65,9165,Midwest,70011,Walmart Supercenter,65,John Harris
+149,Walmart #149,Lansing,Michigan,Neighborhood Market,2008,38,8000,Midwest,41096,Walmart Supercenter,38,Patricia Jackson
+150,Walmart #150,Durham,North Carolina,Warehouse,2001,94,14152,South,99402,Walmart Discount Store,94,Elizabeth Jackson
+151,Walmart #151,Irving,Texas,Neighborhood Market,2023,55,8000,South,60920,Walmart Supercenter,55,Jennifer White
+152,Walmart #152,Aurora,Illinois,Warehouse,2022,98,15253,Midwest,102143,Walmart Supercenter,98,John White
+153,Walmart #153,Joliet,Illinois,Neighborhood Market,2012,62,8869,Midwest,70003,Walmart Supercenter,62,Jennifer Smith
+154,Walmart #154,Atlanta,Georgia,Neighborhood Market,2014,66,11479,South,70017,Sam's Club,66,James Jackson
+155,Walmart #155,Riverside,California,Neighborhood Market,2000,67,8625,West,70004,Sam's Club,67,Mary Johnson
+156,Walmart #156,Columbus,Ohio,Warehouse,2011,90,14877,Midwest,99867,Walmart Supercenter,90,John Martin
+157,Walmart #157,Rockford,Illinois,Warehouse,2011,93,13502,Midwest,101613,Sam's Club,93,Michael Smith
+158,Walmart #158,Joliet,Illinois,Neighborhood Market,2018,55,8000,Midwest,60378,Walmart Supercenter,55,Jennifer White
+159,Walmart #159,Fort Lauderdale,Florida,Neighborhood Market,2019,39,8000,South,40671,Walmart Supercenter,39,Patricia White
+160,Walmart #160,Savannah,Georgia,Neighborhood Market,2016,63,8000,South,70016,Walmart Supercenter,63,Elizabeth Taylor
+161,Walmart #161,Macon,Georgia,Neighborhood Market,2018,55,8000,South,59948,Walmart Discount Store,55,Elizabeth Brown
+162,Walmart #162,Orlando,Florida,Neighborhood Market,2011,59,8000,South,63305,Walmart Discount Store,59,John Anderson
+163,Walmart #163,Macon,Georgia,Neighborhood Market,2001,53,8000,South,59602,Sam's Club,53,Elizabeth White
+164,Walmart #164,Tampa,Florida,Neighborhood Market,2021,57,8000,South,61626,Walmart Discount Store,57,Robert Anderson
+165,Walmart #165,Augusta,Georgia,Neighborhood Market,2004,63,9232,South,70017,Walmart Supercenter,63,Linda Johnson
+166,Walmart #166,Flint,Michigan,Neighborhood Market,2008,64,8678,Midwest,70020,Walmart Supercenter,64,Elizabeth Thomas
+167,Walmart #167,Winston-Salem,North Carolina,Neighborhood Market,2015,37,8000,South,40415,Walmart Supercenter,37,James Anderson
+168,Walmart #168,St. Petersburg,Florida,Neighborhood Market,2019,64,8060,South,70005,Walmart Supercenter,64,Michael Johnson
+169,Walmart #169,Cleveland,Ohio,Neighborhood Market,2007,62,9468,Midwest,70014,Walmart Discount Store,62,William Anderson
+170,Walmart #170,Garland,Texas,Neighborhood Market,2017,63,8926,South,70015,Walmart Supercenter,63,Jennifer Anderson
+171,Walmart #171,Cincinnati,Ohio,Neighborhood Market,2002,38,8000,Midwest,41386,Walmart Supercenter,38,Jennifer Brown
+172,Walmart #172,Gilbert,Arizona,Neighborhood Market,2005,58,8000,West,61170,Walmart Supercenter,58,Michael White
+173,Walmart #173,Macon,Georgia,Neighborhood Market,2008,38,8000,South,39894,Walmart Supercenter,38,Linda Jackson
+174,Walmart #174,Irvine,California,Neighborhood Market,2015,64,8377,West,70023,Walmart Supercenter,64,William Taylor
+175,Walmart #175,Charlotte,North Carolina,Neighborhood Market,2021,38,8000,South,42287,Walmart Discount Store,38,James Anderson
+176,Walmart #176,Sacramento,California,Neighborhood Market,2004,39,8000,West,41691,Walmart Supercenter,39,Robert Martin
+177,Walmart #177,Raleigh,North Carolina,Neighborhood Market,2008,37,8000,South,39786,Walmart Supercenter,37,Mary Anderson
+178,Walmart #178,Savannah,Georgia,Warehouse,2022,94,15224,South,100354,Sam's Club,94,Michael Anderson
+179,Walmart #179,Chicago,Illinois,Warehouse,2000,100,17707,Midwest,108566,Walmart Discount Store,100,James Smith
+180,Walmart #180,Lansing,Michigan,Neighborhood Market,2001,63,8000,Midwest,70003,Walmart Discount Store,63,Robert Harris
+181,Walmart #181,Riverside,California,Neighborhood Market,2003,36,8000,West,40821,Walmart Supercenter,36,Michael Anderson
+182,Walmart #182,Jacksonville,Florida,Neighborhood Market,2010,63,9217,South,70011,Walmart Supercenter,63,Jennifer Johnson
+183,Walmart #183,Greensboro,North Carolina,Warehouse,2004,91,15261,South,100908,Walmart Supercenter,91,Patricia White
+184,Walmart #184,Lansing,Michigan,Warehouse,2001,92,15393,Midwest,100923,Walmart Discount Store,92,Michael Jackson
+185,Walmart #185,Plano,Texas,Neighborhood Market,2004,37,8000,South,40766,Walmart Supercenter,37,Robert Smith
+186,Walmart #186,Lansing,Michigan,Warehouse,2018,91,13033,Midwest,99085,Sam's Club,91,Elizabeth Taylor
+187,Walmart #187,San Antonio,Texas,Neighborhood Market,2008,41,8000,South,42270,Walmart Discount Store,41,James Smith
+188,Walmart #188,Dayton,Ohio,Neighborhood Market,2017,40,8000,Midwest,41193,Walmart Discount Store,40,Linda Martin
+189,Walmart #189,Allentown,Pennsylvania,Neighborhood Market,2003,37,8000,Northeast,40513,Walmart Supercenter,37,Robert Thomas
+190,Walmart #190,Orlando,Florida,Neighborhood Market,2018,66,10061,South,70012,Walmart Supercenter,66,Michael Anderson
+191,Walmart #191,Columbus,Ohio,Neighborhood Market,2001,68,8000,Midwest,70016,Walmart Supercenter,68,Elizabeth Martin
+192,Walmart #192,Erie,Pennsylvania,Neighborhood Market,2021,66,8158,Northeast,70021,Walmart Supercenter,66,Jennifer Taylor
+193,Walmart #193,Tampa,Florida,Neighborhood Market,2008,55,8963,South,61714,Walmart Discount Store,55,William Martin
+194,Walmart #194,Dayton,Ohio,Warehouse,2009,94,15183,Midwest,101232,Walmart Supercenter,94,Michael Harris
+195,Walmart #195,Dayton,Ohio,Warehouse,2019,96,14824,Midwest,100006,Walmart Supercenter,96,John Smith
+196,Walmart #196,Rockford,Illinois,Neighborhood Market,2002,37,8000,Midwest,39874,Walmart Supercenter,37,Patricia Thomas
+197,Walmart #197,Durham,North Carolina,Warehouse,2022,99,14356,South,102297,Walmart Supercenter,99,Jennifer Thomas
+198,Walmart #198,Garland,Texas,Warehouse,2012,89,12887,South,98992,Walmart Supercenter,89,Patricia White
+199,Walmart #199,Allentown,Pennsylvania,Neighborhood Market,2013,57,8000,Northeast,59463,Sam's Club,57,Mary White
+200,Walmart #200,Durham,North Carolina,Neighborhood Market,2019,56,8000,South,59142,Walmart Supercenter,56,Linda Brown
+201,Walmart Store 201,Rockford,Illinois,Sam's Club,2004,135,23357,Midwest,142599,Walmart Discount Store,135,Linda Smith
+202,Walmart Store 202,Detroit,Michigan,Supercenter,2017,154,37022,Midwest,167116,Walmart Supercenter,154,Elizabeth Taylor
+203,Walmart Store 203,Mesa,Arizona,Sam's Club,2013,137,23014,West,149592,Sam's Club,137,John Harris
+204,Walmart Store 204,Raleigh,North Carolina,Neighborhood Market,2003,45,8000,South,48630,Walmart Supercenter,45,Jennifer Martin
+205,Walmart Store 205,Tampa,Florida,Supercenter,2016,164,35263,South,172369,Walmart Supercenter,164,Robert Brown
+206,Walmart Store 206,Columbus,Ohio,Warehouse,2007,102,15723,Midwest,111628,Sam's Club,102,William Taylor
+207,Walmart Store 207,Anaheim,California,Neighborhood Market,2001,47,8000,West,48227,Walmart Discount Store,47,Linda Brown
+208,Walmart Store 208,Phoenix,Arizona,Sam's Club,2001,130,26308,West,138312,Walmart Discount Store,130,Linda Anderson
+209,Walmart Store 209,Dallas,Texas,Neighborhood Market,2008,44,8000,South,47905,Walmart Supercenter,44,Michael Anderson
+210,Walmart Store 210,Cleveland,Ohio,Supercenter,2006,173,39078,Midwest,182382,Walmart Discount Store,173,Mary Johnson
+211,Walmart Store 211,Jacksonville,Florida,Supercenter,2019,161,33122,South,179144,Sam's Club,161,William Jackson
+212,Walmart Store 212,Plano,Texas,Sam's Club,2001,154,27376,South,162285,Walmart Discount Store,154,Elizabeth Brown
+213,Walmart Store 213,Durham,North Carolina,Neighborhood Market,2005,46,8000,South,50969,Walmart Supercenter,46,Robert Harris
+214,Walmart Store 214,Charlotte,North Carolina,Neighborhood Market,2020,68,9994,South,70937,Walmart Discount Store,68,Jennifer Anderson
+215,Walmart Store 215,Orlando,Florida,Neighborhood Market,2011,36,8000,South,40390,Walmart Supercenter,36,Patricia Thomas
+216,Walmart Store 216,Rockford,Illinois,Supercenter,2006,189,34044,Midwest,199181,Walmart Discount Store,189,Robert Brown
+217,Walmart Store 217,Phoenix,Arizona,Supercenter,2022,167,36085,West,174101,Walmart Supercenter,167,William Thomas
+218,Walmart Store 218,Atlanta,Georgia,Neighborhood Market,2018,52,9220,South,57889,Walmart Supercenter,52,John Taylor
+219,Walmart Store 219,Columbus,Ohio,Supercenter,2016,195,41692,Midwest,216918,Walmart Supercenter,195,James Taylor
+220,Walmart Store 220,Rockford,Illinois,Supercenter,2005,198,34376,Midwest,207325,Walmart Supercenter,198,Elizabeth Thomas
+221,Walmart Store 221,Aurora,Illinois,Neighborhood Market,2002,56,8000,Midwest,61337,Walmart Supercenter,56,James Taylor
+222,Walmart Store 222,Lansing,Michigan,Neighborhood Market,2008,47,8000,Midwest,50615,Walmart Discount Store,47,Linda Martin
+223,Walmart Store 223,Allentown,Pennsylvania,Warehouse,2023,102,16766,Northeast,111667,Walmart Discount Store,102,Patricia Jackson
+224,Walmart Store 224,Tampa,Florida,Sam's Club,2003,124,25039,South,137654,Sam's Club,124,William Martin
+225,Walmart Store 225,Dayton,Ohio,Neighborhood Market,2000,38,8000,Midwest,39359,Walmart Supercenter,38,James Thomas
+226,Walmart Store 226,Dayton,Ohio,Warehouse,2016,123,17385,Midwest,134542,Walmart Supercenter,123,John Thomas
+227,Walmart Store 227,Warren,Michigan,Supercenter,2023,161,33914,Midwest,172429,Walmart Supercenter,161,John Harris
+228,Walmart Store 228,Gilbert,Arizona,Neighborhood Market,2022,51,8000,West,55189,Sam's Club,51,Elizabeth Thomas
+229,Walmart Store 229,Toledo,Ohio,Sam's Club,2023,132,22247,Midwest,137698,Walmart Supercenter,132,Elizabeth Martin
+230,Walmart Store 230,Mesa,Arizona,Neighborhood Market,2014,35,8000,West,36513,Walmart Supercenter,35,Michael Thomas
+231,Walmart Store 231,Chicago,Illinois,Supercenter,2019,213,52515,Midwest,219046,Walmart Supercenter,213,James Smith
+232,Walmart Store 232,Joliet,Illinois,Neighborhood Market,2014,57,8000,Midwest,62256,Walmart Supercenter,57,Patricia Jackson
+233,Walmart Store 233,Joliet,Illinois,Neighborhood Market,2006,45,8000,Midwest,47878,Walmart Supercenter,45,Linda Brown
+234,Walmart Store 234,Los Angeles,California,Supercenter,2022,189,44658,West,211907,Walmart Supercenter,189,Mary White
+235,Walmart Store 235,Philadelphia,Pennsylvania,Neighborhood Market,2012,47,8193,Northeast,51854,Walmart Discount Store,47,Robert Johnson
+236,Walmart Store 236,Fort Worth,Texas,Supercenter,2012,210,41372,South,224162,Sam's Club,210,William Harris
+237,Walmart Store 237,Toledo,Ohio,Sam's Club,2018,153,28606,Midwest,166516,Walmart Supercenter,153,Robert Martin
+238,Walmart Store 238,Jacksonville,Florida,Sam's Club,2007,146,24581,South,149894,Walmart Supercenter,146,Mary Smith
+239,Walmart Store 239,San Francisco,California,Warehouse,2006,129,26058,West,136226,Walmart Supercenter,129,James White
+240,Walmart Store 240,Tampa,Florida,Neighborhood Market,2009,50,8000,South,51801,Walmart Discount Store,50,Linda Martin
+241,Walmart Store 241,Sacramento,California,Supercenter,2004,148,31297,West,162523,Walmart Supercenter,148,Michael Brown
+242,Walmart Store 242,Phoenix,Arizona,Neighborhood Market,2016,59,9047,West,62049,Walmart Supercenter,59,Jennifer Jackson
+243,Walmart Store 243,Pittsburgh,Pennsylvania,Neighborhood Market,2009,39,8000,Northeast,41993,Walmart Supercenter,39,James Smith
+244,Walmart Store 244,Chicago,Illinois,Supercenter,2016,194,45079,Midwest,203410,Walmart Supercenter,194,Elizabeth Martin
+245,Walmart Store 245,Ann Arbor,Michigan,Neighborhood Market,2000,64,8876,Midwest,67302,Walmart Supercenter,64,Linda Taylor
+246,Walmart Store 246,Fort Worth,Texas,Sam's Club,2004,125,19589,South,131059,Walmart Supercenter,125,James Smith
+247,Walmart Store 247,Chandler,Arizona,Neighborhood Market,2002,52,8000,West,57212,Walmart Supercenter,52,James Brown
+248,Walmart Store 248,Cincinnati,Ohio,Supercenter,2000,224,43003,Midwest,231477,Walmart Discount Store,224,Mary Johnson
+249,Walmart Store 249,Tucson,Arizona,Warehouse,2017,105,15259,West,114867,Sam's Club,105,Robert Johnson
+250,Walmart Store 250,Philadelphia,Pennsylvania,Sam's Club,2007,166,35069,Northeast,176129,Walmart Supercenter,166,William Thomas
+251,Walmart Store 251,Scottsdale,Arizona,Supercenter,2018,171,30412,West,175978,Walmart Discount Store,171,James Jackson
+252,Walmart Store 252,Raleigh,North Carolina,Supercenter,2021,174,35564,South,180487,Walmart Supercenter,174,Elizabeth Thomas
+253,Walmart Store 253,Augusta,Georgia,Supercenter,2003,141,26671,South,155931,Walmart Supercenter,141,Linda Johnson
+254,Walmart Store 254,Gilbert,Arizona,Neighborhood Market,2002,61,8000,West,63660,Sam's Club,61,James White
+255,Walmart Store 255,Tempe,Arizona,Warehouse,2011,113,17262,West,123541,Sam's Club,113,Elizabeth Thomas
+256,Walmart Store 256,Warren,Michigan,Supercenter,2015,146,30001,Midwest,159337,Walmart Discount Store,146,William Thomas
+257,Walmart Store 257,Orlando,Florida,Supercenter,2008,152,32521,South,164194,Walmart Supercenter,152,Mary White
+258,Walmart Store 258,Atlanta,Georgia,Neighborhood Market,2010,71,11807,South,77074,Walmart Supercenter,71,Robert Thomas
+259,Walmart Store 259,Ann Arbor,Michigan,Neighborhood Market,2013,38,8000,Midwest,39611,Walmart Supercenter,38,Mary Anderson
+260,Walmart Store 260,Austin,Texas,Warehouse,2016,111,18050,South,118140,Walmart Discount Store,111,Mary White
+261,Walmart Store 261,Ann Arbor,Michigan,Neighborhood Market,2002,57,8000,Midwest,62373,Walmart Discount Store,57,Michael White
+262,Walmart Store 262,Tucson,Arizona,Neighborhood Market,2004,38,8000,West,41915,Walmart Supercenter,38,James Smith
+263,Walmart Store 263,Atlanta,Georgia,Neighborhood Market,2004,73,10979,South,75263,Walmart Discount Store,73,William Smith
+264,Walmart Store 264,Tucson,Arizona,Neighborhood Market,2012,41,8000,West,45819,Walmart Supercenter,41,Linda Harris
+265,Walmart Store 265,Detroit,Michigan,Neighborhood Market,2020,44,8000,Midwest,48937,Walmart Supercenter,44,Jennifer White
+266,Walmart Store 266,Anaheim,California,Sam's Club,2011,159,27547,West,163152,Walmart Supercenter,159,William White
+267,Walmart Store 267,Chicago,Illinois,Neighborhood Market,2015,44,8000,Midwest,46420,Walmart Supercenter,44,James Thomas
+268,Walmart Store 268,Augusta,Georgia,Sam's Club,2000,130,21798,South,137428,Walmart Discount Store,130,John Johnson
+269,Walmart Store 269,Raleigh,North Carolina,Neighborhood Market,2010,46,8000,South,49042,Walmart Supercenter,46,Linda Brown
+270,Walmart Store 270,Detroit,Michigan,Sam's Club,2000,119,23334,Midwest,133413,Walmart Supercenter,119,Jennifer Jackson
+271,Walmart Store 271,Naperville,Illinois,Neighborhood Market,2001,61,8000,Midwest,66810,Walmart Supercenter,61,Linda Martin
+272,Walmart Store 272,St. Petersburg,Florida,Supercenter,2001,177,33769,South,192497,Walmart Supercenter,177,Robert Harris
+273,Walmart Store 273,Augusta,Georgia,Neighborhood Market,2021,40,8000,South,43002,Sam's Club,40,Michael Anderson
+274,Walmart Store 274,Augusta,Georgia,Neighborhood Market,2013,41,8000,South,43974,Walmart Discount Store,41,James Martin
+275,Walmart Store 275,Miami,Florida,Neighborhood Market,2001,68,10094,South,71429,Sam's Club,68,Linda Taylor
+276,Walmart Store 276,Joliet,Illinois,Sam's Club,2023,110,20819,Midwest,124014,Walmart Discount Store,110,James Brown
+277,Walmart Store 277,Arlington,Texas,Sam's Club,2018,166,26420,South,177179,Walmart Discount Store,166,Mary Jackson
+278,Walmart Store 278,Aurora,Illinois,Warehouse,2001,90,12393,Midwest,94255,Walmart Supercenter,90,William Martin
+279,Walmart Store 279,Erie,Pennsylvania,Neighborhood Market,2008,43,8000,Northeast,45434,Walmart Discount Store,43,Linda Anderson
+280,Walmart Store 280,Columbus,Ohio,Neighborhood Market,2000,52,8000,Midwest,58530,Walmart Supercenter,52,Robert Brown
+281,Walmart Store 281,Riverside,California,Sam's Club,2014,162,30172,West,179996,Walmart Supercenter,162,John Smith
+282,Walmart Store 282,Philadelphia,Pennsylvania,Sam's Club,2004,155,37479,Northeast,171584,Walmart Supercenter,155,Robert Smith
+283,Walmart Store 283,Irvine,California,Sam's Club,2007,140,24866,West,152053,Walmart Supercenter,140,Mary Harris
+284,Walmart Store 284,Austin,Texas,Supercenter,2023,161,34450,South,175584,Walmart Supercenter,161,John White
+285,Walmart Store 285,Aurora,Illinois,Supercenter,2013,191,38383,Midwest,208277,Walmart Supercenter,191,Robert Smith
+286,Walmart Store 286,Savannah,Georgia,Neighborhood Market,2019,34,8000,South,37312,Walmart Supercenter,34,William Harris
+287,Walmart Store 287,Winston-Salem,North Carolina,Supercenter,2009,143,30072,South,157341,Sam's Club,143,James Harris
+288,Walmart Store 288,Toledo,Ohio,Supercenter,2022,181,32017,Midwest,192614,Walmart Discount Store,181,Michael Harris
+289,Walmart Store 289,Grand Rapids,Michigan,Neighborhood Market,2013,56,8000,Midwest,61774,Walmart Supercenter,56,Michael White
+290,Walmart Store 290,San Diego,California,Neighborhood Market,2017,55,9209,West,59555,Sam's Club,55,John Martin
+291,Walmart Store 291,Philadelphia,Pennsylvania,Supercenter,2002,157,37835,Northeast,169804,Walmart Discount Store,157,William White
+292,Walmart Store 292,Los Angeles,California,Neighborhood Market,2006,39,8000,West,40450,Sam's Club,39,William Jackson
+293,Walmart Store 293,Greensboro,North Carolina,Warehouse,2005,85,12220,South,90707,Walmart Discount Store,85,Patricia Smith
+294,Walmart Store 294,Macon,Georgia,Supercenter,2010,193,37796,South,204477,Walmart Supercenter,193,William Johnson
+295,Walmart Store 295,Atlanta,Georgia,Supercenter,2008,190,46329,South,200567,Walmart Discount Store,190,William Jackson
+296,Walmart Store 296,Tampa,Florida,Sam's Club,2020,140,30045,South,153665,Walmart Supercenter,140,Michael Brown
+297,Walmart Store 297,Hialeah,Florida,Neighborhood Market,2013,46,8000,South,48495,Walmart Supercenter,46,Michael Martin
+298,Walmart Store 298,Toledo,Ohio,Supercenter,2001,186,32661,Midwest,193249,Walmart Discount Store,186,Mary Anderson
+299,Walmart Store 299,Ann Arbor,Michigan,Supercenter,2022,177,37593,Midwest,191213,Walmart Discount Store,177,Elizabeth Thomas
+300,Walmart Store 300,Atlanta,Georgia,Sam's Club,2023,171,39365,South,185145,Walmart Supercenter,171,James Martin
+301,Walmart Store 301,Houston,Texas,Neighborhood Market,2014,66,11679,South,71429,Walmart Discount Store,66,Patricia Taylor
+302,Walmart Store 302,Macon,Georgia,Supercenter,2001,176,34643,South,193262,Walmart Supercenter,176,Michael Harris
+303,Walmart Store 303,Philadelphia,Pennsylvania,Supercenter,2021,177,38872,Northeast,184863,Walmart Supercenter,177,Robert Anderson
+304,Walmart Store 304,Phoenix,Arizona,Neighborhood Market,2001,59,8747,West,61940,Walmart Discount Store,59,Jennifer Jackson
+305,Walmart Store 305,Glendale,Arizona,Supercenter,2003,191,36616,West,195878,Walmart Discount Store,191,Mary Martin
+306,Walmart Store 306,Macon,Georgia,Supercenter,2017,157,32736,South,171315,Walmart Discount Store,157,Jennifer Brown
+307,Walmart Store 307,Tucson,Arizona,Supercenter,2020,159,29294,West,168443,Walmart Supercenter,159,John Taylor
+308,Walmart Store 308,Austin,Texas,Neighborhood Market,2007,46,8000,South,49330,Sam's Club,46,John Harris
+309,Walmart Store 309,Hialeah,Florida,Neighborhood Market,2023,33,8000,South,36695,Walmart Supercenter,33,Patricia Thomas
+310,Walmart Store 310,Naperville,Illinois,Neighborhood Market,2005,47,8000,Midwest,52594,Walmart Supercenter,47,James Taylor
+311,Walmart Store 311,Mesa,Arizona,Neighborhood Market,2011,53,8000,West,55827,Walmart Supercenter,53,Linda Martin
+312,Walmart Store 312,Lansing,Michigan,Neighborhood Market,2010,36,8000,Midwest,40013,Sam's Club,36,Michael Anderson
+313,Walmart Store 313,Joliet,Illinois,Neighborhood Market,2008,64,8070,Midwest,68234,Walmart Supercenter,64,John Johnson
+314,Walmart Store 314,Charlotte,North Carolina,Neighborhood Market,2000,37,8000,South,39815,Walmart Supercenter,37,James Anderson
+315,Walmart Store 315,Gilbert,Arizona,Supercenter,2001,213,41407,West,222487,Walmart Supercenter,213,Robert Johnson
+316,Walmart Store 316,Grand Rapids,Michigan,Sam's Club,2020,145,24848,Midwest,161703,Walmart Supercenter,145,Robert Jackson
+317,Walmart Store 317,Winston-Salem,North Carolina,Neighborhood Market,2018,47,8000,South,49505,Walmart Discount Store,47,Jennifer Taylor
+318,Walmart Store 318,Reading,Pennsylvania,Neighborhood Market,2002,52,8000,Northeast,55257,Walmart Discount Store,52,Patricia Smith
+319,Walmart Store 319,Plano,Texas,Warehouse,2008,109,16386,South,122850,Walmart Supercenter,109,Elizabeth Taylor
+320,Walmart Store 320,Los Angeles,California,Sam's Club,2016,155,29903,West,158513,Walmart Discount Store,155,Elizabeth Jackson
+321,Walmart Store 321,Savannah,Georgia,Sam's Club,2023,126,21711,South,140617,Walmart Discount Store,126,Jennifer Smith
+322,Walmart Store 322,Ann Arbor,Michigan,Neighborhood Market,2018,61,8000,Midwest,62869,Walmart Supercenter,61,Michael Harris
+323,Walmart Store 323,Long Beach,California,Sam's Club,2003,131,23783,West,148022,Walmart Discount Store,131,Linda Jackson
+324,Walmart Store 324,Allentown,Pennsylvania,Neighborhood Market,2005,59,8000,Northeast,65794,Walmart Supercenter,59,Linda Martin
+325,Walmart Store 325,Rockford,Illinois,Warehouse,2020,94,13634,Midwest,99880,Walmart Discount Store,94,Mary Anderson
+326,Walmart Store 326,Aurora,Illinois,Supercenter,2002,204,37065,Midwest,210315,Sam's Club,204,Michael Harris
+327,Walmart Store 327,Joliet,Illinois,Warehouse,2022,128,18269,Midwest,132147,Sam's Club,128,Mary Brown
+328,Walmart Store 328,Naperville,Illinois,Sam's Club,2008,149,24897,Midwest,162131,Walmart Supercenter,149,Michael Anderson
+329,Walmart Store 329,Glendale,Arizona,Neighborhood Market,2023,62,8222,West,69558,Walmart Supercenter,62,William Jackson
+330,Walmart Store 330,Lansing,Michigan,Warehouse,2000,125,19201,Midwest,131818,Walmart Supercenter,125,Michael Johnson
+331,Walmart Store 331,Augusta,Georgia,Neighborhood Market,2013,38,8000,South,38748,Walmart Supercenter,38,Jennifer Brown
+332,Walmart Store 332,Phoenix,Arizona,Neighborhood Market,2021,60,8657,West,61163,Walmart Supercenter,60,William Johnson
+333,Walmart Store 333,Erie,Pennsylvania,Sam's Club,2005,130,21355,Northeast,142431,Walmart Discount Store,130,John White
+334,Walmart Store 334,Macon,Georgia,Sam's Club,2010,133,22067,South,149851,Walmart Supercenter,133,Mary Martin
+335,Walmart Store 335,Erie,Pennsylvania,Supercenter,2009,197,35103,Northeast,211939,Walmart Discount Store,197,Jennifer Johnson
+336,Walmart Store 336,Columbus,Ohio,Supercenter,2009,169,33829,Midwest,173858,Walmart Supercenter,169,Elizabeth Martin
+337,Walmart Store 337,Mesa,Arizona,Neighborhood Market,2021,62,8166,West,65891,Walmart Discount Store,62,Michael Johnson
+338,Walmart Store 338,Corpus Christi,Texas,Sam's Club,2011,149,28070,South,159603,Walmart Discount Store,149,Jennifer Martin
+339,Walmart Store 339,Dayton,Ohio,Supercenter,2020,210,40288,Midwest,214014,Walmart Supercenter,210,John Jackson
+340,Walmart Store 340,Savannah,Georgia,Supercenter,2010,199,38945,South,218424,Walmart Discount Store,199,Elizabeth Brown
+341,Walmart Store 341,Tallahassee,Florida,Neighborhood Market,2015,63,8000,South,70549,Sam's Club,63,William Martin
+342,Walmart Store 342,Oakland,California,Sam's Club,2015,148,24364,West,159459,Sam's Club,148,Mary Smith
+343,Walmart Store 343,Charlotte,North Carolina,Warehouse,2021,124,19790,South,127961,Walmart Supercenter,124,Robert Taylor
+344,Walmart Store 344,Dallas,Texas,Sam's Club,2011,122,29167,South,133522,Walmart Supercenter,122,James Thomas
+345,Walmart Store 345,Rockford,Illinois,Neighborhood Market,2007,45,8000,Midwest,48485,Walmart Discount Store,45,Patricia Martin
+346,Walmart Store 346,Scottsdale,Arizona,Neighborhood Market,2022,65,8616,West,67264,Walmart Discount Store,65,Michael Harris
+347,Walmart Store 347,Jacksonville,Florida,Supercenter,2002,157,33797,South,174699,Walmart Supercenter,157,Jennifer White
+348,Walmart Store 348,Arlington,Texas,Neighborhood Market,2021,62,8000,South,63915,Walmart Discount Store,62,Elizabeth Martin
+349,Walmart Store 349,Corpus Christi,Texas,Neighborhood Market,2000,40,8000,South,44694,Sam's Club,40,William Johnson
+350,Walmart Store 350,Toledo,Ohio,Supercenter,2000,159,29818,Midwest,178053,Walmart Discount Store,159,Jennifer Thomas
+351,Walmart Store 351,Irving,Texas,Sam's Club,2008,140,23597,South,151818,Walmart Supercenter,140,Linda Martin
+352,Walmart Store 352,St. Petersburg,Florida,Neighborhood Market,2023,40,8000,South,41355,Walmart Supercenter,40,Michael Anderson
+353,Walmart Store 353,Macon,Georgia,Warehouse,2013,105,16727,South,111812,Walmart Supercenter,105,James Smith
+354,Walmart Store 354,Durham,North Carolina,Neighborhood Market,2003,40,8000,South,45315,Walmart Supercenter,40,Linda Harris
+355,Walmart Store 355,Oakland,California,Neighborhood Market,2023,56,8000,West,59708,Sam's Club,56,Michael Thomas
+356,Walmart Store 356,Gilbert,Arizona,Warehouse,2014,123,18577,West,137579,Walmart Discount Store,123,Elizabeth Jackson
+357,Walmart Store 357,Aurora,Illinois,Supercenter,2009,136,25665,Midwest,150412,Walmart Supercenter,136,John Anderson
+358,Walmart Store 358,Philadelphia,Pennsylvania,Supercenter,2017,227,55255,Northeast,235419,Sam's Club,227,John Thomas
+359,Walmart Store 359,Austin,Texas,Supercenter,2019,202,45216,South,214228,Walmart Supercenter,202,Robert Anderson
+360,Walmart Store 360,Flint,Michigan,Neighborhood Market,2001,37,8000,Midwest,38514,Walmart Discount Store,37,Patricia Taylor
+361,Walmart Store 361,Cleveland,Ohio,Neighborhood Market,2014,54,8914,Midwest,60504,Walmart Supercenter,54,Elizabeth Anderson
+362,Walmart Store 362,Irving,Texas,Warehouse,2007,99,16603,South,109614,Walmart Supercenter,99,John Johnson
+363,Walmart Store 363,Durham,North Carolina,Supercenter,2008,170,30545,South,173588,Sam's Club,170,Mary Jackson
+364,Walmart Store 364,Garland,Texas,Supercenter,2007,184,31637,South,188752,Walmart Supercenter,184,John Smith
+365,Walmart Store 365,Tallahassee,Florida,Neighborhood Market,2010,39,8000,South,41713,Walmart Discount Store,39,Elizabeth Anderson
+366,Walmart Store 366,Fort Worth,Texas,Sam's Club,2004,128,22481,South,132382,Walmart Supercenter,128,Jennifer Martin
+367,Walmart Store 367,Tucson,Arizona,Supercenter,2007,203,40420,West,213731,Walmart Discount Store,203,Robert Brown
+368,Walmart Store 368,Atlanta,Georgia,Warehouse,2017,123,22204,South,126161,Walmart Supercenter,123,Jennifer Smith
+369,Walmart Store 369,Augusta,Georgia,Warehouse,2005,108,15842,South,115508,Walmart Supercenter,108,Michael Brown
+370,Walmart Store 370,Akron,Ohio,Neighborhood Market,2018,64,8574,Midwest,67874,Walmart Discount Store,64,Jennifer Brown
+371,Walmart Store 371,Irvine,California,Neighborhood Market,2006,65,8615,West,69729,Walmart Discount Store,65,Patricia Taylor
+372,Walmart Store 372,Atlanta,Georgia,Neighborhood Market,2011,50,8989,South,56613,Walmart Supercenter,50,Michael Johnson
+373,Walmart Store 373,Macon,Georgia,Supercenter,2006,167,33390,South,177606,Walmart Supercenter,167,Robert Anderson
+374,Walmart Store 374,Tucson,Arizona,Neighborhood Market,2023,65,9047,West,69911,Walmart Discount Store,65,William Thomas
+375,Walmart Store 375,Tempe,Arizona,Neighborhood Market,2002,56,8000,West,60475,Walmart Discount Store,56,John Taylor
+376,Walmart Store 376,San Jose,California,Neighborhood Market,2003,46,8000,West,50663,Walmart Supercenter,46,Jennifer Martin
+377,Walmart Store 377,Warren,Michigan,Neighborhood Market,2010,46,8000,Midwest,49729,Sam's Club,46,Jennifer Harris
+378,Walmart Store 378,Phoenix,Arizona,Warehouse,2015,139,23809,West,143804,Walmart Discount Store,139,Robert Harris
+379,Walmart Store 379,Gilbert,Arizona,Neighborhood Market,2008,55,8000,West,59711,Walmart Supercenter,55,Jennifer Taylor
+380,Walmart Store 380,Los Angeles,California,Supercenter,2014,187,48456,West,208337,Walmart Discount Store,187,Linda Jackson
+381,Walmart Store 381,Toledo,Ohio,Neighborhood Market,2004,55,8000,Midwest,58502,Walmart Supercenter,55,Elizabeth Brown
+382,Walmart Store 382,Naperville,Illinois,Sam's Club,2007,163,26289,Midwest,168029,Walmart Supercenter,163,Mary Martin
+383,Walmart Store 383,Macon,Georgia,Supercenter,2014,191,39156,South,205127,Sam's Club,191,Jennifer Anderson
+384,Walmart Store 384,St. Petersburg,Florida,Sam's Club,2007,139,23638,South,151252,Walmart Supercenter,139,Robert White
+385,Walmart Store 385,Durham,North Carolina,Warehouse,2005,106,15758,South,114020,Walmart Supercenter,106,Robert Anderson
+386,Walmart Store 386,Cleveland,Ohio,Supercenter,2007,197,44236,Midwest,216921,Walmart Supercenter,197,Linda Jackson
+387,Walmart Store 387,Chicago,Illinois,Supercenter,2012,226,48008,Midwest,231186,Walmart Supercenter,226,William Brown
+388,Walmart Store 388,El Paso,Texas,Supercenter,2015,174,31699,South,190180,Walmart Supercenter,174,Robert Taylor
+389,Walmart Store 389,Columbus,Ohio,Sam's Club,2019,162,25281,Midwest,170160,Walmart Supercenter,162,John Anderson
+390,Walmart Store 390,Chicago,Illinois,Neighborhood Market,2004,55,8681,Midwest,59459,Walmart Supercenter,55,Linda Smith
+391,Walmart Store 391,Tucson,Arizona,Sam's Club,2023,120,19675,West,124632,Walmart Supercenter,120,Jennifer Thomas
+392,Walmart Store 392,Gilbert,Arizona,Sam's Club,2018,163,27416,West,168843,Walmart Supercenter,163,Michael Smith
+393,Walmart Store 393,Dallas,Texas,Sam's Club,2020,155,35230,South,164062,Walmart Supercenter,155,John Martin
+394,Walmart Store 394,Raleigh,North Carolina,Neighborhood Market,2019,45,8000,South,50099,Walmart Supercenter,45,Patricia Jackson
+395,Walmart Store 395,Naperville,Illinois,Supercenter,2013,145,30927,Midwest,157320,Walmart Supercenter,145,William Taylor
+396,Walmart Store 396,Dayton,Ohio,Warehouse,2012,87,13214,Midwest,96619,Sam's Club,87,Mary Thomas
+397,Walmart Store 397,Savannah,Georgia,Neighborhood Market,2005,34,8000,South,36533,Sam's Club,34,John Taylor
+398,Walmart Store 398,Flint,Michigan,Neighborhood Market,2006,46,8000,Midwest,50868,Walmart Supercenter,46,Elizabeth Jackson
+399,Walmart Store 399,Pittsburgh,Pennsylvania,Sam's Club,2000,121,21897,Northeast,135570,Walmart Supercenter,121,Jennifer Martin
+400,Walmart Store 400,Erie,Pennsylvania,Supercenter,2009,155,32100,Northeast,163081,Walmart Supercenter,155,Patricia Anderson
+401,Walmart Store 401,Tallahassee,Florida,Neighborhood Market,2014,43,8000,South,46476,Walmart Supercenter,43,James Jackson
+402,Walmart Store 402,Aurora,Illinois,Warehouse,2013,99,15963,Midwest,103735,Walmart Discount Store,99,Mary Taylor
+403,Walmart Store 403,Warren,Michigan,Neighborhood Market,2022,41,8000,Midwest,46285,Walmart Discount Store,41,James White
+404,Walmart Store 404,Scottsdale,Arizona,Neighborhood Market,2000,61,8000,West,63777,Sam's Club,61,Patricia Martin
+405,Walmart Store 405,Joliet,Illinois,Neighborhood Market,2013,39,8000,Midwest,40179,Walmart Supercenter,39,William Anderson
+406,Walmart Store 406,Fort Worth,Texas,Supercenter,2010,176,35104,South,197209,Walmart Supercenter,176,Mary Harris
+407,Walmart Store 407,Dayton,Ohio,Sam's Club,2002,143,25488,Midwest,150612,Walmart Discount Store,143,James Thomas
+408,Walmart Store 408,Irvine,California,Supercenter,2019,164,31165,West,169722,Walmart Supercenter,164,James Harris
+409,Walmart Store 409,Sacramento,California,Neighborhood Market,2000,43,8000,West,47694,Sam's Club,43,Linda Martin
+410,Walmart Store 410,Mesa,Arizona,Neighborhood Market,2006,35,8000,West,39795,Walmart Supercenter,35,Jennifer Taylor
+411,Walmart Store 411,Aurora,Illinois,Sam's Club,2021,112,19240,Midwest,123182,Sam's Club,112,Patricia Taylor
+412,Walmart Store 412,Macon,Georgia,Neighborhood Market,2016,54,8000,South,58536,Walmart Supercenter,54,Linda Smith
+413,Walmart Store 413,Cleveland,Ohio,Warehouse,2017,105,18079,Midwest,113714,Walmart Supercenter,105,Linda Johnson
+414,Walmart Store 414,Hialeah,Florida,Supercenter,2016,136,28944,South,153027,Walmart Supercenter,136,Linda Harris
+415,Walmart Store 415,Cincinnati,Ohio,Neighborhood Market,2011,55,8000,Midwest,56301,Walmart Supercenter,55,Robert Anderson
+416,Walmart Store 416,Greensboro,North Carolina,Neighborhood Market,2015,57,8000,South,60076,Sam's Club,57,Patricia Thomas
+417,Walmart Store 417,Chicago,Illinois,Neighborhood Market,2002,61,9574,Midwest,62860,Walmart Discount Store,61,Elizabeth Brown
+418,Walmart Store 418,Cleveland,Ohio,Neighborhood Market,2023,37,8000,Midwest,39411,Walmart Supercenter,37,Michael Martin
+419,Walmart Store 419,Durham,North Carolina,Warehouse,2008,116,15822,South,122056,Walmart Supercenter,116,James Taylor
+420,Walmart Store 420,Lansing,Michigan,Supercenter,2011,193,35770,Midwest,208982,Sam's Club,193,Mary Brown
+421,Walmart Store 421,Raleigh,North Carolina,Warehouse,2009,123,19329,South,137293,Walmart Supercenter,123,Elizabeth Johnson
+422,Walmart Store 422,Pittsburgh,Pennsylvania,Sam's Club,2009,118,19350,Northeast,121320,Sam's Club,118,Patricia Johnson
+423,Walmart Store 423,Tampa,Florida,Warehouse,2013,124,20819,South,126612,Walmart Discount Store,124,William Smith
+424,Walmart Store 424,Allentown,Pennsylvania,Neighborhood Market,2003,61,8000,Northeast,69037,Walmart Discount Store,61,Jennifer Taylor
+425,Walmart Store 425,Bakersfield,California,Warehouse,2013,129,20123,West,134421,Walmart Discount Store,129,Linda Harris
+426,Walmart Store 426,Augusta,Georgia,Neighborhood Market,2020,56,8000,South,59991,Walmart Supercenter,56,Patricia Harris
+427,Walmart Store 427,Aurora,Illinois,Neighborhood Market,2014,36,8000,Midwest,39358,Walmart Supercenter,36,Elizabeth Smith
+428,Walmart Store 428,Raleigh,North Carolina,Neighborhood Market,2009,66,8742,South,68535,Walmart Supercenter,66,Mary Johnson
+429,Walmart Store 429,Fort Lauderdale,Florida,Supercenter,2017,140,26676,South,153475,Walmart Discount Store,140,Linda Brown
+430,Walmart Store 430,Chandler,Arizona,Neighborhood Market,2014,43,8000,West,46896,Walmart Supercenter,43,Linda Jackson
+431,Walmart Store 431,Fresno,California,Supercenter,2013,169,34059,West,172663,Walmart Supercenter,169,Patricia Harris
+432,Walmart Store 432,Winston-Salem,North Carolina,Neighborhood Market,2022,57,8000,South,61888,Walmart Discount Store,57,Linda Martin
+433,Walmart Store 433,Houston,Texas,Sam's Club,2004,160,35350,South,163315,Sam's Club,160,Elizabeth Jackson
+434,Walmart Store 434,St. Petersburg,Florida,Neighborhood Market,2004,51,8000,South,57574,Walmart Supercenter,51,Elizabeth Anderson
+435,Walmart Store 435,Rockford,Illinois,Neighborhood Market,2015,61,8000,Midwest,68401,Walmart Supercenter,61,Jennifer Johnson
+436,Walmart Store 436,Houston,Texas,Supercenter,2016,224,57555,South,236747,Walmart Supercenter,224,Patricia Taylor
+437,Walmart Store 437,Atlanta,Georgia,Supercenter,2011,210,53531,South,221692,Sam's Club,210,John Smith
+438,Walmart Store 438,Tampa,Florida,Supercenter,2023,208,42661,South,222196,Walmart Discount Store,208,John Jackson
+439,Walmart Store 439,Warren,Michigan,Neighborhood Market,2016,35,8000,Midwest,36325,Walmart Supercenter,35,Michael Johnson
+440,Walmart Store 440,Plano,Texas,Sam's Club,2004,167,28893,South,176435,Sam's Club,167,Mary Thomas
+441,Walmart Store 441,Raleigh,North Carolina,Neighborhood Market,2003,50,8000,South,53769,Walmart Supercenter,50,John Taylor
+442,Walmart Store 442,Chicago,Illinois,Sam's Club,2000,145,29474,Midwest,159882,Walmart Supercenter,145,Elizabeth Taylor
+443,Walmart Store 443,Tucson,Arizona,Supercenter,2010,191,36635,West,214315,Walmart Supercenter,191,William White
+444,Walmart Store 444,Flint,Michigan,Sam's Club,2008,144,23839,Midwest,157237,Walmart Discount Store,144,James Johnson
+445,Walmart Store 445,Scottsdale,Arizona,Supercenter,2004,156,33022,West,173499,Walmart Supercenter,156,Michael Smith
+446,Walmart Store 446,Charlotte,North Carolina,Neighborhood Market,2003,38,8000,South,40262,Sam's Club,38,Elizabeth Johnson
+447,Walmart Store 447,Toledo,Ohio,Supercenter,2002,186,35423,Midwest,193910,Walmart Discount Store,186,Jennifer Martin
+448,Walmart Store 448,San Francisco,California,Sam's Club,2004,135,30004,West,140415,Walmart Supercenter,135,William Martin
+449,Walmart Store 449,St. Petersburg,Florida,Supercenter,2021,156,27923,South,162013,Walmart Discount Store,156,Elizabeth Anderson
+450,Walmart Store 450,Naperville,Illinois,Supercenter,2018,202,39137,Midwest,219254,Walmart Supercenter,202,James Anderson
+451,Walmart Store 451,Dayton,Ohio,Supercenter,2006,204,40231,Midwest,208268,Walmart Supercenter,204,Jennifer Anderson
+452,Walmart Store 452,Orlando,Florida,Neighborhood Market,2006,54,8000,South,57889,Walmart Supercenter,54,Mary Johnson
+453,Walmart Store 453,Savannah,Georgia,Warehouse,2013,118,16649,South,123219,Walmart Supercenter,118,James Johnson
+454,Walmart Store 454,Columbus,Ohio,Neighborhood Market,2001,64,8000,Midwest,65792,Walmart Discount Store,64,Jennifer Anderson
+455,Walmart Store 455,Charlotte,North Carolina,Supercenter,2009,154,35183,South,160498,Walmart Discount Store,154,Elizabeth Martin
+456,Walmart Store 456,Chandler,Arizona,Sam's Club,2001,138,24629,West,144461,Sam's Club,138,William Brown
+457,Walmart Store 457,Orlando,Florida,Neighborhood Market,2022,66,9084,South,69214,Walmart Discount Store,66,Mary Thomas
+458,Walmart Store 458,Grand Rapids,Michigan,Neighborhood Market,2023,63,8000,Midwest,66137,Sam's Club,63,William Smith
+459,Walmart Store 459,Chicago,Illinois,Neighborhood Market,2013,54,8398,Midwest,55987,Walmart Discount Store,54,Elizabeth Johnson
+460,Walmart Store 460,Fort Worth,Texas,Warehouse,2001,96,13613,South,105604,Walmart Supercenter,96,Mary Brown
+461,Walmart Store 461,Aurora,Illinois,Neighborhood Market,2013,42,8000,Midwest,44184,Walmart Supercenter,42,Robert Martin
+462,Walmart Store 462,Charlotte,North Carolina,Warehouse,2014,96,15520,South,104627,Walmart Supercenter,96,Linda Jackson
+463,Walmart Store 463,Grand Rapids,Michigan,Sam's Club,2019,142,25870,Midwest,150674,Walmart Discount Store,142,John Smith
+464,Walmart Store 464,Garland,Texas,Warehouse,2005,93,14512,South,101790,Walmart Supercenter,93,William Taylor
+465,Walmart Store 465,Joliet,Illinois,Warehouse,2002,123,16567,Midwest,127456,Walmart Supercenter,123,Linda Johnson
+466,Walmart Store 466,San Francisco,California,Sam's Club,2004,162,32753,West,174488,Walmart Discount Store,162,Jennifer Harris
+467,Walmart Store 467,Raleigh,North Carolina,Neighborhood Market,2019,40,8000,South,41290,Walmart Discount Store,40,Mary Jackson
+468,Walmart Store 468,Tallahassee,Florida,Neighborhood Market,2009,48,8000,South,52760,Walmart Discount Store,48,James Thomas
+469,Walmart Store 469,Phoenix,Arizona,Neighborhood Market,2004,66,11311,West,69401,Walmart Supercenter,66,Robert Jackson
+470,Walmart Store 470,Macon,Georgia,Sam's Club,2020,134,23421,South,145541,Sam's Club,134,William Thomas
+471,Walmart Store 471,Columbus,Ohio,Neighborhood Market,2010,41,8000,Midwest,43912,Walmart Discount Store,41,James Martin
+472,Walmart Store 472,Long Beach,California,Supercenter,2004,174,35664,West,187008,Walmart Discount Store,174,James Harris
+473,Walmart Store 473,Macon,Georgia,Sam's Club,2023,158,26928,South,176468,Walmart Supercenter,158,Elizabeth Martin
+474,Walmart Store 474,Macon,Georgia,Supercenter,2011,178,36290,South,186751,Walmart Supercenter,178,John Thomas
+475,Walmart Store 475,Pittsburgh,Pennsylvania,Neighborhood Market,2008,56,8000,Northeast,58111,Walmart Supercenter,56,Patricia Johnson
+476,Walmart Store 476,Ann Arbor,Michigan,Sam's Club,2003,128,23503,Midwest,140638,Walmart Supercenter,128,Mary Taylor
+477,Walmart Store 477,Aurora,Illinois,Neighborhood Market,2020,59,8597,Midwest,66147,Walmart Supercenter,59,John Brown
+478,Walmart Store 478,St. Petersburg,Florida,Neighborhood Market,2007,55,8000,South,61614,Walmart Supercenter,55,John Martin
+479,Walmart Store 479,Mesa,Arizona,Neighborhood Market,2012,61,8361,West,64349,Walmart Discount Store,61,Jennifer Harris
+480,Walmart Store 480,Raleigh,North Carolina,Neighborhood Market,2019,63,8000,South,64977,Walmart Supercenter,63,James Harris
+481,Walmart Store 481,Allentown,Pennsylvania,Sam's Club,2016,155,29635,Northeast,172889,Walmart Supercenter,155,Patricia Brown
+482,Walmart Store 482,Miami,Florida,Warehouse,2007,133,26538,South,147463,Walmart Supercenter,133,Jennifer Anderson
+483,Walmart Store 483,Anaheim,California,Warehouse,2023,99,15713,West,103375,Walmart Discount Store,99,Patricia Brown
+484,Walmart Store 484,Winston-Salem,North Carolina,Supercenter,2007,178,33666,South,192994,Walmart Supercenter,178,Mary Jackson
+485,Walmart Store 485,Bakersfield,California,Neighborhood Market,2002,63,8529,West,65009,Walmart Supercenter,63,James Martin
+486,Walmart Store 486,Dallas,Texas,Sam's Club,2020,144,30186,South,151104,Walmart Supercenter,144,Patricia Brown
+487,Walmart Store 487,Fort Lauderdale,Florida,Supercenter,2004,196,34049,South,204118,Walmart Discount Store,196,Jennifer White
+488,Walmart Store 488,Chandler,Arizona,Supercenter,2021,174,29698,West,178812,Walmart Discount Store,174,Elizabeth White
+489,Walmart Store 489,Augusta,Georgia,Neighborhood Market,2018,51,8000,South,55254,Walmart Supercenter,51,John Anderson
+490,Walmart Store 490,Miami,Florida,Sam's Club,2007,159,37448,South,176324,Walmart Discount Store,159,Patricia Jackson
+491,Walmart Store 491,Ann Arbor,Michigan,Neighborhood Market,2011,61,8000,Midwest,67787,Walmart Supercenter,61,Michael Smith
+492,Walmart Store 492,Durham,North Carolina,Neighborhood Market,2003,36,8000,South,36942,Walmart Supercenter,36,Mary Smith
+493,Walmart Store 493,Rockford,Illinois,Neighborhood Market,2017,42,8000,Midwest,44687,Walmart Discount Store,42,James White
+494,Walmart Store 494,San Jose,California,Supercenter,2022,173,36986,West,190776,Walmart Discount Store,173,Michael Johnson
+495,Walmart Store 495,Raleigh,North Carolina,Neighborhood Market,2021,42,8000,South,43218,Walmart Discount Store,42,Linda Johnson
+496,Walmart Store 496,Toledo,Ohio,Sam's Club,2012,135,25483,Midwest,149234,Walmart Discount Store,135,Michael Brown
+497,Walmart Store 497,Charlotte,North Carolina,Supercenter,2002,183,40280,South,203446,Walmart Supercenter,183,Linda Jackson
+498,Walmart Store 498,Glendale,Arizona,Neighborhood Market,2006,61,8000,West,68256,Walmart Supercenter,61,Patricia Brown
+499,Walmart Store 499,Fort Lauderdale,Florida,Supercenter,2023,189,38209,South,211529,Walmart Supercenter,189,William Brown
+500,Walmart Store 500,Ann Arbor,Michigan,Sam's Club,2008,147,23657,Midwest,159306,Sam's Club,147,Robert Johnson
+501,Walmart Store 501,Warren,Michigan,Supercenter,2013,181,34813,Midwest,196585,Walmart Supercenter,181,Michael Anderson
+502,Walmart Store 502,Savannah,Georgia,Neighborhood Market,2001,63,8000,South,65155,Walmart Supercenter,63,John Harris
+503,Walmart Store 503,Greensboro,North Carolina,Neighborhood Market,2011,56,8000,South,61834,Walmart Supercenter,56,John Thomas
+504,Walmart Store 504,Columbus,Ohio,Neighborhood Market,2022,51,8000,Midwest,56472,Walmart Supercenter,51,John Anderson
+505,Walmart Store 505,Flint,Michigan,Warehouse,2012,91,13777,Midwest,96513,Walmart Supercenter,91,James Harris
+506,Walmart Store 506,Glendale,Arizona,Warehouse,2007,120,18949,West,130056,Sam's Club,120,James Jackson
+507,Walmart Store 507,Joliet,Illinois,Supercenter,2004,154,29659,Midwest,159756,Sam's Club,154,John Brown
+508,Walmart Store 508,Joliet,Illinois,Supercenter,2019,187,39681,Midwest,208521,Walmart Supercenter,187,James Thomas
+509,Walmart Store 509,Joliet,Illinois,Supercenter,2016,142,26828,Midwest,159432,Walmart Supercenter,142,Elizabeth Thomas
+510,Walmart Store 510,Winston-Salem,North Carolina,Neighborhood Market,2011,42,8000,South,44387,Walmart Discount Store,42,John Harris
+511,Walmart Store 511,Cleveland,Ohio,Warehouse,2021,92,16420,Midwest,100416,Sam's Club,92,Michael Smith
+512,Walmart Store 512,Greensboro,North Carolina,Neighborhood Market,2016,41,8000,South,44025,Sam's Club,41,Robert White
+513,Walmart Store 513,San Antonio,Texas,Supercenter,2006,146,32852,South,157604,Walmart Supercenter,146,Patricia Anderson
+514,Walmart Store 514,Durham,North Carolina,Neighborhood Market,2016,63,8000,South,65885,Walmart Discount Store,63,Patricia Johnson
+515,Walmart Store 515,Durham,North Carolina,Neighborhood Market,2003,45,8000,South,49202,Walmart Discount Store,45,Robert Martin
+516,Walmart Store 516,San Francisco,California,Neighborhood Market,2000,66,10958,West,67881,Walmart Supercenter,66,Patricia Anderson
+517,Walmart Store 517,San Diego,California,Warehouse,2022,113,22369,West,124605,Walmart Discount Store,113,Patricia Johnson
+518,Walmart Store 518,Garland,Texas,Sam's Club,2012,121,19985,South,132843,Walmart Discount Store,121,Patricia Brown
+519,Walmart Store 519,Chandler,Arizona,Warehouse,2002,116,19006,West,126371,Walmart Supercenter,116,Elizabeth Harris
+520,Walmart Store 520,Plano,Texas,Neighborhood Market,2008,52,8000,South,58063,Walmart Supercenter,52,Jennifer Jackson
+521,Walmart Store 521,San Jose,California,Sam's Club,2001,155,33565,West,173964,Walmart Supercenter,155,James Martin
+522,Walmart Store 522,Fort Lauderdale,Florida,Neighborhood Market,2010,67,9003,South,70436,Walmart Supercenter,67,Linda Thomas
+523,Walmart Store 523,Aurora,Illinois,Neighborhood Market,2008,40,8000,Midwest,41689,Walmart Supercenter,40,Patricia Thomas
+524,Walmart Store 524,Aurora,Illinois,Neighborhood Market,2019,47,8000,Midwest,52918,Walmart Supercenter,47,Mary Thomas
+525,Walmart Store 525,Jacksonville,Florida,Neighborhood Market,2002,59,8038,South,65638,Walmart Supercenter,59,John Thomas
+526,Walmart Store 526,Greensboro,North Carolina,Supercenter,2008,174,34945,South,183248,Walmart Discount Store,174,Jennifer Thomas
+527,Walmart Store 527,Long Beach,California,Sam's Club,2018,128,23171,West,139472,Walmart Supercenter,128,Robert Johnson
+528,Walmart Store 528,Bakersfield,California,Neighborhood Market,2006,37,8000,West,41065,Walmart Discount Store,37,William Brown
+529,Walmart Store 529,Reading,Pennsylvania,Neighborhood Market,2007,41,8000,Northeast,43679,Sam's Club,41,James Johnson
+530,Walmart Store 530,Scottsdale,Arizona,Neighborhood Market,2021,56,8000,West,57735,Walmart Discount Store,56,Linda White
+531,Walmart Store 531,Savannah,Georgia,Sam's Club,2017,121,20592,South,134752,Walmart Supercenter,121,John Anderson
+532,Walmart Store 532,Garland,Texas,Neighborhood Market,2023,64,8042,South,67299,Walmart Supercenter,64,James Smith
+533,Walmart Store 533,St. Petersburg,Florida,Warehouse,2012,110,17357,South,117180,Sam's Club,110,Patricia White
+534,Walmart Store 534,Riverside,California,Neighborhood Market,2013,57,8000,West,59576,Walmart Supercenter,57,James Brown
+535,Walmart Store 535,Charlotte,North Carolina,Neighborhood Market,2014,50,8212,South,55774,Walmart Discount Store,50,Michael Smith
+536,Walmart Store 536,Hialeah,Florida,Neighborhood Market,2004,56,8000,South,59318,Walmart Discount Store,56,Robert Martin
+537,Walmart Store 537,Long Beach,California,Neighborhood Market,2004,34,8000,West,37940,Walmart Supercenter,34,John Smith
+538,Walmart Store 538,Anaheim,California,Sam's Club,2019,128,21194,West,135825,Walmart Supercenter,128,Robert Johnson
+539,Walmart Store 539,Irvine,California,Supercenter,2012,181,38672,West,200480,Sam's Club,181,Michael Harris
+540,Walmart Store 540,Arlington,Texas,Sam's Club,2012,162,29094,South,177499,Walmart Supercenter,162,Robert Martin
+541,Walmart Store 541,Tallahassee,Florida,Neighborhood Market,2000,53,8000,South,54416,Walmart Discount Store,53,Jennifer Jackson
+542,Walmart Store 542,Aurora,Illinois,Neighborhood Market,2009,61,8000,Midwest,63969,Walmart Supercenter,61,Robert Jackson
+543,Walmart Store 543,El Paso,Texas,Neighborhood Market,2017,61,8258,South,67301,Walmart Discount Store,61,Jennifer Thomas
+544,Walmart Store 544,Aurora,Illinois,Neighborhood Market,2014,46,8000,Midwest,48592,Sam's Club,46,Robert Brown
+545,Walmart Store 545,Irving,Texas,Supercenter,2019,172,30455,South,182419,Walmart Discount Store,172,Jennifer Thomas
+546,Walmart Store 546,Dayton,Ohio,Neighborhood Market,2022,50,8000,Midwest,55117,Walmart Discount Store,50,Patricia Harris
+547,Walmart Store 547,Joliet,Illinois,Neighborhood Market,2008,33,8000,Midwest,34560,Walmart Supercenter,33,Linda Jackson
+548,Walmart Store 548,Jacksonville,Florida,Neighborhood Market,2004,63,8000,South,65134,Sam's Club,63,Linda Thomas
+549,Walmart Store 549,Reading,Pennsylvania,Supercenter,2022,209,39056,Northeast,215639,Walmart Supercenter,209,Jennifer Jackson
+550,Walmart Store 550,Reading,Pennsylvania,Sam's Club,2009,138,23051,Northeast,150576,Sam's Club,138,James Brown
+551,Walmart Store 551,Gilbert,Arizona,Warehouse,2006,117,16838,West,129045,Sam's Club,117,Robert Martin
+552,Walmart Store 552,Riverside,California,Sam's Club,2010,163,29146,West,169408,Sam's Club,163,William Brown
+553,Walmart Store 553,Allentown,Pennsylvania,Neighborhood Market,2014,40,8000,Northeast,41499,Walmart Supercenter,40,Jennifer Brown
+554,Walmart Store 554,Flint,Michigan,Neighborhood Market,2016,50,8000,Midwest,52048,Walmart Discount Store,50,James Johnson
+555,Walmart Store 555,Columbus,Ohio,Sam's Club,2013,141,25327,Midwest,151465,Walmart Supercenter,141,Jennifer Johnson
+556,Walmart Store 556,Rockford,Illinois,Neighborhood Market,2005,61,8018,Midwest,66398,Walmart Supercenter,61,Robert Anderson
+557,Walmart Store 557,Aurora,Illinois,Neighborhood Market,2005,62,8000,Midwest,65468,Walmart Supercenter,62,Michael Johnson
+558,Walmart Store 558,Aurora,Illinois,Neighborhood Market,2001,63,8893,Midwest,68857,Walmart Supercenter,63,Linda Martin
+559,Walmart Store 559,Tempe,Arizona,Supercenter,2011,187,35305,West,203860,Walmart Supercenter,187,Mary Taylor
+560,Walmart Store 560,Rockford,Illinois,Supercenter,2020,156,31570,Midwest,159846,Walmart Discount Store,156,Jennifer Jackson
+561,Walmart Store 561,Columbus,Ohio,Sam's Club,2014,121,20086,Midwest,123624,Sam's Club,121,Jennifer Jackson
+562,Walmart Store 562,Dallas,Texas,Supercenter,2003,201,53306,South,221530,Sam's Club,201,Elizabeth Jackson
+563,Walmart Store 563,Columbus,Ohio,Sam's Club,2002,124,19158,Midwest,128394,Walmart Supercenter,124,Elizabeth Smith
+564,Walmart Store 564,Mesa,Arizona,Sam's Club,2018,134,24846,West,144640,Walmart Discount Store,134,Patricia Thomas
+565,Walmart Store 565,Ann Arbor,Michigan,Sam's Club,2022,151,27351,Midwest,162023,Sam's Club,151,Michael White
+566,Walmart Store 566,Erie,Pennsylvania,Neighborhood Market,2009,62,8000,Northeast,64509,Walmart Discount Store,62,Robert Anderson
+567,Walmart Store 567,Garland,Texas,Neighborhood Market,2000,35,8000,South,38460,Walmart Supercenter,35,James Martin
+568,Walmart Store 568,Phoenix,Arizona,Neighborhood Market,2004,65,10042,West,70297,Sam's Club,65,John White
+569,Walmart Store 569,Durham,North Carolina,Sam's Club,2017,152,26023,South,161398,Walmart Discount Store,152,William Anderson
+570,Walmart Store 570,Hialeah,Florida,Sam's Club,2019,135,25364,South,145204,Walmart Supercenter,135,Patricia Taylor
+571,Walmart Store 571,Reading,Pennsylvania,Supercenter,2014,175,31486,Northeast,184022,Walmart Supercenter,175,Robert Martin
+572,Walmart Store 572,Miami,Florida,Neighborhood Market,2009,39,8000,South,40778,Walmart Supercenter,39,Patricia Jackson
+573,Walmart Store 573,Philadelphia,Pennsylvania,Sam's Club,2015,131,26237,Northeast,140374,Walmart Discount Store,131,John Thomas
+574,Walmart Store 574,Chandler,Arizona,Sam's Club,2020,161,26779,West,169789,Walmart Discount Store,161,Robert Thomas
+575,Walmart Store 575,Cincinnati,Ohio,Supercenter,2009,210,48342,Midwest,227904,Walmart Supercenter,210,Michael Anderson
+576,Walmart Store 576,Chandler,Arizona,Neighborhood Market,2012,63,8985,West,68725,Sam's Club,63,Jennifer Johnson
+577,Walmart Store 577,Naperville,Illinois,Sam's Club,2000,135,23961,Midwest,150443,Walmart Supercenter,135,Mary Thomas
+578,Walmart Store 578,Rockford,Illinois,Supercenter,2015,165,32159,Midwest,179494,Sam's Club,165,James Taylor
+579,Walmart Store 579,Joliet,Illinois,Neighborhood Market,2004,54,8000,Midwest,57516,Walmart Supercenter,54,Linda Harris
+580,Walmart Store 580,Rockford,Illinois,Sam's Club,2002,143,25941,Midwest,157161,Walmart Discount Store,143,James Martin
+581,Walmart Store 581,Greensboro,North Carolina,Sam's Club,2019,132,23347,South,137766,Walmart Discount Store,132,Robert Harris
+582,Walmart Store 582,Sacramento,California,Sam's Club,2021,117,22402,West,131891,Walmart Discount Store,117,Linda Johnson
+583,Walmart Store 583,Pittsburgh,Pennsylvania,Neighborhood Market,2018,58,8190,Northeast,63305,Walmart Discount Store,58,Elizabeth Johnson
+584,Walmart Store 584,St. Petersburg,Florida,Neighborhood Market,2016,48,8000,South,53118,Walmart Supercenter,48,Jennifer White
+585,Walmart Store 585,Tucson,Arizona,Neighborhood Market,2019,45,8000,West,47813,Walmart Discount Store,45,Michael Jackson
+586,Walmart Store 586,Rockford,Illinois,Supercenter,2023,164,34069,Midwest,173714,Walmart Supercenter,164,Linda Brown
+587,Walmart Store 587,Long Beach,California,Neighborhood Market,2005,56,8000,West,58160,Walmart Supercenter,56,Michael Harris
+588,Walmart Store 588,Philadelphia,Pennsylvania,Neighborhood Market,2010,41,8000,Northeast,42393,Sam's Club,41,William Martin
+589,Walmart Store 589,Rockford,Illinois,Supercenter,2011,144,26477,Midwest,156904,Walmart Discount Store,144,Jennifer Anderson
+590,Walmart Store 590,Jacksonville,Florida,Sam's Club,2020,114,20397,South,124861,Walmart Supercenter,114,Michael Jackson
+591,Walmart Store 591,St. Petersburg,Florida,Supercenter,2014,165,28580,South,170818,Walmart Supercenter,165,Robert Jackson
+592,Walmart Store 592,Aurora,Illinois,Neighborhood Market,2001,40,8000,Midwest,42740,Walmart Supercenter,40,Michael Thomas
+593,Walmart Store 593,Aurora,Illinois,Neighborhood Market,2015,65,8226,Midwest,69185,Walmart Supercenter,65,Mary White
+594,Walmart Store 594,Chandler,Arizona,Neighborhood Market,2009,37,8000,West,40854,Walmart Supercenter,37,Linda Martin
+595,Walmart Store 595,Jacksonville,Florida,Sam's Club,2017,153,28806,South,165455,Sam's Club,153,Mary Harris
+596,Walmart Store 596,Augusta,Georgia,Neighborhood Market,2021,42,8000,South,46829,Walmart Supercenter,42,John Smith
+597,Walmart Store 597,Warren,Michigan,Neighborhood Market,2009,34,8000,Midwest,36673,Walmart Supercenter,34,Michael Anderson
+598,Walmart Store 598,Augusta,Georgia,Neighborhood Market,2005,50,8000,South,50902,Walmart Supercenter,50,William Harris
+599,Walmart Store 599,Tallahassee,Florida,Supercenter,2008,177,33915,South,189138,Walmart Discount Store,177,James Martin
+600,Walmart Store 600,Dayton,Ohio,Neighborhood Market,2014,39,8000,Midwest,40672,Walmart Discount Store,39,Elizabeth Harris
+601,Walmart Store 601,Durham,North Carolina,Sam's Club,2007,114,18875,South,128043,Sam's Club,114,Robert Jackson
+602,Walmart Store 602,Ann Arbor,Michigan,Neighborhood Market,2015,46,8000,Midwest,50256,Walmart Supercenter,46,James Thomas
+603,Walmart Store 603,Glendale,Arizona,Sam's Club,2007,129,22123,West,137668,Walmart Discount Store,129,Elizabeth Smith
+604,Walmart Store 604,Naperville,Illinois,Sam's Club,2000,152,25196,Midwest,157854,Walmart Supercenter,152,Michael White
+605,Walmart Store 605,Reading,Pennsylvania,Neighborhood Market,2020,51,8000,Northeast,52458,Walmart Supercenter,51,Robert Smith
+606,Walmart Store 606,San Jose,California,Supercenter,2011,172,38653,West,180794,Walmart Discount Store,172,Jennifer Thomas
+607,Walmart Store 607,Irvine,California,Neighborhood Market,2021,60,8000,West,62540,Walmart Discount Store,60,Robert Brown
+608,Walmart Store 608,Naperville,Illinois,Sam's Club,2001,154,29895,Midwest,170372,Walmart Discount Store,154,John Harris
+609,Walmart Store 609,Arlington,Texas,Supercenter,2008,188,37730,South,197684,Walmart Discount Store,188,William Martin
+610,Walmart Store 610,Macon,Georgia,Supercenter,2020,203,40777,South,214045,Walmart Supercenter,203,James Smith
+611,Walmart Store 611,Anaheim,California,Sam's Club,2008,133,22600,West,143588,Walmart Supercenter,133,Jennifer Jackson
+612,Walmart Store 612,Tempe,Arizona,Neighborhood Market,2007,53,8000,West,59239,Sam's Club,53,Michael Anderson
+613,Walmart Store 613,Anaheim,California,Neighborhood Market,2012,65,8000,West,67737,Walmart Supercenter,65,William Harris
+614,Walmart Store 614,Chicago,Illinois,Neighborhood Market,2000,50,8000,Midwest,53541,Walmart Supercenter,50,Elizabeth Jackson
+615,Walmart Store 615,Oakland,California,Sam's Club,2019,108,19617,West,121384,Walmart Supercenter,108,Elizabeth Martin
+616,Walmart Store 616,Scottsdale,Arizona,Warehouse,2006,90,13426,West,98044,Walmart Supercenter,90,Linda Harris
+617,Walmart Store 617,Glendale,Arizona,Warehouse,2013,115,18476,West,125712,Sam's Club,115,William Smith
+618,Walmart Store 618,Rockford,Illinois,Neighborhood Market,2007,66,8000,Midwest,70448,Walmart Discount Store,66,Patricia Martin
+619,Walmart Store 619,Joliet,Illinois,Neighborhood Market,2001,36,8000,Midwest,40204,Walmart Discount Store,36,William Anderson
+620,Walmart Store 620,Joliet,Illinois,Warehouse,2008,103,15715,Midwest,107601,Walmart Supercenter,103,Jennifer Anderson
+621,Walmart Store 621,Atlanta,Georgia,Neighborhood Market,2023,36,8000,South,40687,Walmart Supercenter,36,Robert White
+622,Walmart Store 622,Columbus,Ohio,Sam's Club,2018,138,26132,Midwest,153854,Walmart Supercenter,138,Mary Jackson
+623,Walmart Store 623,Savannah,Georgia,Sam's Club,2021,161,28815,South,168781,Walmart Supercenter,161,Linda Brown
+624,Walmart Store 624,Houston,Texas,Neighborhood Market,2000,68,10170,South,73034,Walmart Discount Store,68,John Smith
+625,Walmart Store 625,Charlotte,North Carolina,Supercenter,2021,209,44302,South,218972,Walmart Discount Store,209,James Smith
+626,Walmart Store 626,Garland,Texas,Neighborhood Market,2022,59,8000,South,65360,Sam's Club,59,Michael Taylor
+627,Walmart Store 627,Columbus,Ohio,Neighborhood Market,2014,39,8000,Midwest,43059,Walmart Supercenter,39,Patricia Smith
+628,Walmart Store 628,Joliet,Illinois,Warehouse,2018,123,16663,Midwest,127095,Walmart Supercenter,123,Robert Jackson
+629,Walmart Store 629,Cleveland,Ohio,Supercenter,2009,182,40260,Midwest,197927,Sam's Club,182,James Johnson
+630,Walmart Store 630,Savannah,Georgia,Warehouse,2021,107,14632,South,111562,Walmart Discount Store,107,Robert Smith
+631,Walmart Store 631,Columbus,Ohio,Neighborhood Market,2008,50,8000,Midwest,52610,Walmart Supercenter,50,Robert Harris
+632,Walmart Store 632,Greensboro,North Carolina,Neighborhood Market,2000,56,8000,South,61205,Walmart Discount Store,56,John Thomas
+633,Walmart Store 633,Chicago,Illinois,Sam's Club,2023,182,38141,Midwest,188790,Walmart Supercenter,182,Elizabeth Taylor
+634,Walmart Store 634,Oakland,California,Sam's Club,2021,168,30271,West,174676,Sam's Club,168,Patricia Martin
+635,Walmart Store 635,Bakersfield,California,Sam's Club,2001,118,18871,West,126314,Walmart Supercenter,118,Michael Anderson
+636,Walmart Store 636,Atlanta,Georgia,Neighborhood Market,2002,50,8000,South,52264,Sam's Club,50,Patricia Smith
+637,Walmart Store 637,Fort Worth,Texas,Sam's Club,2011,157,26838,South,175457,Walmart Supercenter,157,John White
+638,Walmart Store 638,Glendale,Arizona,Neighborhood Market,2001,61,8000,West,64003,Walmart Supercenter,61,William Brown
+639,Walmart Store 639,Toledo,Ohio,Neighborhood Market,2002,36,8000,Midwest,38225,Walmart Supercenter,36,Jennifer Smith
+640,Walmart Store 640,St. Petersburg,Florida,Neighborhood Market,2004,43,8000,South,45961,Walmart Supercenter,43,Linda Anderson
+641,Walmart Store 641,Naperville,Illinois,Supercenter,2006,201,40757,Midwest,208710,Walmart Supercenter,201,Michael Brown
+642,Walmart Store 642,Augusta,Georgia,Neighborhood Market,2015,45,8000,South,48817,Walmart Discount Store,45,John Taylor
+643,Walmart Store 643,Gilbert,Arizona,Neighborhood Market,2015,48,8000,West,49448,Walmart Discount Store,48,Patricia Martin
+644,Walmart Store 644,Philadelphia,Pennsylvania,Neighborhood Market,2008,61,10253,Northeast,63252,Walmart Discount Store,61,Jennifer Brown
+645,Walmart Store 645,Reading,Pennsylvania,Supercenter,2015,156,29240,Northeast,167277,Walmart Supercenter,156,Elizabeth Jackson
+646,Walmart Store 646,Los Angeles,California,Sam's Club,2007,158,36197,West,165755,Walmart Supercenter,158,John Brown
+647,Walmart Store 647,Winston-Salem,North Carolina,Neighborhood Market,2009,49,8000,South,53397,Walmart Discount Store,49,John Jackson
+648,Walmart Store 648,Naperville,Illinois,Sam's Club,2005,115,19004,Midwest,129086,Walmart Supercenter,115,Jennifer Harris
+649,Walmart Store 649,Jacksonville,Florida,Neighborhood Market,2001,37,8000,South,38099,Sam's Club,37,Mary Jackson
+650,Walmart Store 650,Rockford,Illinois,Supercenter,2012,162,34028,Midwest,177590,Walmart Discount Store,162,Elizabeth Johnson
+651,Walmart Store 651,Bakersfield,California,Neighborhood Market,2004,61,8210,West,64419,Walmart Discount Store,61,Patricia Anderson
+652,Walmart Store 652,Fresno,California,Sam's Club,2016,118,21658,West,128788,Walmart Supercenter,118,Patricia Jackson
+653,Walmart Store 653,Winston-Salem,North Carolina,Sam's Club,2014,128,22048,South,142043,Sam's Club,128,Patricia Taylor
+654,Walmart Store 654,Chicago,Illinois,Neighborhood Market,2022,44,8000,Midwest,45975,Walmart Supercenter,44,Jennifer Anderson
+655,Walmart Store 655,Rockford,Illinois,Supercenter,2009,155,33835,Midwest,170966,Walmart Supercenter,155,Michael Anderson
+656,Walmart Store 656,Pittsburgh,Pennsylvania,Sam's Club,2017,131,23900,Northeast,135916,Walmart Discount Store,131,Jennifer Thomas
+657,Walmart Store 657,Los Angeles,California,Neighborhood Market,2012,48,8000,West,53555,Walmart Supercenter,48,Robert Harris
+658,Walmart Store 658,Reading,Pennsylvania,Warehouse,2014,94,14210,Northeast,100811,Walmart Discount Store,94,Elizabeth Taylor
+659,Walmart Store 659,Naperville,Illinois,Sam's Club,2009,160,27865,Midwest,164944,Walmart Supercenter,160,Patricia Harris
+660,Walmart Store 660,Philadelphia,Pennsylvania,Neighborhood Market,2009,45,8000,Northeast,49870,Walmart Supercenter,45,Robert Smith
+661,Walmart Store 661,Riverside,California,Neighborhood Market,2020,42,8000,West,46881,Walmart Discount Store,42,Patricia Taylor
+662,Walmart Store 662,St. Petersburg,Florida,Warehouse,2000,102,14468,South,111730,Walmart Discount Store,102,Michael Martin
+663,Walmart Store 663,Ann Arbor,Michigan,Supercenter,2014,162,31178,Midwest,171562,Walmart Supercenter,162,William Harris
+664,Walmart Store 664,Gilbert,Arizona,Supercenter,2002,151,31202,West,167850,Walmart Discount Store,151,William Johnson
+665,Walmart Store 665,Naperville,Illinois,Neighborhood Market,2003,46,8000,Midwest,49505,Walmart Supercenter,46,Mary Jackson
+666,Walmart Store 666,Augusta,Georgia,Neighborhood Market,2017,51,8000,South,54180,Walmart Supercenter,51,William Smith
+667,Walmart Store 667,Dayton,Ohio,Sam's Club,2009,128,22025,Midwest,143395,Walmart Supercenter,128,Jennifer Jackson
+668,Walmart Store 668,Greensboro,North Carolina,Supercenter,2000,204,35746,South,213115,Walmart Discount Store,204,Jennifer Smith
+669,Walmart Store 669,Glendale,Arizona,Neighborhood Market,2010,61,8000,West,64726,Walmart Supercenter,61,James Smith
+670,Walmart Store 670,San Francisco,California,Neighborhood Market,2005,51,8007,West,53445,Walmart Supercenter,51,William White
+671,Walmart Store 671,Lansing,Michigan,Supercenter,2009,188,34929,Midwest,194826,Walmart Supercenter,188,Linda Smith
+672,Walmart Store 672,Gilbert,Arizona,Sam's Club,2012,111,21788,West,124111,Walmart Discount Store,111,William Johnson
+673,Walmart Store 673,Hialeah,Florida,Sam's Club,2014,117,20450,South,122473,Walmart Supercenter,117,Robert Smith
+674,Walmart Store 674,Flint,Michigan,Supercenter,2014,167,35223,Midwest,180307,Walmart Supercenter,167,John Johnson
+675,Walmart Store 675,Mesa,Arizona,Supercenter,2004,196,35225,West,210249,Sam's Club,196,William Brown
+676,Walmart Store 676,Greensboro,North Carolina,Neighborhood Market,2005,34,8000,South,36458,Walmart Supercenter,34,Jennifer Taylor
+677,Walmart Store 677,Tallahassee,Florida,Supercenter,2022,194,35752,South,202628,Walmart Supercenter,194,Jennifer Smith
+678,Walmart Store 678,Grand Rapids,Michigan,Sam's Club,2009,137,23913,Midwest,145448,Walmart Supercenter,137,Linda Johnson
+679,Walmart Store 679,Warren,Michigan,Neighborhood Market,2023,40,8000,Midwest,43492,Walmart Supercenter,40,John Brown
+680,Walmart Store 680,Durham,North Carolina,Neighborhood Market,2021,37,8000,South,40480,Walmart Supercenter,37,John Harris
+681,Walmart Store 681,Durham,North Carolina,Neighborhood Market,2021,53,8000,South,55456,Walmart Supercenter,53,Elizabeth Harris
+682,Walmart Store 682,Akron,Ohio,Neighborhood Market,2005,44,8000,Midwest,48933,Walmart Supercenter,44,John Johnson
+683,Walmart Store 683,Bakersfield,California,Sam's Club,2005,165,26902,West,179978,Walmart Discount Store,165,Jennifer Harris
+684,Walmart Store 684,Los Angeles,California,Neighborhood Market,2021,36,8000,West,39203,Sam's Club,36,Michael Taylor
+685,Walmart Store 685,Dallas,Texas,Neighborhood Market,2017,42,8000,South,46758,Walmart Supercenter,42,John Smith
+686,Walmart Store 686,Grand Rapids,Michigan,Neighborhood Market,2000,42,8000,Midwest,46727,Walmart Supercenter,42,John Jackson
+687,Walmart Store 687,Rockford,Illinois,Supercenter,2000,198,33564,Midwest,202286,Walmart Supercenter,198,Jennifer White
+688,Walmart Store 688,Savannah,Georgia,Sam's Club,2000,128,24439,South,139997,Walmart Discount Store,128,Robert Jackson
+689,Walmart Store 689,Toledo,Ohio,Supercenter,2012,138,28650,Midwest,154012,Walmart Supercenter,138,John Johnson
+690,Walmart Store 690,Glendale,Arizona,Sam's Club,2019,122,20835,West,128801,Walmart Supercenter,122,John Smith
+691,Walmart Store 691,Glendale,Arizona,Neighborhood Market,2008,35,8000,West,36193,Walmart Supercenter,35,James Harris
+692,Walmart Store 692,Jacksonville,Florida,Neighborhood Market,2001,37,8000,South,39685,Walmart Supercenter,37,Robert Martin
+693,Walmart Store 693,Columbus,Ohio,Neighborhood Market,2010,47,8000,Midwest,52872,Walmart Supercenter,47,John Thomas
+694,Walmart Store 694,Savannah,Georgia,Sam's Club,2008,159,24314,South,162544,Walmart Supercenter,159,William Jackson
+695,Walmart Store 695,San Francisco,California,Sam's Club,2013,170,36673,West,190205,Walmart Supercenter,170,William Martin
+696,Walmart Store 696,Miami,Florida,Supercenter,2004,201,53110,South,219454,Walmart Supercenter,201,Jennifer Taylor
+697,Walmart Store 697,Cincinnati,Ohio,Neighborhood Market,2002,48,8000,Midwest,51499,Sam's Club,48,Jennifer Anderson
+698,Walmart Store 698,Tampa,Florida,Neighborhood Market,2004,64,8876,South,70748,Walmart Supercenter,64,Michael Harris
+699,Walmart Store 699,Tempe,Arizona,Sam's Club,2013,159,27854,West,168011,Walmart Discount Store,159,John Smith
+700,Walmart Store 700,Savannah,Georgia,Neighborhood Market,2015,55,8000,South,59051,Walmart Discount Store,55,John Anderson
+701,Walmart Store 701,Austin,Texas,Neighborhood Market,2019,45,8000,South,46817,Walmart Supercenter,45,Linda Martin
+702,Walmart Store 702,Sacramento,California,Sam's Club,2004,155,27931,West,161520,Walmart Discount Store,155,Linda Jackson
+703,Walmart Store 703,Glendale,Arizona,Sam's Club,2023,145,26139,West,153873,Walmart Supercenter,145,Elizabeth White
+704,Walmart Store 704,Columbus,Ohio,Sam's Club,2021,156,26493,Midwest,165724,Walmart Discount Store,156,Mary Jackson
+705,Walmart Store 705,St. Petersburg,Florida,Neighborhood Market,2020,60,8499,South,66296,Walmart Supercenter,60,James Harris
+706,Walmart Store 706,Fort Lauderdale,Florida,Sam's Club,2022,135,22340,South,151550,Walmart Discount Store,135,John Smith
+707,Walmart Store 707,Pittsburgh,Pennsylvania,Sam's Club,2010,141,21858,Northeast,145355,Walmart Supercenter,141,Robert Anderson
+708,Walmart Store 708,Houston,Texas,Supercenter,2022,216,54579,South,229809,Walmart Supercenter,216,James Taylor
+709,Walmart Store 709,Warren,Michigan,Supercenter,2005,160,30926,Midwest,177243,Walmart Supercenter,160,John Harris
+710,Walmart Store 710,Orlando,Florida,Supercenter,2000,191,42803,South,210340,Walmart Discount Store,191,Jennifer Jackson
+711,Walmart Store 711,Rockford,Illinois,Sam's Club,2014,132,24508,Midwest,144826,Walmart Supercenter,132,Robert Anderson
+712,Walmart Store 712,San Francisco,California,Supercenter,2007,191,44803,West,197121,Sam's Club,191,Jennifer Brown
+713,Walmart Store 713,Winston-Salem,North Carolina,Neighborhood Market,2021,50,8000,South,52805,Walmart Supercenter,50,Linda Jackson
+714,Walmart Store 714,Warren,Michigan,Neighborhood Market,2012,60,8000,Midwest,63137,Walmart Supercenter,60,Patricia Martin
+715,Walmart Store 715,Dayton,Ohio,Neighborhood Market,2002,56,8000,Midwest,58468,Walmart Supercenter,56,Linda Anderson
+716,Walmart Store 716,Raleigh,North Carolina,Neighborhood Market,2003,60,8000,South,62151,Sam's Club,60,William Taylor
+717,Walmart Store 717,Mesa,Arizona,Sam's Club,2017,138,25292,West,146778,Walmart Supercenter,138,Linda Thomas
+718,Walmart Store 718,Savannah,Georgia,Neighborhood Market,2005,59,8340,South,63477,Walmart Supercenter,59,Robert Martin
+719,Walmart Store 719,Chicago,Illinois,Supercenter,2017,188,45457,Midwest,204350,Walmart Supercenter,188,Mary Thomas
+720,Walmart Store 720,San Francisco,California,Sam's Club,2008,133,28797,West,138242,Walmart Supercenter,133,Robert White
+721,Walmart Store 721,Anaheim,California,Warehouse,2022,94,14548,West,104985,Walmart Supercenter,94,Linda Johnson
+722,Walmart Store 722,Rockford,Illinois,Neighborhood Market,2012,63,8552,Midwest,70069,Sam's Club,63,Michael Brown
+723,Walmart Store 723,Erie,Pennsylvania,Neighborhood Market,2007,38,8000,Northeast,42655,Walmart Supercenter,38,Elizabeth Martin
+724,Walmart Store 724,Phoenix,Arizona,Neighborhood Market,2010,44,8000,West,46953,Walmart Supercenter,44,Michael Harris
+725,Walmart Store 725,Phoenix,Arizona,Neighborhood Market,2013,67,9997,West,71253,Walmart Supercenter,67,Patricia Smith
+726,Walmart Store 726,Rockford,Illinois,Neighborhood Market,2001,47,8000,Midwest,48008,Sam's Club,47,James Martin
+727,Walmart Store 727,Scottsdale,Arizona,Neighborhood Market,2004,55,8000,West,60238,Walmart Discount Store,55,Mary Brown
+728,Walmart Store 728,Allentown,Pennsylvania,Sam's Club,2009,149,26511,Northeast,164760,Walmart Supercenter,149,James Brown
+729,Walmart Store 729,Charlotte,North Carolina,Neighborhood Market,2010,43,8000,South,47495,Walmart Supercenter,43,Jennifer Brown
+730,Walmart Store 730,Sacramento,California,Neighborhood Market,2017,60,8259,West,63155,Walmart Supercenter,60,James Taylor
+731,Walmart Store 731,Savannah,Georgia,Sam's Club,2016,121,21681,South,131698,Walmart Supercenter,121,John Johnson
+732,Walmart Store 732,Rockford,Illinois,Neighborhood Market,2000,49,8000,Midwest,54828,Walmart Supercenter,49,Patricia Taylor
+733,Walmart Store 733,Chicago,Illinois,Neighborhood Market,2012,66,11268,Midwest,73397,Walmart Discount Store,66,Jennifer Brown
+734,Walmart Store 734,Naperville,Illinois,Supercenter,2013,143,28414,Midwest,158009,Walmart Supercenter,143,Linda Johnson
+735,Walmart Store 735,Columbus,Ohio,Neighborhood Market,2020,65,8645,Midwest,67687,Walmart Supercenter,65,Michael Harris
+736,Walmart Store 736,Columbus,Ohio,Sam's Club,2013,170,28691,Midwest,174320,Sam's Club,170,James Martin
+737,Walmart Store 737,Phoenix,Arizona,Sam's Club,2012,180,41649,West,192690,Walmart Supercenter,180,Michael Taylor
+738,Walmart Store 738,Fresno,California,Sam's Club,2020,162,28492,West,173871,Walmart Discount Store,162,John Smith
+739,Walmart Store 739,Rockford,Illinois,Neighborhood Market,2020,44,8000,Midwest,46654,Walmart Discount Store,44,Michael Brown
+740,Walmart Store 740,Sacramento,California,Sam's Club,2019,128,22370,West,133053,Sam's Club,128,James Johnson
+741,Walmart Store 741,Gilbert,Arizona,Neighborhood Market,2021,34,8000,West,35362,Sam's Club,34,Patricia Taylor
+742,Walmart Store 742,Irvine,California,Warehouse,2017,102,16526,West,109577,Walmart Discount Store,102,Elizabeth White
+743,Walmart Store 743,San Francisco,California,Sam's Club,2005,160,34390,West,164023,Walmart Discount Store,160,John Thomas
+744,Walmart Store 744,Ann Arbor,Michigan,Sam's Club,2020,135,24071,Midwest,146777,Walmart Supercenter,135,Elizabeth Taylor
+745,Walmart Store 745,Warren,Michigan,Neighborhood Market,2016,57,8000,Midwest,62767,Walmart Supercenter,57,Elizabeth Smith
+746,Walmart Store 746,Anaheim,California,Sam's Club,2020,155,29660,West,174063,Walmart Discount Store,155,Linda Johnson
+747,Walmart Store 747,Charlotte,North Carolina,Supercenter,2012,202,42051,South,219755,Walmart Supercenter,202,Patricia White
+748,Walmart Store 748,Irvine,California,Neighborhood Market,2011,34,8000,West,37965,Walmart Supercenter,34,Robert Johnson
+749,Walmart Store 749,Naperville,Illinois,Supercenter,2012,197,34649,Midwest,207386,Sam's Club,197,Elizabeth Anderson
+750,Walmart Store 750,Fresno,California,Supercenter,2003,192,37983,West,213088,Sam's Club,192,Michael Thomas
+751,Walmart Store 751,Tempe,Arizona,Supercenter,2019,151,32610,West,166683,Walmart Supercenter,151,William Anderson
+752,Walmart Store 752,Charlotte,North Carolina,Supercenter,2013,162,31398,South,168828,Walmart Supercenter,162,Mary Martin
+753,Walmart Store 753,San Antonio,Texas,Supercenter,2009,192,40035,South,196703,Walmart Discount Store,192,James Smith
+754,Walmart Store 754,Durham,North Carolina,Supercenter,2020,187,35735,South,203799,Walmart Supercenter,187,Mary Johnson
+755,Walmart Store 755,Detroit,Michigan,Supercenter,2005,177,37216,Midwest,189675,Sam's Club,177,William Smith
+756,Walmart Store 756,Pittsburgh,Pennsylvania,Sam's Club,2002,170,28356,Northeast,178748,Walmart Supercenter,170,Patricia Martin
+757,Walmart Store 757,Reading,Pennsylvania,Neighborhood Market,2023,52,8000,Northeast,57667,Walmart Supercenter,52,Mary Johnson
+758,Walmart Store 758,Ann Arbor,Michigan,Supercenter,2005,177,32443,Midwest,192121,Walmart Discount Store,177,Michael Smith
+759,Walmart Store 759,Chicago,Illinois,Warehouse,2022,119,22555,Midwest,124601,Sam's Club,119,James Harris
+760,Walmart Store 760,Oakland,California,Neighborhood Market,2004,58,8000,West,60256,Walmart Discount Store,58,Michael Smith
+761,Walmart Store 761,Scottsdale,Arizona,Neighborhood Market,2017,64,8000,West,66860,Walmart Supercenter,64,Elizabeth Brown
+762,Walmart Store 762,Erie,Pennsylvania,Supercenter,2014,159,28513,Northeast,163348,Walmart Supercenter,159,Patricia Harris
+763,Walmart Store 763,Warren,Michigan,Supercenter,2001,139,25671,Midwest,150149,Walmart Supercenter,139,William Martin
+764,Walmart Store 764,Atlanta,Georgia,Sam's Club,2022,146,30875,South,160779,Walmart Supercenter,146,Robert Thomas
+765,Walmart Store 765,Allentown,Pennsylvania,Warehouse,2018,92,13482,Northeast,94541,Walmart Supercenter,92,Michael Brown
+766,Walmart Store 766,Rockford,Illinois,Neighborhood Market,2015,59,8000,Midwest,66867,Walmart Discount Store,59,Mary Jackson
+767,Walmart Store 767,Atlanta,Georgia,Supercenter,2003,169,38630,South,183943,Walmart Discount Store,169,Jennifer Harris
+768,Walmart Store 768,Savannah,Georgia,Supercenter,2017,145,27155,South,162742,Walmart Discount Store,145,William Thomas
+769,Walmart Store 769,Bakersfield,California,Neighborhood Market,2015,50,8000,West,53652,Walmart Discount Store,50,Robert Johnson
+770,Walmart Store 770,Miami,Florida,Sam's Club,2016,128,26013,South,134933,Walmart Discount Store,128,Jennifer Taylor
+771,Walmart Store 771,San Jose,California,Neighborhood Market,2014,66,9017,West,68323,Walmart Discount Store,66,James Jackson
+772,Walmart Store 772,Ann Arbor,Michigan,Warehouse,2021,99,16251,Midwest,106316,Walmart Supercenter,99,Robert White
+773,Walmart Store 773,Raleigh,North Carolina,Neighborhood Market,2005,62,8000,South,65301,Walmart Supercenter,62,John Taylor
+774,Walmart Store 774,Sacramento,California,Supercenter,2001,211,46317,West,227394,Walmart Supercenter,211,James Brown
+775,Walmart Store 775,Los Angeles,California,Neighborhood Market,2006,61,10075,West,64129,Walmart Supercenter,61,Patricia Martin
+776,Walmart Store 776,Winston-Salem,North Carolina,Supercenter,2009,151,31227,South,159118,Walmart Supercenter,151,John Smith
+777,Walmart Store 777,Naperville,Illinois,Neighborhood Market,2002,43,8000,Midwest,44122,Walmart Supercenter,43,Robert Brown
+778,Walmart Store 778,Augusta,Georgia,Warehouse,2004,87,13728,South,97518,Walmart Discount Store,87,Robert White
+779,Walmart Store 779,Akron,Ohio,Sam's Club,2006,123,22631,Midwest,133025,Walmart Supercenter,123,John Martin
+780,Walmart Store 780,Rockford,Illinois,Sam's Club,2013,155,26889,Midwest,173432,Walmart Supercenter,155,Linda Smith
+781,Walmart Store 781,Tucson,Arizona,Sam's Club,2009,150,25153,West,164316,Walmart Discount Store,150,James Brown
+782,Walmart Store 782,Grand Rapids,Michigan,Warehouse,2000,103,15989,Midwest,115262,Walmart Supercenter,103,Mary Thomas
+783,Walmart Store 783,Lansing,Michigan,Sam's Club,2002,110,20345,Midwest,120410,Walmart Supercenter,110,Robert Johnson
+784,Walmart Store 784,Fort Lauderdale,Florida,Sam's Club,2021,123,22222,South,129970,Walmart Supercenter,123,Mary Thomas
+785,Walmart Store 785,Reading,Pennsylvania,Warehouse,2004,99,15620,Northeast,104135,Walmart Supercenter,99,Elizabeth Johnson
+786,Walmart Store 786,Miami,Florida,Warehouse,2019,122,21954,South,131406,Sam's Club,122,Michael Anderson
+787,Walmart Store 787,Augusta,Georgia,Sam's Club,2014,122,23179,South,134298,Walmart Supercenter,122,Michael Anderson
+788,Walmart Store 788,Warren,Michigan,Sam's Club,2001,151,25150,Midwest,165143,Sam's Club,151,William White
+789,Walmart Store 789,Los Angeles,California,Supercenter,2000,154,41380,West,171765,Sam's Club,154,Elizabeth Taylor
+790,Walmart Store 790,Columbus,Ohio,Neighborhood Market,2023,56,8000,Midwest,59776,Walmart Discount Store,56,Linda Thomas
+791,Walmart Store 791,Aurora,Illinois,Sam's Club,2018,158,29000,Midwest,173004,Walmart Supercenter,158,Jennifer Anderson
+792,Walmart Store 792,Akron,Ohio,Sam's Club,2019,127,21788,Midwest,133632,Walmart Supercenter,127,Jennifer Johnson
+793,Walmart Store 793,Chicago,Illinois,Warehouse,2005,129,25819,Midwest,142931,Walmart Supercenter,129,Jennifer Harris
+794,Walmart Store 794,Allentown,Pennsylvania,Warehouse,2012,103,15896,Northeast,113863,Walmart Supercenter,103,Mary Thomas
+795,Walmart Store 795,Atlanta,Georgia,Supercenter,2009,175,41895,South,196356,Walmart Supercenter,175,William Thomas
+796,Walmart Store 796,Cincinnati,Ohio,Neighborhood Market,2011,48,8000,Midwest,50869,Walmart Supercenter,48,Linda Johnson
+797,Walmart Store 797,Atlanta,Georgia,Neighborhood Market,2013,40,8000,South,41364,Sam's Club,40,Mary Thomas
+798,Walmart Store 798,San Diego,California,Neighborhood Market,2000,63,10067,West,66609,Sam's Club,63,Elizabeth Jackson
+799,Walmart Store 799,Riverside,California,Neighborhood Market,2022,54,8000,West,56780,Walmart Discount Store,54,Jennifer Jackson
+800,Walmart Store 800,Dallas,Texas,Neighborhood Market,2000,37,8000,South,39999,Walmart Discount Store,37,James Johnson
+801,Walmart Store 801,Joliet,Illinois,Supercenter,2005,148,28358,Midwest,164238,Walmart Supercenter,148,Mary Smith
+802,Walmart Store 802,Chicago,Illinois,Warehouse,2012,138,23836,Midwest,142718,Walmart Discount Store,138,Linda Martin
+803,Walmart Store 803,Scottsdale,Arizona,Supercenter,2019,178,31060,West,186114,Walmart Discount Store,178,William Taylor
+804,Walmart Store 804,Mesa,Arizona,Neighborhood Market,2022,46,8000,West,49394,Walmart Discount Store,46,Elizabeth Brown
+805,Walmart Store 805,Ann Arbor,Michigan,Neighborhood Market,2014,68,8115,Midwest,70387,Walmart Discount Store,68,Elizabeth Jackson
+806,Walmart Store 806,Los Angeles,California,Sam's Club,2013,168,37052,West,170618,Walmart Supercenter,168,John Thomas
+807,Walmart Store 807,Irvine,California,Neighborhood Market,2011,65,8457,West,69430,Sam's Club,65,Jennifer Smith
+808,Walmart Store 808,Glendale,Arizona,Supercenter,2022,157,30163,West,176673,Sam's Club,157,James Taylor
+809,Walmart Store 809,Columbus,Ohio,Sam's Club,2003,160,29202,Midwest,169578,Walmart Supercenter,160,Patricia Johnson
+810,Walmart Store 810,Phoenix,Arizona,Supercenter,2003,169,43981,West,188501,Walmart Discount Store,169,Robert Harris
+811,Walmart Store 811,Ann Arbor,Michigan,Sam's Club,2001,140,23186,Midwest,156844,Walmart Discount Store,140,Michael Anderson
+812,Walmart Store 812,Naperville,Illinois,Warehouse,2000,95,13239,Midwest,99149,Walmart Supercenter,95,Robert Anderson
+813,Walmart Store 813,Chandler,Arizona,Sam's Club,2013,170,29842,West,179673,Walmart Discount Store,170,William Martin
+814,Walmart Store 814,Phoenix,Arizona,Warehouse,2015,133,24933,West,136193,Walmart Supercenter,133,Linda Anderson
+815,Walmart Store 815,Joliet,Illinois,Supercenter,2010,171,32527,Midwest,184223,Walmart Supercenter,171,Patricia Anderson
+816,Walmart Store 816,Pittsburgh,Pennsylvania,Neighborhood Market,2011,35,8000,Northeast,38664,Walmart Supercenter,35,Elizabeth Smith
+817,Walmart Store 817,Ann Arbor,Michigan,Sam's Club,2006,113,21453,Midwest,123602,Walmart Supercenter,113,James Martin
+818,Walmart Store 818,Raleigh,North Carolina,Supercenter,2008,195,37639,South,204394,Walmart Discount Store,195,William Brown
+819,Walmart Store 819,Durham,North Carolina,Supercenter,2004,162,35289,South,180877,Walmart Discount Store,162,Robert Smith
+820,Walmart Store 820,Warren,Michigan,Warehouse,2019,111,15570,Midwest,114613,Walmart Supercenter,111,William Brown
+821,Walmart Store 821,Flint,Michigan,Neighborhood Market,2003,55,8000,Midwest,57632,Walmart Supercenter,55,William Brown
+822,Walmart Store 822,Savannah,Georgia,Supercenter,2021,151,26646,South,159029,Walmart Discount Store,151,Mary Taylor
+823,Walmart Store 823,Atlanta,Georgia,Supercenter,2016,178,43191,South,185991,Walmart Discount Store,178,William Brown
+824,Walmart Store 824,Sacramento,California,Supercenter,2021,174,39870,West,187212,Sam's Club,174,John Smith
+825,Walmart Store 825,Rockford,Illinois,Supercenter,2013,161,28925,Midwest,167857,Walmart Supercenter,161,Patricia Johnson
+826,Walmart Store 826,San Diego,California,Neighborhood Market,2017,53,8129,West,57820,Walmart Supercenter,53,Patricia Johnson
+827,Walmart Store 827,Rockford,Illinois,Neighborhood Market,2019,64,8000,Midwest,66097,Sam's Club,64,Patricia Anderson
+828,Walmart Store 828,Savannah,Georgia,Neighborhood Market,2008,64,8000,South,66836,Walmart Supercenter,64,Elizabeth Smith
+829,Walmart Store 829,Detroit,Michigan,Neighborhood Market,2015,50,8000,Midwest,55910,Walmart Supercenter,50,Robert Taylor
+830,Walmart Store 830,Greensboro,North Carolina,Warehouse,2015,90,13851,South,98856,Walmart Discount Store,90,Mary Thomas
+831,Walmart Store 831,Raleigh,North Carolina,Neighborhood Market,2008,60,8000,South,64225,Walmart Supercenter,60,Linda Harris
+832,Walmart Store 832,El Paso,Texas,Warehouse,2011,92,14413,South,98573,Walmart Supercenter,92,Jennifer Smith
+833,Walmart Store 833,Naperville,Illinois,Supercenter,2009,196,40326,Midwest,211357,Sam's Club,196,Elizabeth Brown
+834,Walmart Store 834,Fort Lauderdale,Florida,Supercenter,2006,178,33731,South,196715,Walmart Discount Store,178,John Harris
+835,Walmart Store 835,Akron,Ohio,Neighborhood Market,2005,55,8000,Midwest,61564,Walmart Discount Store,55,Michael Smith
+836,Walmart Store 836,Grand Rapids,Michigan,Supercenter,2014,163,29065,Midwest,171440,Walmart Discount Store,163,Robert Jackson
+837,Walmart Store 837,Tempe,Arizona,Sam's Club,2002,130,23652,West,138848,Walmart Discount Store,130,Michael Anderson
+838,Walmart Store 838,Savannah,Georgia,Neighborhood Market,2013,50,8000,South,52028,Walmart Supercenter,50,John Smith
+839,Walmart Store 839,Glendale,Arizona,Warehouse,2002,123,17760,West,136339,Walmart Supercenter,123,Elizabeth White
+840,Walmart Store 840,El Paso,Texas,Sam's Club,2021,135,22685,South,149697,Walmart Discount Store,135,Robert Jackson
+841,Walmart Store 841,Greensboro,North Carolina,Sam's Club,2023,155,25605,South,163523,Walmart Supercenter,155,Elizabeth Taylor
+842,Walmart Store 842,Irvine,California,Warehouse,2017,86,12334,West,89771,Walmart Supercenter,86,Linda Brown
+843,Walmart Store 843,Durham,North Carolina,Sam's Club,2006,119,21060,South,133619,Walmart Supercenter,119,Jennifer Brown
+844,Walmart Store 844,Oakland,California,Neighborhood Market,2005,50,8000,West,51714,Walmart Discount Store,50,Michael Brown
+845,Walmart Store 845,Dayton,Ohio,Supercenter,2008,188,33556,Midwest,197913,Walmart Discount Store,188,Patricia Anderson
+846,Walmart Store 846,Tempe,Arizona,Neighborhood Market,2017,51,8000,West,53252,Walmart Supercenter,51,William White
+847,Walmart Store 847,Allentown,Pennsylvania,Neighborhood Market,2013,48,8000,Northeast,50145,Walmart Discount Store,48,James Thomas
+848,Walmart Store 848,Fresno,California,Neighborhood Market,2017,36,8000,West,38755,Walmart Discount Store,36,Mary Thomas
+849,Walmart Store 849,Columbus,Ohio,Neighborhood Market,2010,40,8000,Midwest,44694,Walmart Supercenter,40,John Thomas
+850,Walmart Store 850,Aurora,Illinois,Neighborhood Market,2010,50,8000,Midwest,55008,Walmart Discount Store,50,John Martin
+851,Walmart Store 851,Aurora,Illinois,Neighborhood Market,2013,53,8000,Midwest,58451,Sam's Club,53,John Anderson
+852,Walmart Store 852,Columbus,Ohio,Sam's Club,2008,135,23199,Midwest,150857,Walmart Discount Store,135,Elizabeth Harris
+853,Walmart Store 853,Tucson,Arizona,Neighborhood Market,2007,45,8000,West,50007,Walmart Supercenter,45,Robert Johnson
+854,Walmart Store 854,El Paso,Texas,Neighborhood Market,2000,62,8305,South,67505,Sam's Club,62,Michael Martin
+855,Walmart Store 855,Fresno,California,Supercenter,2001,162,33978,West,180685,Walmart Supercenter,162,Patricia Brown
+856,Walmart Store 856,Greensboro,North Carolina,Supercenter,2023,194,36109,South,212088,Walmart Discount Store,194,James Brown
+857,Walmart Store 857,Dallas,Texas,Sam's Club,2020,116,25038,South,128824,Walmart Supercenter,116,James Harris
+858,Walmart Store 858,Rockford,Illinois,Neighborhood Market,2004,48,8000,Midwest,52531,Walmart Supercenter,48,Elizabeth Smith
+859,Walmart Store 859,Columbus,Ohio,Supercenter,2006,179,32785,Midwest,186114,Walmart Supercenter,179,William Johnson
+860,Walmart Store 860,Durham,North Carolina,Warehouse,2012,107,17278,South,115304,Walmart Supercenter,107,Linda Brown
+861,Walmart Store 861,St. Petersburg,Florida,Supercenter,2014,145,29165,South,152706,Walmart Discount Store,145,Michael Smith
+862,Walmart Store 862,Naperville,Illinois,Neighborhood Market,2023,40,8000,Midwest,44504,Sam's Club,40,John Brown
+863,Walmart Store 863,Grand Rapids,Michigan,Warehouse,2000,113,16732,Midwest,125131,Walmart Supercenter,113,Mary Taylor
+864,Walmart Store 864,Anaheim,California,Neighborhood Market,2004,57,8000,West,61004,Walmart Supercenter,57,James White
+865,Walmart Store 865,Reading,Pennsylvania,Sam's Club,2008,172,30870,Northeast,180630,Walmart Discount Store,172,William Johnson
+866,Walmart Store 866,Naperville,Illinois,Supercenter,2001,184,35505,Midwest,191447,Walmart Supercenter,184,Elizabeth Thomas
+867,Walmart Store 867,Scottsdale,Arizona,Sam's Club,2014,141,25653,West,149113,Walmart Supercenter,141,Mary Martin
+868,Walmart Store 868,San Jose,California,Sam's Club,2019,176,34925,West,186582,Walmart Discount Store,176,Patricia Thomas
+869,Walmart Store 869,Cleveland,Ohio,Sam's Club,2008,133,27400,Midwest,149899,Walmart Discount Store,133,William Brown
+870,Walmart Store 870,Detroit,Michigan,Neighborhood Market,2017,42,8000,Midwest,44521,Sam's Club,42,Robert Harris
+871,Walmart Store 871,Erie,Pennsylvania,Supercenter,2009,171,32680,Northeast,180578,Walmart Supercenter,171,John Jackson
+872,Walmart Store 872,Aurora,Illinois,Sam's Club,2000,128,20459,Midwest,138082,Walmart Supercenter,128,Michael White
+873,Walmart Store 873,Anaheim,California,Sam's Club,2007,150,26422,West,168398,Walmart Supercenter,150,William Taylor
+874,Walmart Store 874,Columbus,Ohio,Neighborhood Market,2020,64,8179,Midwest,66379,Walmart Supercenter,64,Jennifer Smith
+875,Walmart Store 875,Rockford,Illinois,Sam's Club,2015,118,23260,Midwest,132179,Walmart Supercenter,118,Michael White
+876,Walmart Store 876,Rockford,Illinois,Sam's Club,2011,137,21701,Midwest,140126,Walmart Supercenter,137,Patricia Brown
+877,Walmart Store 877,Ann Arbor,Michigan,Supercenter,2018,156,27196,Midwest,161522,Walmart Supercenter,156,Mary Anderson
+878,Walmart Store 878,Santa Ana,California,Neighborhood Market,2010,45,8000,West,47855,Walmart Supercenter,45,Linda Smith
+879,Walmart Store 879,Riverside,California,Supercenter,2018,171,30924,West,176275,Walmart Discount Store,171,William Martin
+880,Walmart Store 880,Sacramento,California,Neighborhood Market,2007,48,8000,West,53331,Walmart Supercenter,48,Robert Smith
+881,Walmart Store 881,Greensboro,North Carolina,Neighborhood Market,2000,42,8000,South,44967,Walmart Supercenter,42,Michael Harris
+882,Walmart Store 882,Cincinnati,Ohio,Supercenter,2012,219,47126,Midwest,225598,Walmart Discount Store,219,Mary Martin
+883,Walmart Store 883,San Diego,California,Neighborhood Market,2002,44,8000,West,48674,Walmart Discount Store,44,Patricia Harris
+884,Walmart Store 884,Erie,Pennsylvania,Warehouse,2003,103,15215,Northeast,108843,Walmart Supercenter,103,Michael Brown
+885,Walmart Store 885,Augusta,Georgia,Supercenter,2003,148,30135,South,158792,Walmart Discount Store,148,Elizabeth Thomas
+886,Walmart Store 886,Winston-Salem,North Carolina,Sam's Club,2012,139,22289,South,146167,Walmart Supercenter,139,Patricia Thomas
+887,Walmart Store 887,Jacksonville,Florida,Sam's Club,2009,113,21213,South,122045,Walmart Supercenter,113,Michael White
+888,Walmart Store 888,Flint,Michigan,Supercenter,2018,150,26231,Midwest,157730,Walmart Supercenter,150,Michael Smith
+889,Walmart Store 889,Chicago,Illinois,Sam's Club,2019,143,29714,Midwest,157040,Walmart Discount Store,143,Elizabeth Anderson
+890,Walmart Store 890,Irvine,California,Neighborhood Market,2005,51,8000,West,53816,Walmart Discount Store,51,William Smith
+891,Walmart Store 891,Cincinnati,Ohio,Sam's Club,2021,179,34675,Midwest,186174,Walmart Supercenter,179,Linda Johnson
+892,Walmart Store 892,San Antonio,Texas,Sam's Club,2005,173,31015,South,186213,Walmart Discount Store,173,Linda Brown
+893,Walmart Store 893,Raleigh,North Carolina,Neighborhood Market,2004,54,8000,South,60072,Walmart Supercenter,54,Mary White
+894,Walmart Store 894,Akron,Ohio,Sam's Club,2016,167,29709,Midwest,178861,Walmart Discount Store,167,Elizabeth Smith
+895,Walmart Store 895,Philadelphia,Pennsylvania,Supercenter,2021,166,41475,Northeast,176186,Walmart Supercenter,166,John Smith
+896,Walmart Store 896,Joliet,Illinois,Neighborhood Market,2012,59,8000,Midwest,64510,Sam's Club,59,Robert Johnson
+897,Walmart Store 897,Ann Arbor,Michigan,Neighborhood Market,2022,35,8000,Midwest,39217,Walmart Discount Store,35,Jennifer Anderson
+898,Walmart Store 898,Cincinnati,Ohio,Warehouse,2013,127,21099,Midwest,140933,Walmart Supercenter,127,Patricia Anderson
+899,Walmart Store 899,St. Petersburg,Florida,Warehouse,2017,89,14578,South,96169,Walmart Discount Store,89,Jennifer Jackson
+900,Walmart Store 900,Anaheim,California,Warehouse,2013,99,13795,West,104621,Walmart Supercenter,99,Elizabeth Brown
+901,Walmart Store 901,Atlanta,Georgia,Supercenter,2016,215,50843,South,223130,Walmart Supercenter,215,James Anderson
+902,Walmart Store 902,Oakland,California,Warehouse,2022,119,19722,West,131151,Walmart Supercenter,119,William Johnson
+903,Walmart Store 903,Raleigh,North Carolina,Sam's Club,2013,137,22844,South,146064,Walmart Supercenter,137,Linda Jackson
+904,Walmart Store 904,Phoenix,Arizona,Neighborhood Market,2021,62,9546,West,63372,Walmart Supercenter,62,Robert Brown
+905,Walmart Store 905,Miami,Florida,Supercenter,2006,153,34818,South,162558,Walmart Discount Store,153,Elizabeth Harris
+906,Walmart Store 906,San Diego,California,Supercenter,2013,212,57282,West,235940,Walmart Discount Store,212,Linda White
+907,Walmart Store 907,Raleigh,North Carolina,Neighborhood Market,2006,45,8000,South,51049,Walmart Discount Store,45,Linda Smith
+908,Walmart Store 908,Winston-Salem,North Carolina,Neighborhood Market,2015,61,8000,South,62922,Walmart Discount Store,61,Elizabeth Brown
+909,Walmart Store 909,Bakersfield,California,Supercenter,2020,184,39112,West,203392,Walmart Supercenter,184,Michael Jackson
+910,Walmart Store 910,Winston-Salem,North Carolina,Sam's Club,2006,162,29284,South,175205,Walmart Supercenter,162,Linda Martin
+911,Walmart Store 911,Dayton,Ohio,Supercenter,2021,160,29234,Midwest,170628,Walmart Discount Store,160,Michael Harris
+912,Walmart Store 912,Grand Rapids,Michigan,Warehouse,2000,104,15645,Midwest,113380,Walmart Discount Store,104,John Anderson
+913,Walmart Store 913,Irving,Texas,Supercenter,2003,179,38048,South,196328,Walmart Discount Store,179,Jennifer Harris
+914,Walmart Store 914,Rockford,Illinois,Neighborhood Market,2011,63,8000,Midwest,65369,Walmart Supercenter,63,Mary Jackson
+915,Walmart Store 915,Plano,Texas,Supercenter,2022,216,40807,South,221614,Walmart Discount Store,216,Jennifer Anderson
+916,Walmart Store 916,Bakersfield,California,Sam's Club,2018,135,22289,West,144613,Walmart Discount Store,135,Patricia Jackson
+917,Walmart Store 917,Chicago,Illinois,Neighborhood Market,2020,54,8000,Midwest,55823,Sam's Club,54,Robert White
+918,Walmart Store 918,Orlando,Florida,Sam's Club,2019,124,25310,South,134672,Walmart Supercenter,124,Michael Johnson
+919,Walmart Store 919,Philadelphia,Pennsylvania,Supercenter,2022,193,51440,Northeast,210529,Walmart Discount Store,193,William White
+920,Walmart Store 920,Greensboro,North Carolina,Supercenter,2000,204,38153,South,218316,Walmart Supercenter,204,Robert Anderson
+921,Walmart Store 921,Detroit,Michigan,Neighborhood Market,2021,53,8000,Midwest,54423,Walmart Discount Store,53,Mary Smith
+922,Walmart Store 922,Augusta,Georgia,Supercenter,2011,202,39751,South,223597,Sam's Club,202,Robert Brown
+923,Walmart Store 923,Anaheim,California,Neighborhood Market,2002,50,8000,West,53024,Walmart Supercenter,50,William Anderson
+924,Walmart Store 924,El Paso,Texas,Supercenter,2006,163,29656,South,173295,Walmart Discount Store,163,Elizabeth Smith
+925,Walmart Store 925,Rockford,Illinois,Neighborhood Market,2001,38,8000,Midwest,40001,Walmart Discount Store,38,John Johnson
+926,Walmart Store 926,Macon,Georgia,Warehouse,2008,115,16906,South,124411,Walmart Supercenter,115,Elizabeth Martin
+927,Walmart Store 927,San Antonio,Texas,Neighborhood Market,2017,52,8090,South,55052,Sam's Club,52,Linda Martin
+928,Walmart Store 928,Greensboro,North Carolina,Neighborhood Market,2001,56,8000,South,58413,Sam's Club,56,Jennifer Anderson
+929,Walmart Store 929,Greensboro,North Carolina,Neighborhood Market,2006,48,8000,South,52422,Walmart Supercenter,48,James Jackson
+930,Walmart Store 930,Joliet,Illinois,Sam's Club,2010,172,29605,Midwest,176668,Walmart Discount Store,172,James White
+931,Walmart Store 931,Warren,Michigan,Neighborhood Market,2002,37,8000,Midwest,39086,Sam's Club,37,John Jackson
+932,Walmart Store 932,Ann Arbor,Michigan,Warehouse,2013,126,18674,Midwest,135746,Walmart Supercenter,126,Michael Brown
+933,Walmart Store 933,Chicago,Illinois,Neighborhood Market,2016,39,8000,Midwest,43162,Sam's Club,39,Jennifer Smith
+934,Walmart Store 934,Tempe,Arizona,Neighborhood Market,2020,61,8691,West,66312,Walmart Supercenter,61,Robert Harris
+935,Walmart Store 935,Reading,Pennsylvania,Neighborhood Market,2015,54,8000,Northeast,57207,Walmart Supercenter,54,Elizabeth Thomas
+936,Walmart Store 936,Fort Worth,Texas,Sam's Club,2006,148,25138,South,158594,Walmart Supercenter,148,Linda Anderson
+937,Walmart Store 937,Fresno,California,Neighborhood Market,2022,50,8000,West,55701,Walmart Discount Store,50,Linda Martin
+938,Walmart Store 938,Glendale,Arizona,Neighborhood Market,2017,45,8000,West,47753,Walmart Supercenter,45,Robert Harris
+939,Walmart Store 939,Toledo,Ohio,Neighborhood Market,2009,64,8547,Midwest,67801,Walmart Supercenter,64,Patricia Martin
+940,Walmart Store 940,Raleigh,North Carolina,Neighborhood Market,2011,61,8151,South,66098,Walmart Supercenter,61,Michael Johnson
+941,Walmart Store 941,Glendale,Arizona,Neighborhood Market,2020,47,8000,West,51281,Walmart Discount Store,47,Mary Harris
+942,Walmart Store 942,Tucson,Arizona,Neighborhood Market,2000,57,8000,West,61485,Walmart Discount Store,57,Robert Martin
+943,Walmart Store 943,Gilbert,Arizona,Warehouse,2018,92,15428,West,101835,Walmart Supercenter,92,Linda Smith
+944,Walmart Store 944,Detroit,Michigan,Neighborhood Market,2005,45,8000,Midwest,48887,Walmart Discount Store,45,Jennifer White
+945,Walmart Store 945,Tucson,Arizona,Supercenter,2007,218,42002,West,222912,Walmart Supercenter,218,William Smith
+946,Walmart Store 946,Aurora,Illinois,Warehouse,2021,87,13626,Midwest,95484,Walmart Supercenter,87,William Anderson
+947,Walmart Store 947,Lansing,Michigan,Neighborhood Market,2005,57,8000,Midwest,60412,Walmart Discount Store,57,Linda Smith
+948,Walmart Store 948,Columbus,Ohio,Sam's Club,2018,118,22660,Midwest,130385,Walmart Supercenter,118,John Smith
+949,Walmart Store 949,Toledo,Ohio,Sam's Club,2011,142,21945,Midwest,146166,Walmart Supercenter,142,Jennifer Anderson
+950,Walmart Store 950,Chicago,Illinois,Warehouse,2021,102,21593,Midwest,112246,Walmart Discount Store,102,Jennifer Anderson
+951,Walmart Store 951,Columbus,Ohio,Neighborhood Market,2023,32,8000,Midwest,35774,Walmart Supercenter,32,William Harris
+952,Walmart Store 952,Joliet,Illinois,Supercenter,2016,204,41048,Midwest,210213,Walmart Discount Store,204,Jennifer Jackson
+953,Walmart Store 953,Allentown,Pennsylvania,Neighborhood Market,2014,62,8000,Northeast,64265,Walmart Supercenter,62,Jennifer Jackson
+954,Walmart Store 954,Naperville,Illinois,Sam's Club,2016,138,26090,Midwest,153396,Walmart Supercenter,138,William Smith
+955,Walmart Store 955,Rockford,Illinois,Neighborhood Market,2016,60,8000,Midwest,61725,Walmart Discount Store,60,James Anderson
+956,Walmart Store 956,Joliet,Illinois,Warehouse,2019,96,15285,Midwest,106850,Walmart Supercenter,96,Patricia White
+957,Walmart Store 957,Tucson,Arizona,Warehouse,2022,127,18015,West,135648,Sam's Club,127,James Brown
+958,Walmart Store 958,Dallas,Texas,Neighborhood Market,2018,68,11373,South,70115,Sam's Club,68,Mary Jackson
+959,Walmart Store 959,Tempe,Arizona,Neighborhood Market,2017,53,8000,West,59324,Walmart Supercenter,53,Patricia White
+960,Walmart Store 960,Garland,Texas,Neighborhood Market,2002,45,8000,South,46435,Walmart Discount Store,45,Patricia Smith
+961,Walmart Store 961,Erie,Pennsylvania,Neighborhood Market,2006,58,8000,Northeast,60069,Walmart Supercenter,58,Mary Jackson
+962,Walmart Store 962,Raleigh,North Carolina,Neighborhood Market,2017,45,8000,South,48751,Walmart Supercenter,45,Jennifer Smith
+963,Walmart Store 963,San Diego,California,Supercenter,2023,229,52469,West,235732,Sam's Club,229,Elizabeth Taylor
+964,Walmart Store 964,Aurora,Illinois,Neighborhood Market,2009,33,8000,Midwest,35617,Walmart Discount Store,33,Jennifer Taylor
+965,Walmart Store 965,Pittsburgh,Pennsylvania,Neighborhood Market,2000,41,8000,Northeast,42127,Walmart Discount Store,41,Michael White
+966,Walmart Store 966,Grand Rapids,Michigan,Supercenter,2010,164,34284,Midwest,173906,Walmart Supercenter,164,Michael Anderson
+967,Walmart Store 967,Tucson,Arizona,Neighborhood Market,2015,34,8000,West,37090,Walmart Supercenter,34,Michael Smith
+968,Walmart Store 968,Fresno,California,Neighborhood Market,2008,61,8000,West,64435,Walmart Supercenter,61,James White
+969,Walmart Store 969,Plano,Texas,Warehouse,2010,103,15008,South,108787,Walmart Discount Store,103,Mary Jackson
+970,Walmart Store 970,Winston-Salem,North Carolina,Supercenter,2007,183,34669,South,205030,Walmart Discount Store,183,John Jackson
+971,Walmart Store 971,Anaheim,California,Warehouse,2019,104,14630,West,108310,Sam's Club,104,Michael Taylor
+972,Walmart Store 972,Charlotte,North Carolina,Warehouse,2017,107,17256,South,113959,Walmart Discount Store,107,Elizabeth Taylor
+973,Walmart Store 973,Philadelphia,Pennsylvania,Neighborhood Market,2003,48,8000,Northeast,53201,Walmart Supercenter,48,William Anderson
+974,Walmart Store 974,Mesa,Arizona,Supercenter,2007,142,28579,West,153440,Walmart Supercenter,142,Linda Anderson
+975,Walmart Store 975,Orlando,Florida,Supercenter,2019,184,42876,South,196418,Walmart Discount Store,184,Michael Harris
+976,Walmart Store 976,Akron,Ohio,Supercenter,2018,198,39710,Midwest,203427,Walmart Supercenter,198,Michael Thomas
+977,Walmart Store 977,Charlotte,North Carolina,Neighborhood Market,2023,44,8000,South,47333,Walmart Supercenter,44,Mary Taylor
+978,Walmart Store 978,Columbus,Ohio,Neighborhood Market,2021,53,8000,Midwest,56821,Walmart Supercenter,53,Jennifer Thomas
+979,Walmart Store 979,Naperville,Illinois,Sam's Club,2006,123,22408,Midwest,130533,Walmart Supercenter,123,Elizabeth Taylor
+980,Walmart Store 980,Aurora,Illinois,Sam's Club,2011,147,24633,Midwest,161179,Walmart Supercenter,147,Elizabeth Thomas
+981,Walmart Store 981,Toledo,Ohio,Neighborhood Market,2004,61,8000,Midwest,62353,Walmart Discount Store,61,Robert Harris
+982,Walmart Store 982,Greensboro,North Carolina,Warehouse,2009,115,17429,South,118522,Walmart Discount Store,115,Linda Johnson
+983,Walmart Store 983,Gilbert,Arizona,Supercenter,2014,200,36425,West,208425,Walmart Supercenter,200,Linda Harris
+984,Walmart Store 984,Savannah,Georgia,Neighborhood Market,2015,45,8000,South,46942,Walmart Supercenter,45,William Harris
+985,Walmart Store 985,Corpus Christi,Texas,Neighborhood Market,2013,38,8000,South,39295,Walmart Supercenter,38,John Brown
+986,Walmart Store 986,Joliet,Illinois,Supercenter,2023,152,30190,Midwest,158530,Walmart Discount Store,152,William Anderson
+987,Walmart Store 987,Joliet,Illinois,Supercenter,2009,149,31834,Midwest,162973,Walmart Supercenter,149,Elizabeth White
+988,Walmart Store 988,Mesa,Arizona,Neighborhood Market,2010,40,8000,West,43714,Walmart Supercenter,40,Robert Smith
+989,Walmart Store 989,Durham,North Carolina,Sam's Club,2000,151,24105,South,161081,Walmart Discount Store,151,James Jackson
+990,Walmart Store 990,Atlanta,Georgia,Neighborhood Market,2005,63,9817,South,67442,Walmart Supercenter,63,Patricia Thomas
+991,Walmart Store 991,Naperville,Illinois,Neighborhood Market,2015,46,8000,Midwest,48530,Sam's Club,46,Elizabeth Smith
+992,Walmart Store 992,San Jose,California,Neighborhood Market,2001,40,8000,West,44219,Sam's Club,40,Jennifer Smith
+993,Walmart Store 993,Scottsdale,Arizona,Neighborhood Market,2008,45,8000,West,49642,Walmart Discount Store,45,William Jackson
+994,Walmart Store 994,Detroit,Michigan,Warehouse,2010,113,17997,Midwest,118040,Walmart Supercenter,113,Michael Taylor
+995,Walmart Store 995,Atlanta,Georgia,Sam's Club,2023,120,29006,South,132004,Walmart Discount Store,120,Linda Thomas
+996,Walmart Store 996,Tampa,Florida,Neighborhood Market,2007,47,8000,South,48457,Walmart Supercenter,47,Robert Brown
+997,Walmart Store 997,Tucson,Arizona,Neighborhood Market,2013,65,8789,West,66638,Walmart Supercenter,65,Elizabeth Anderson
+998,Walmart Store 998,Rockford,Illinois,Neighborhood Market,2013,39,8000,Midwest,42480,Walmart Supercenter,39,William Anderson
+999,Walmart Store 999,Miami,Florida,Supercenter,2015,157,42800,South,174506,Walmart Supercenter,157,Mary Jackson
+1000,Walmart Store 1000,Mesa,Arizona,Neighborhood Market,2022,65,8696,West,69257,Walmart Discount Store,65,Robert Anderson
+1001,Walmart Store 1001,Cleveland,Ohio,Neighborhood Market,2012,63,10140,Midwest,70393,Walmart Supercenter,63,Mary Johnson
+1002,Walmart Store 1002,Arlington,Texas,Warehouse,2013,93,13768,South,103939,Walmart Supercenter,93,Linda Martin
+1003,Walmart Store 1003,Philadelphia,Pennsylvania,Neighborhood Market,2009,46,8000,Northeast,50075,Walmart Supercenter,46,Michael Thomas
+1004,Walmart Store 1004,Flint,Michigan,Neighborhood Market,2003,58,8000,Midwest,61287,Sam's Club,58,Jennifer Brown
+1005,Walmart Store 1005,Miami,Florida,Neighborhood Market,2022,38,8000,South,42316,Walmart Supercenter,38,William Taylor
+1006,Walmart Store 1006,Mesa,Arizona,Neighborhood Market,2007,60,8000,West,66876,Walmart Supercenter,60,Linda Martin
+1007,Walmart Store 1007,Phoenix,Arizona,Supercenter,2023,152,36049,West,161561,Walmart Supercenter,152,John Martin
+1008,Walmart Store 1008,Raleigh,North Carolina,Neighborhood Market,2023,37,8000,South,39145,Walmart Discount Store,37,Mary Smith
+1009,Walmart Store 1009,Allentown,Pennsylvania,Neighborhood Market,2019,48,8000,Northeast,52013,Walmart Supercenter,48,Linda Smith
+1010,Walmart Store 1010,Akron,Ohio,Neighborhood Market,2012,37,8000,Midwest,37477,Walmart Supercenter,37,John Harris
+1011,Walmart Store 1011,Flint,Michigan,Sam's Club,2016,129,22578,Midwest,140182,Walmart Supercenter,129,Patricia Jackson
+1012,Walmart Store 1012,Greensboro,North Carolina,Neighborhood Market,2005,59,8000,South,60225,Walmart Supercenter,59,Jennifer Johnson
+1013,Walmart Store 1013,Orlando,Florida,Supercenter,2003,197,41601,South,203834,Walmart Supercenter,197,Elizabeth Smith
+1014,Walmart Store 1014,Joliet,Illinois,Sam's Club,2010,157,25508,Midwest,162792,Walmart Supercenter,157,Jennifer Anderson
+1015,Walmart Store 1015,Tucson,Arizona,Warehouse,2021,92,13798,West,94819,Walmart Discount Store,92,Elizabeth Brown
+1016,Walmart Store 1016,Mesa,Arizona,Neighborhood Market,2014,43,8000,West,44599,Walmart Supercenter,43,Jennifer Taylor
+1017,Walmart Store 1017,Rockford,Illinois,Neighborhood Market,2017,57,8000,Midwest,60584,Walmart Supercenter,57,Linda Taylor
+1018,Walmart Store 1018,Chicago,Illinois,Neighborhood Market,2016,51,9122,Midwest,55759,Walmart Supercenter,51,Michael Harris
+1019,Walmart Store 1019,Columbus,Ohio,Neighborhood Market,2015,57,8000,Midwest,58846,Walmart Supercenter,57,Patricia Jackson
+1020,Walmart Store 1020,Reading,Pennsylvania,Warehouse,2017,127,18781,Northeast,132630,Sam's Club,127,Linda Johnson
+1021,Walmart Store 1021,Philadelphia,Pennsylvania,Warehouse,2002,97,16117,Northeast,99562,Walmart Discount Store,97,Patricia Brown
+1022,Walmart Store 1022,Charlotte,North Carolina,Neighborhood Market,2003,43,8000,South,45341,Walmart Supercenter,43,William Thomas
+1023,Walmart Store 1023,Tampa,Florida,Supercenter,2009,171,38944,South,183624,Walmart Supercenter,171,Patricia White
+1024,Walmart Store 1024,Raleigh,North Carolina,Neighborhood Market,2012,57,8000,South,61234,Walmart Discount Store,57,Elizabeth Taylor
+1025,Walmart Store 1025,Macon,Georgia,Sam's Club,2001,132,25367,South,147047,Walmart Supercenter,132,Patricia Brown
+1026,Walmart Store 1026,Savannah,Georgia,Warehouse,2020,86,12623,South,90601,Walmart Discount Store,86,James Taylor
+1027,Walmart Store 1027,Philadelphia,Pennsylvania,Neighborhood Market,2012,49,8000,Northeast,53448,Walmart Supercenter,49,Patricia Brown
+1028,Walmart Store 1028,Los Angeles,California,Neighborhood Market,2012,69,10719,West,72739,Sam's Club,69,Mary Thomas
+1029,Walmart Store 1029,Erie,Pennsylvania,Sam's Club,2018,145,27380,Northeast,160768,Walmart Discount Store,145,Patricia Taylor
+1030,Walmart Store 1030,Houston,Texas,Sam's Club,2002,184,41107,South,192542,Sam's Club,184,Elizabeth Thomas
+1031,Walmart Store 1031,Sacramento,California,Neighborhood Market,2006,50,8000,West,52473,Walmart Discount Store,50,Robert White
+1032,Walmart Store 1032,Augusta,Georgia,Neighborhood Market,2018,39,8000,South,42972,Walmart Supercenter,39,Elizabeth Taylor
+1033,Walmart Store 1033,Chicago,Illinois,Neighborhood Market,2018,36,8000,Midwest,38294,Walmart Supercenter,36,Elizabeth Harris
+1034,Walmart Store 1034,Macon,Georgia,Sam's Club,2015,145,24926,South,150697,Walmart Discount Store,145,Elizabeth Anderson
+1035,Walmart Store 1035,Rockford,Illinois,Neighborhood Market,2020,54,8000,Midwest,57089,Walmart Discount Store,54,Patricia Anderson
+1036,Walmart Store 1036,Savannah,Georgia,Neighborhood Market,2022,64,8000,South,68021,Walmart Supercenter,64,James White
+1037,Walmart Store 1037,Atlanta,Georgia,Neighborhood Market,2008,36,8000,South,40218,Walmart Discount Store,36,John Martin
+1038,Walmart Store 1038,Reading,Pennsylvania,Neighborhood Market,2008,52,8000,Northeast,57801,Walmart Supercenter,52,Jennifer Harris
+1039,Walmart Store 1039,Charlotte,North Carolina,Neighborhood Market,2006,62,8825,South,66106,Walmart Supercenter,62,William Thomas
+1040,Walmart Store 1040,Toledo,Ohio,Sam's Club,2002,158,28427,Midwest,175079,Walmart Supercenter,158,John White
+1041,Walmart Store 1041,Tampa,Florida,Neighborhood Market,2008,38,8000,South,39541,Sam's Club,38,John Smith
+1042,Walmart Store 1042,Los Angeles,California,Neighborhood Market,2008,64,10323,West,72271,Walmart Supercenter,64,James Martin
+1043,Walmart Store 1043,Fort Worth,Texas,Supercenter,2016,139,27279,South,152517,Walmart Discount Store,139,Michael Johnson
+1044,Walmart Store 1044,Chicago,Illinois,Neighborhood Market,2011,64,11196,Midwest,69028,Walmart Discount Store,64,Jennifer Anderson
+1045,Walmart Store 1045,Chandler,Arizona,Neighborhood Market,2011,35,8000,West,38840,Walmart Discount Store,35,Patricia White
+1046,Walmart Store 1046,Pittsburgh,Pennsylvania,Neighborhood Market,2016,35,8000,Northeast,36866,Walmart Discount Store,35,John Thomas
+1047,Walmart Store 1047,Chicago,Illinois,Sam's Club,2006,149,30998,Midwest,156430,Walmart Supercenter,149,Jennifer Smith
+1048,Walmart Store 1048,Reading,Pennsylvania,Neighborhood Market,2013,62,8008,Northeast,66380,Walmart Discount Store,62,Robert Johnson
+1049,Walmart Store 1049,Austin,Texas,Neighborhood Market,2014,60,8540,South,66178,Walmart Discount Store,60,Jennifer Harris
+1050,Walmart Store 1050,Cleveland,Ohio,Neighborhood Market,2015,56,8106,Midwest,58098,Walmart Discount Store,56,Linda Johnson
+1051,Walmart Store 1051,Dayton,Ohio,Neighborhood Market,2007,57,8000,Midwest,58815,Walmart Supercenter,57,Elizabeth Smith
+1052,Walmart Store 1052,Naperville,Illinois,Sam's Club,2005,161,27885,Midwest,171450,Walmart Discount Store,161,William Taylor
+1053,Walmart Store 1053,Charlotte,North Carolina,Sam's Club,2005,146,26927,South,155743,Walmart Supercenter,146,Robert Anderson
+1054,Walmart Store 1054,Fresno,California,Neighborhood Market,2006,52,8000,West,53160,Walmart Supercenter,52,James Harris
+1055,Walmart Store 1055,Naperville,Illinois,Neighborhood Market,2012,62,8615,Midwest,67073,Walmart Supercenter,62,Patricia Martin
+1056,Walmart Store 1056,Atlanta,Georgia,Sam's Club,2006,142,30547,South,145160,Walmart Supercenter,142,James Brown
+1057,Walmart Store 1057,Fort Lauderdale,Florida,Sam's Club,2020,162,28150,South,175443,Walmart Discount Store,162,William Johnson
+1058,Walmart Store 1058,Macon,Georgia,Supercenter,2018,153,29946,South,171202,Walmart Discount Store,153,Jennifer Smith
+1059,Walmart Store 1059,Chicago,Illinois,Supercenter,2003,203,45042,Midwest,211197,Walmart Discount Store,203,James Thomas
+1060,Walmart Store 1060,Philadelphia,Pennsylvania,Supercenter,2022,185,48848,Northeast,204938,Walmart Supercenter,185,William Harris
+1061,Walmart Store 1061,Aurora,Illinois,Neighborhood Market,2018,43,8000,Midwest,47821,Walmart Supercenter,43,John Smith
+1062,Walmart Store 1062,Houston,Texas,Warehouse,2013,106,19065,South,112590,Walmart Discount Store,106,Michael Johnson
+1063,Walmart Store 1063,Flint,Michigan,Neighborhood Market,2023,46,8000,Midwest,46865,Walmart Discount Store,46,John Anderson
+1064,Walmart Store 1064,Austin,Texas,Sam's Club,2007,156,32828,South,172828,Sam's Club,156,Robert Martin
+1065,Walmart Store 1065,Chicago,Illinois,Warehouse,2002,115,23715,Midwest,124257,Walmart Supercenter,115,James Smith
+1066,Walmart Store 1066,Aurora,Illinois,Supercenter,2023,159,29168,Midwest,174411,Walmart Supercenter,159,Elizabeth Jackson
+1067,Walmart Store 1067,Philadelphia,Pennsylvania,Neighborhood Market,2019,56,9033,Northeast,61218,Sam's Club,56,Michael Johnson
+1068,Walmart Store 1068,Grand Rapids,Michigan,Neighborhood Market,2000,49,8000,Midwest,50549,Walmart Supercenter,49,Michael White
+1069,Walmart Store 1069,Allentown,Pennsylvania,Neighborhood Market,2013,65,8000,Northeast,70144,Walmart Supercenter,65,John Brown
+1070,Walmart Store 1070,Dayton,Ohio,Neighborhood Market,2006,39,8000,Midwest,43555,Walmart Discount Store,39,Patricia Harris
+1071,Walmart Store 1071,Atlanta,Georgia,Neighborhood Market,2015,49,8000,South,50173,Sam's Club,49,Robert Johnson
+1072,Walmart Store 1072,Naperville,Illinois,Sam's Club,2015,127,21271,Midwest,139434,Walmart Supercenter,127,Mary Johnson
+1073,Walmart Store 1073,Tempe,Arizona,Sam's Club,2004,159,26805,West,176633,Walmart Supercenter,159,Mary Thomas
+1074,Walmart Store 1074,Miami,Florida,Sam's Club,2017,125,28230,South,131910,Walmart Supercenter,125,Robert Harris
+1075,Walmart Store 1075,Naperville,Illinois,Sam's Club,2019,122,19451,Midwest,127823,Walmart Discount Store,122,John Smith
+1076,Walmart Store 1076,Phoenix,Arizona,Neighborhood Market,2015,48,8000,West,49565,Walmart Supercenter,48,Robert Taylor
+1077,Walmart Store 1077,Akron,Ohio,Neighborhood Market,2007,63,8961,Midwest,69694,Walmart Supercenter,63,Mary Taylor
+1078,Walmart Store 1078,Macon,Georgia,Neighborhood Market,2016,42,8000,South,42808,Walmart Supercenter,42,William Harris
+1079,Walmart Store 1079,Macon,Georgia,Sam's Club,2008,161,26760,South,169339,Walmart Supercenter,161,Robert White
+1080,Walmart Store 1080,Chicago,Illinois,Neighborhood Market,2003,59,9745,Midwest,60952,Walmart Supercenter,59,Michael Brown
+1081,Walmart Store 1081,Cincinnati,Ohio,Supercenter,2004,157,35062,Midwest,169314,Walmart Discount Store,157,William Anderson
+1082,Walmart Store 1082,Joliet,Illinois,Supercenter,2001,158,28999,Midwest,166630,Walmart Supercenter,158,James Smith
+1083,Walmart Store 1083,Fort Worth,Texas,Neighborhood Market,2022,58,8000,South,59883,Walmart Supercenter,58,Linda Johnson
+1084,Walmart Store 1084,Long Beach,California,Warehouse,2006,115,17193,West,120989,Walmart Supercenter,115,William Taylor
+1085,Walmart Store 1085,Riverside,California,Supercenter,2017,188,37450,West,210042,Sam's Club,188,Elizabeth Anderson
+1086,Walmart Store 1086,Joliet,Illinois,Neighborhood Market,2007,48,8000,Midwest,51625,Walmart Supercenter,48,Patricia Harris
+1087,Walmart Store 1087,Allentown,Pennsylvania,Neighborhood Market,2002,41,8000,Northeast,45057,Sam's Club,41,Elizabeth Martin
+1088,Walmart Store 1088,San Francisco,California,Neighborhood Market,2018,48,8068,West,50837,Sam's Club,48,William White
+1089,Walmart Store 1089,Erie,Pennsylvania,Neighborhood Market,2021,34,8000,Northeast,37727,Walmart Discount Store,34,Elizabeth Thomas
+1090,Walmart Store 1090,Toledo,Ohio,Supercenter,2020,153,30894,Midwest,166679,Walmart Supercenter,153,Elizabeth White
+1091,Walmart Store 1091,Sacramento,California,Neighborhood Market,2017,50,8000,West,56138,Walmart Supercenter,50,Patricia White
+1092,Walmart Store 1092,Columbus,Ohio,Neighborhood Market,2003,39,8000,Midwest,39896,Walmart Discount Store,39,John Taylor
+1093,Walmart Store 1093,Durham,North Carolina,Supercenter,2009,151,27731,South,161337,Walmart Discount Store,151,Mary White
+1094,Walmart Store 1094,Riverside,California,Sam's Club,2019,135,23825,West,139450,Sam's Club,135,Patricia Smith
+1095,Walmart Store 1095,Plano,Texas,Sam's Club,2007,145,27397,South,160205,Sam's Club,145,Mary Jackson
+1096,Walmart Store 1096,Los Angeles,California,Neighborhood Market,2005,62,10119,West,66163,Walmart Supercenter,62,Patricia Taylor
+1097,Walmart Store 1097,Lansing,Michigan,Neighborhood Market,2012,57,8000,Midwest,60664,Walmart Discount Store,57,Mary White
+1098,Walmart Store 1098,Erie,Pennsylvania,Sam's Club,2017,141,23083,Northeast,152627,Walmart Supercenter,141,Robert White
+1099,Walmart Store 1099,Columbus,Ohio,Supercenter,2015,200,39523,Midwest,204924,Walmart Supercenter,200,John Jackson
+1100,Walmart Store 1100,Savannah,Georgia,Neighborhood Market,2006,61,8000,South,67234,Walmart Supercenter,61,Michael Harris
+1101,Walmart Store 1101,Jacksonville,Florida,Neighborhood Market,2014,32,8000,South,36138,Walmart Discount Store,32,Patricia Brown
+1102,Walmart Store 1102,Erie,Pennsylvania,Neighborhood Market,2023,45,8000,Northeast,48557,Walmart Supercenter,45,Elizabeth Jackson
+1103,Walmart Store 1103,Allentown,Pennsylvania,Neighborhood Market,2008,34,8000,Northeast,38009,Walmart Supercenter,34,Michael Thomas
+1104,Walmart Store 1104,Naperville,Illinois,Neighborhood Market,2008,45,8000,Midwest,49365,Sam's Club,45,Patricia Thomas
+1105,Walmart Store 1105,Cincinnati,Ohio,Neighborhood Market,2006,55,8000,Midwest,58498,Walmart Supercenter,55,Elizabeth Johnson
+1106,Walmart Store 1106,Ann Arbor,Michigan,Neighborhood Market,2012,49,8000,Midwest,53023,Walmart Supercenter,49,William Taylor
+1107,Walmart Store 1107,Chicago,Illinois,Neighborhood Market,2001,68,10837,Midwest,73188,Walmart Supercenter,68,John White
+1108,Walmart Store 1108,Fresno,California,Supercenter,2015,205,38948,West,214588,Walmart Discount Store,205,Mary Jackson
+1109,Walmart Store 1109,Raleigh,North Carolina,Sam's Club,2010,153,27726,South,172713,Sam's Club,153,Michael Harris
+1110,Walmart Store 1110,Charlotte,North Carolina,Warehouse,2011,95,15290,South,102686,Walmart Supercenter,95,Mary Smith
+1111,Walmart Store 1111,Naperville,Illinois,Neighborhood Market,2006,41,8000,Midwest,45157,Walmart Supercenter,41,Elizabeth Anderson
+1112,Walmart Store 1112,Naperville,Illinois,Neighborhood Market,2022,54,8000,Midwest,56741,Walmart Supercenter,54,John Martin
+1113,Walmart Store 1113,Raleigh,North Carolina,Supercenter,2000,193,41509,South,211821,Walmart Supercenter,193,Linda Jackson
+1114,Walmart Store 1114,Tallahassee,Florida,Supercenter,2018,196,38367,South,207788,Walmart Supercenter,196,Linda Martin
+1115,Walmart Store 1115,Erie,Pennsylvania,Supercenter,2001,149,29838,Northeast,164282,Sam's Club,149,William Smith
+1116,Walmart Store 1116,Naperville,Illinois,Neighborhood Market,2010,49,8000,Midwest,52460,Walmart Discount Store,49,Mary Brown
+1117,Walmart Store 1117,Houston,Texas,Neighborhood Market,2021,38,8000,South,42052,Walmart Discount Store,38,Jennifer Brown
+1118,Walmart Store 1118,Cleveland,Ohio,Neighborhood Market,2007,65,9141,Midwest,69458,Walmart Supercenter,65,Robert Smith
+1119,Walmart Store 1119,Raleigh,North Carolina,Warehouse,2020,132,18503,South,139765,Walmart Discount Store,132,James Taylor
+1120,Walmart Store 1120,Akron,Ohio,Supercenter,2002,171,31924,Midwest,180117,Walmart Supercenter,171,Michael Jackson
+1121,Walmart Store 1121,Dallas,Texas,Sam's Club,2006,190,40249,South,193422,Walmart Discount Store,190,William Thomas
+1122,Walmart Store 1122,Long Beach,California,Supercenter,2003,204,41224,West,218534,Walmart Supercenter,204,John Smith
+1123,Walmart Store 1123,Naperville,Illinois,Neighborhood Market,2015,34,8000,Midwest,37741,Walmart Supercenter,34,Elizabeth Taylor
+1124,Walmart Store 1124,Durham,North Carolina,Neighborhood Market,2020,54,8000,South,57877,Sam's Club,54,Patricia Taylor
+1125,Walmart Store 1125,Grand Rapids,Michigan,Neighborhood Market,2011,47,8000,Midwest,48230,Walmart Discount Store,47,James Brown
+1126,Walmart Store 1126,Chicago,Illinois,Neighborhood Market,2005,41,8000,Midwest,41432,Sam's Club,41,Linda Jackson
+1127,Walmart Store 1127,Augusta,Georgia,Supercenter,2016,197,35779,South,204298,Walmart Discount Store,197,Mary Anderson
+1128,Walmart Store 1128,Garland,Texas,Neighborhood Market,2009,34,8000,South,37847,Walmart Supercenter,34,Jennifer Martin
+1129,Walmart Store 1129,Gilbert,Arizona,Neighborhood Market,2009,36,8000,West,39064,Walmart Supercenter,36,Patricia White
+1130,Walmart Store 1130,Savannah,Georgia,Supercenter,2020,200,37093,South,208576,Walmart Supercenter,200,William Brown
+1131,Walmart Store 1131,Lansing,Michigan,Supercenter,2001,183,32574,Midwest,189672,Sam's Club,183,Linda Smith
+1132,Walmart Store 1132,Greensboro,North Carolina,Neighborhood Market,2001,34,8000,South,37707,Walmart Supercenter,34,Jennifer White
+1133,Walmart Store 1133,Tallahassee,Florida,Warehouse,2006,115,17600,South,123010,Walmart Supercenter,115,James Johnson
+1134,Walmart Store 1134,Reading,Pennsylvania,Neighborhood Market,2016,42,8000,Northeast,45262,Walmart Supercenter,42,William Jackson
+1135,Walmart Store 1135,Greensboro,North Carolina,Neighborhood Market,2022,62,8000,South,65833,Walmart Discount Store,62,Robert Harris
+1136,Walmart Store 1136,Corpus Christi,Texas,Warehouse,2015,86,13185,South,94287,Sam's Club,86,Jennifer Martin
+1137,Walmart Store 1137,Chandler,Arizona,Neighborhood Market,2004,42,8000,West,45961,Walmart Supercenter,42,Michael Jackson
+1138,Walmart Store 1138,San Jose,California,Neighborhood Market,2002,61,9987,West,68164,Sam's Club,61,Jennifer Taylor
+1139,Walmart Store 1139,Joliet,Illinois,Sam's Club,2012,149,27383,Midwest,166255,Walmart Supercenter,149,Patricia Brown
+1140,Walmart Store 1140,Irving,Texas,Neighborhood Market,2019,63,8698,South,69725,Walmart Supercenter,63,James Taylor
+1141,Walmart Store 1141,Macon,Georgia,Warehouse,2005,107,15548,South,110741,Walmart Supercenter,107,Linda Harris
+1142,Walmart Store 1142,Detroit,Michigan,Neighborhood Market,2002,49,8000,Midwest,53812,Walmart Discount Store,49,Michael Martin
+1143,Walmart Store 1143,Charlotte,North Carolina,Sam's Club,2018,165,32479,South,176001,Walmart Supercenter,165,John White
+1144,Walmart Store 1144,Gilbert,Arizona,Neighborhood Market,2009,42,8000,West,44799,Walmart Supercenter,42,James Jackson
+1145,Walmart Store 1145,Columbus,Ohio,Supercenter,2015,193,41283,Midwest,210077,Walmart Supercenter,193,William Taylor
+1146,Walmart Store 1146,Chandler,Arizona,Sam's Club,2011,128,23745,West,141805,Walmart Supercenter,128,Patricia Johnson
+1147,Walmart Store 1147,Garland,Texas,Sam's Club,2006,129,22417,South,136201,Walmart Supercenter,129,Linda Thomas
+1148,Walmart Store 1148,Oakland,California,Warehouse,2011,105,16752,West,111903,Walmart Discount Store,105,Elizabeth Anderson
+1149,Walmart Store 1149,Tallahassee,Florida,Supercenter,2017,187,34395,South,192623,Walmart Supercenter,187,Patricia Martin
+1150,Walmart Store 1150,Miami,Florida,Neighborhood Market,2000,37,8000,South,40722,Walmart Supercenter,37,Robert Brown
+1151,Walmart Store 1151,Anaheim,California,Warehouse,2006,94,14072,West,105395,Sam's Club,94,Patricia Johnson
+1152,Walmart Store 1152,Warren,Michigan,Supercenter,2012,144,28039,Midwest,159276,Walmart Discount Store,144,Linda White
+1153,Walmart Store 1153,San Jose,California,Neighborhood Market,2008,45,8000,West,50618,Walmart Supercenter,45,William Jackson
+1154,Walmart Store 1154,Allentown,Pennsylvania,Neighborhood Market,2003,64,8844,Northeast,68819,Walmart Discount Store,64,Robert Thomas
+1155,Walmart Store 1155,Gilbert,Arizona,Neighborhood Market,2011,46,8000,West,49519,Sam's Club,46,Elizabeth Jackson
+1156,Walmart Store 1156,Cincinnati,Ohio,Neighborhood Market,2010,41,8000,Midwest,43720,Walmart Discount Store,41,William White
+1157,Walmart Store 1157,Greensboro,North Carolina,Sam's Club,2012,173,27079,South,178012,Sam's Club,173,William Taylor
+1158,Walmart Store 1158,Irving,Texas,Sam's Club,2015,115,19168,South,124020,Walmart Supercenter,115,Elizabeth Martin
+1159,Walmart Store 1159,Charlotte,North Carolina,Neighborhood Market,2021,35,8000,South,38851,Walmart Supercenter,35,John Thomas
+1160,Walmart Store 1160,Akron,Ohio,Supercenter,2022,151,31474,Midwest,166631,Walmart Supercenter,151,William Taylor
+1161,Walmart Store 1161,Rockford,Illinois,Sam's Club,2019,147,25295,Midwest,163293,Walmart Supercenter,147,Michael Jackson
+1162,Walmart Store 1162,Grand Rapids,Michigan,Neighborhood Market,2013,47,8000,Midwest,50780,Walmart Supercenter,47,Jennifer Smith
+1163,Walmart Store 1163,Winston-Salem,North Carolina,Sam's Club,2012,143,24676,South,154305,Walmart Supercenter,143,John Martin
+1164,Walmart Store 1164,Erie,Pennsylvania,Warehouse,2005,125,19215,Northeast,134065,Walmart Discount Store,125,Patricia Thomas
+1165,Walmart Store 1165,Tucson,Arizona,Neighborhood Market,2023,52,8000,West,57972,Walmart Supercenter,52,James Thomas
+1166,Walmart Store 1166,San Francisco,California,Neighborhood Market,2022,35,8000,West,37696,Walmart Supercenter,35,Michael Harris
+1167,Walmart Store 1167,Augusta,Georgia,Neighborhood Market,2018,36,8000,South,38882,Walmart Supercenter,36,Robert Taylor
+1168,Walmart Store 1168,Raleigh,North Carolina,Neighborhood Market,2000,58,8000,South,61412,Walmart Discount Store,58,Mary Anderson
+1169,Walmart Store 1169,Ann Arbor,Michigan,Supercenter,2012,137,29078,Midwest,153872,Walmart Supercenter,137,Linda Thomas
+1170,Walmart Store 1170,Reading,Pennsylvania,Neighborhood Market,2018,34,8000,Northeast,36946,Walmart Discount Store,34,Michael Harris
+1171,Walmart Store 1171,Glendale,Arizona,Supercenter,2006,136,26725,West,149330,Walmart Supercenter,136,James Smith
+1172,Walmart Store 1172,Naperville,Illinois,Neighborhood Market,2019,42,8000,Midwest,45659,Sam's Club,42,Elizabeth Martin
+1173,Walmart Store 1173,Akron,Ohio,Supercenter,2015,148,30825,Midwest,158325,Walmart Supercenter,148,John Thomas
+1174,Walmart Store 1174,Tampa,Florida,Sam's Club,2017,127,23769,South,140706,Walmart Supercenter,127,James Harris
+1175,Walmart Store 1175,Augusta,Georgia,Supercenter,2012,138,28826,South,151741,Walmart Supercenter,138,Linda White
+1176,Walmart Store 1176,Los Angeles,California,Neighborhood Market,2014,41,8000,West,45693,Sam's Club,41,Jennifer Brown
+1177,Walmart Store 1177,Phoenix,Arizona,Supercenter,2004,193,47190,West,200040,Walmart Supercenter,193,John Taylor
+1178,Walmart Store 1178,Savannah,Georgia,Neighborhood Market,2002,64,8485,South,66747,Sam's Club,64,Robert Harris
+1179,Walmart Store 1179,Irvine,California,Neighborhood Market,2006,49,8000,West,51280,Walmart Discount Store,49,Linda Brown
+1180,Walmart Store 1180,Raleigh,North Carolina,Neighborhood Market,2023,52,8000,South,53630,Walmart Discount Store,52,Mary Thomas
+1181,Walmart Store 1181,Anaheim,California,Neighborhood Market,2018,45,8000,West,48916,Walmart Supercenter,45,William Taylor
+1182,Walmart Store 1182,Cincinnati,Ohio,Neighborhood Market,2011,53,8440,Midwest,59719,Walmart Supercenter,53,Michael Harris
+1183,Walmart Store 1183,Aurora,Illinois,Neighborhood Market,2022,45,8000,Midwest,47864,Walmart Supercenter,45,Michael Smith
+1184,Walmart Store 1184,Philadelphia,Pennsylvania,Warehouse,2008,115,20839,Northeast,129166,Walmart Supercenter,115,Elizabeth Harris
+1185,Walmart Store 1185,Cleveland,Ohio,Neighborhood Market,2021,62,9378,Midwest,65963,Walmart Supercenter,62,Jennifer Jackson
+1186,Walmart Store 1186,Greensboro,North Carolina,Warehouse,2007,92,13500,South,94525,Walmart Supercenter,92,Mary Taylor
+1187,Walmart Store 1187,Chicago,Illinois,Neighborhood Market,2004,48,8000,Midwest,54405,Walmart Supercenter,48,Michael Taylor
+1188,Walmart Store 1188,Rockford,Illinois,Sam's Club,2006,150,26570,Midwest,158375,Walmart Supercenter,150,James Smith
+1189,Walmart Store 1189,Cincinnati,Ohio,Supercenter,2018,169,38525,Midwest,181996,Walmart Discount Store,169,Michael Taylor
+1190,Walmart Store 1190,Aurora,Illinois,Sam's Club,2005,155,26937,Midwest,170403,Walmart Supercenter,155,Patricia Anderson
+1191,Walmart Store 1191,Jacksonville,Florida,Sam's Club,2006,125,23175,South,133646,Walmart Supercenter,125,William Jackson
+1192,Walmart Store 1192,Macon,Georgia,Neighborhood Market,2012,56,8000,South,60844,Walmart Supercenter,56,John Taylor
+1193,Walmart Store 1193,Greensboro,North Carolina,Warehouse,2000,115,18395,South,121897,Walmart Discount Store,115,James White
+1194,Walmart Store 1194,Jacksonville,Florida,Sam's Club,2018,130,22874,South,142827,Walmart Supercenter,130,Michael Jackson
+1195,Walmart Store 1195,Columbus,Ohio,Neighborhood Market,2017,55,8000,Midwest,57961,Walmart Supercenter,55,James Harris
+1196,Walmart Store 1196,Joliet,Illinois,Neighborhood Market,2004,61,8005,Midwest,67238,Walmart Supercenter,61,Mary Martin
+1197,Walmart Store 1197,Hialeah,Florida,Neighborhood Market,2019,39,8000,South,40122,Walmart Discount Store,39,Mary Brown
+1198,Walmart Store 1198,Phoenix,Arizona,Neighborhood Market,2011,40,8000,West,42035,Sam's Club,40,Jennifer Taylor
+1199,Walmart Store 1199,Tampa,Florida,Supercenter,2010,188,40735,South,192197,Walmart Supercenter,188,Michael Thomas
+1200,Walmart Store 1200,Grand Rapids,Michigan,Neighborhood Market,2014,60,8000,Midwest,61799,Sam's Club,60,Michael Jackson
+1201,Walmart Store 1201,Naperville,Illinois,Warehouse,2023,132,17883,Midwest,137549,Walmart Discount Store,132,James Harris
+1202,Walmart Store 1202,San Francisco,California,Supercenter,2010,219,48706,West,233394,Sam's Club,219,John Thomas
+1203,Walmart Store 1203,Phoenix,Arizona,Neighborhood Market,2003,47,8111,West,50167,Walmart Supercenter,47,James White
+1204,Walmart Store 1204,Charlotte,North Carolina,Supercenter,2006,208,41837,South,218246,Walmart Supercenter,208,Patricia Johnson
+1205,Walmart Store 1205,Greensboro,North Carolina,Neighborhood Market,2008,46,8000,South,49222,Walmart Discount Store,46,Jennifer Anderson
+1206,Walmart Store 1206,Dayton,Ohio,Neighborhood Market,2002,60,8432,Midwest,67438,Walmart Supercenter,60,Jennifer Johnson
+1207,Walmart Store 1207,Raleigh,North Carolina,Neighborhood Market,2008,56,8000,South,62008,Walmart Supercenter,56,John White
+1208,Walmart Store 1208,Naperville,Illinois,Neighborhood Market,2011,60,8000,Midwest,67779,Walmart Supercenter,60,Jennifer Brown
+1209,Walmart Store 1209,Mesa,Arizona,Supercenter,2017,172,32864,West,186962,Walmart Discount Store,172,Mary Johnson
+1210,Walmart Store 1210,Atlanta,Georgia,Sam's Club,2016,158,30533,South,162292,Walmart Supercenter,158,Linda Brown
+1211,Walmart Store 1211,Dayton,Ohio,Neighborhood Market,2004,55,8000,Midwest,60203,Walmart Supercenter,55,Robert Smith
+1212,Walmart Store 1212,Aurora,Illinois,Supercenter,2022,201,36944,Midwest,212703,Walmart Supercenter,201,James Thomas
+1213,Walmart Store 1213,Glendale,Arizona,Sam's Club,2020,128,23322,West,135937,Sam's Club,128,Patricia Martin
+1214,Walmart Store 1214,Gilbert,Arizona,Neighborhood Market,2012,54,8000,West,58767,Sam's Club,54,James Smith
+1215,Walmart Store 1215,St. Petersburg,Florida,Sam's Club,2007,143,25651,South,153519,Sam's Club,143,Robert White
+1216,Walmart Store 1216,Warren,Michigan,Neighborhood Market,2021,43,8000,Midwest,44263,Walmart Supercenter,43,John Johnson
+1217,Walmart Store 1217,Riverside,California,Neighborhood Market,2013,51,8000,West,56485,Walmart Supercenter,51,Mary Harris
+1218,Walmart Store 1218,Houston,Texas,Neighborhood Market,2023,62,9734,South,66137,Sam's Club,62,Mary Brown
+1219,Walmart Store 1219,Macon,Georgia,Supercenter,2020,167,29497,South,171445,Walmart Supercenter,167,Michael Brown
+1220,Walmart Store 1220,San Diego,California,Sam's Club,2023,150,30907,West,161254,Walmart Discount Store,150,Elizabeth White
+1221,Walmart Store 1221,Joliet,Illinois,Sam's Club,2019,121,19268,Midwest,125693,Walmart Supercenter,121,James Brown
+1222,Walmart Store 1222,Savannah,Georgia,Sam's Club,2006,167,31470,South,180192,Walmart Supercenter,167,Patricia Thomas
+1223,Walmart Store 1223,Durham,North Carolina,Neighborhood Market,2023,49,8000,South,54780,Walmart Supercenter,49,William Jackson
+1224,Walmart Store 1224,Durham,North Carolina,Neighborhood Market,2007,47,8000,South,48680,Walmart Supercenter,47,Linda Smith
+1225,Walmart Store 1225,Durham,North Carolina,Supercenter,2011,161,34825,South,178733,Walmart Supercenter,161,Patricia White
+1226,Walmart Store 1226,Aurora,Illinois,Supercenter,2023,158,29999,Midwest,167052,Walmart Supercenter,158,William Martin
+1227,Walmart Store 1227,Santa Ana,California,Supercenter,2015,150,27656,West,166856,Walmart Discount Store,150,Linda Taylor
+1228,Walmart Store 1228,Jacksonville,Florida,Sam's Club,2017,149,27270,South,162448,Sam's Club,149,Linda Taylor
+1229,Walmart Store 1229,San Diego,California,Sam's Club,2017,161,33418,West,164673,Walmart Discount Store,161,John Taylor
+1230,Walmart Store 1230,Allentown,Pennsylvania,Neighborhood Market,2023,41,8000,Northeast,46285,Walmart Supercenter,41,William Martin
+1231,Walmart Store 1231,Naperville,Illinois,Sam's Club,2010,142,25560,Midwest,153779,Walmart Supercenter,142,Robert Taylor
+1232,Walmart Store 1232,Los Angeles,California,Neighborhood Market,2002,53,8032,West,55488,Walmart Supercenter,53,Patricia Martin
+1233,Walmart Store 1233,Jacksonville,Florida,Neighborhood Market,2010,57,8000,South,59138,Sam's Club,57,William Martin
+1234,Walmart Store 1234,Glendale,Arizona,Warehouse,2004,87,13955,West,97620,Walmart Supercenter,87,Mary Jackson
+1235,Walmart Store 1235,Flint,Michigan,Sam's Club,2023,131,22117,Midwest,143459,Walmart Supercenter,131,Linda Thomas
+1236,Walmart Store 1236,Detroit,Michigan,Supercenter,2018,153,32415,Midwest,170388,Walmart Discount Store,153,Elizabeth Martin
+1237,Walmart Store 1237,Charlotte,North Carolina,Neighborhood Market,2016,53,8000,South,56772,Walmart Supercenter,53,Michael Harris
+1238,Walmart Store 1238,Durham,North Carolina,Warehouse,2014,117,16938,South,130225,Walmart Supercenter,117,James Anderson
+1239,Walmart Store 1239,Detroit,Michigan,Neighborhood Market,2006,46,8000,Midwest,49104,Walmart Supercenter,46,Patricia Thomas
+1240,Walmart Store 1240,Charlotte,North Carolina,Supercenter,2011,203,41948,South,226107,Walmart Supercenter,203,Elizabeth Brown
+1241,Walmart Store 1241,Charlotte,North Carolina,Neighborhood Market,2021,38,8000,South,40815,Walmart Supercenter,38,Jennifer Brown
+1242,Walmart Store 1242,Ann Arbor,Michigan,Neighborhood Market,2017,57,8000,Midwest,62523,Walmart Discount Store,57,Jennifer Anderson
+1243,Walmart Store 1243,Oakland,California,Neighborhood Market,2016,60,8000,West,67066,Walmart Supercenter,60,Michael Jackson
+1244,Walmart Store 1244,Austin,Texas,Sam's Club,2007,126,23988,South,142043,Walmart Discount Store,126,Elizabeth Jackson
+1245,Walmart Store 1245,Macon,Georgia,Neighborhood Market,2019,44,8000,South,48213,Walmart Supercenter,44,James White
+1246,Walmart Store 1246,Glendale,Arizona,Sam's Club,2002,128,23604,West,137858,Walmart Supercenter,128,James Martin
+1247,Walmart Store 1247,Macon,Georgia,Neighborhood Market,2001,43,8000,South,45949,Walmart Supercenter,43,James Brown
+1248,Walmart Store 1248,Winston-Salem,North Carolina,Neighborhood Market,2001,39,8000,South,43355,Walmart Supercenter,39,John White
+1249,Walmart Store 1249,San Antonio,Texas,Sam's Club,2006,142,28761,South,153737,Walmart Supercenter,142,James Jackson
+1250,Walmart Store 1250,Erie,Pennsylvania,Neighborhood Market,2006,63,8366,Northeast,69249,Walmart Supercenter,63,Patricia Harris
+1251,Walmart Store 1251,San Antonio,Texas,Supercenter,2023,190,42627,South,193374,Walmart Discount Store,190,William Johnson
+1252,Walmart Store 1252,El Paso,Texas,Neighborhood Market,2001,58,8000,South,64283,Walmart Discount Store,58,Elizabeth Martin
+1253,Walmart Store 1253,Miami,Florida,Neighborhood Market,2023,41,8000,South,44393,Walmart Supercenter,41,James White
+1254,Walmart Store 1254,Joliet,Illinois,Neighborhood Market,2017,38,8000,Midwest,42127,Walmart Discount Store,38,Jennifer Anderson
+1255,Walmart Store 1255,Fort Lauderdale,Florida,Warehouse,2004,111,18915,South,123678,Walmart Supercenter,111,Michael White
+1256,Walmart Store 1256,Dayton,Ohio,Supercenter,2021,195,40912,Midwest,211229,Walmart Supercenter,195,Elizabeth Thomas
+1257,Walmart Store 1257,Augusta,Georgia,Neighborhood Market,2003,45,8000,South,46775,Walmart Supercenter,45,Jennifer Smith
+1258,Walmart Store 1258,Hialeah,Florida,Sam's Club,2008,144,25274,South,151429,Walmart Supercenter,144,Michael Brown
+1259,Walmart Store 1259,Columbus,Ohio,Neighborhood Market,2015,39,8000,Midwest,40405,Walmart Supercenter,39,Linda Jackson
+1260,Walmart Store 1260,Chicago,Illinois,Supercenter,2010,198,49476,Midwest,207842,Walmart Supercenter,198,Jennifer Taylor
+1261,Walmart Store 1261,Hialeah,Florida,Neighborhood Market,2001,47,8000,South,50746,Walmart Discount Store,47,James Martin
+1262,Walmart Store 1262,Chandler,Arizona,Neighborhood Market,2013,47,8000,West,50946,Walmart Supercenter,47,Robert Thomas
+1263,Walmart Store 1263,Hialeah,Florida,Neighborhood Market,2001,50,8000,South,55694,Walmart Supercenter,50,Linda Jackson
+1264,Walmart Store 1264,Winston-Salem,North Carolina,Warehouse,2005,100,15159,South,110754,Walmart Supercenter,100,John Brown
+1265,Walmart Store 1265,El Paso,Texas,Neighborhood Market,2010,57,8000,South,63977,Walmart Supercenter,57,Jennifer Johnson
+1266,Walmart Store 1266,Warren,Michigan,Neighborhood Market,2007,58,8000,Midwest,63765,Walmart Supercenter,58,William Martin
+1267,Walmart Store 1267,Cleveland,Ohio,Neighborhood Market,2017,52,8065,Midwest,57713,Walmart Supercenter,52,Elizabeth Anderson
+1268,Walmart Store 1268,Mesa,Arizona,Neighborhood Market,2008,64,8577,West,67747,Walmart Supercenter,64,William White
+1269,Walmart Store 1269,Aurora,Illinois,Supercenter,2013,161,32058,Midwest,173934,Walmart Supercenter,161,Jennifer Harris
+1270,Walmart Store 1270,Naperville,Illinois,Warehouse,2008,121,18688,Midwest,135501,Walmart Supercenter,121,Patricia Thomas
+1271,Walmart Store 1271,Dayton,Ohio,Sam's Club,2006,119,22520,Midwest,129550,Walmart Discount Store,119,John Smith
+1272,Walmart Store 1272,Jacksonville,Florida,Supercenter,2005,189,38082,South,205991,Walmart Supercenter,189,James Jackson
+1273,Walmart Store 1273,Jacksonville,Florida,Neighborhood Market,2014,64,8523,South,70258,Walmart Supercenter,64,John Smith
+1274,Walmart Store 1274,Winston-Salem,North Carolina,Supercenter,2006,164,30351,South,175332,Walmart Supercenter,164,Mary Johnson
+1275,Walmart Store 1275,Macon,Georgia,Warehouse,2019,97,14826,South,101888,Sam's Club,97,Patricia Harris
+1276,Walmart Store 1276,Scottsdale,Arizona,Supercenter,2009,165,32876,West,184371,Walmart Discount Store,165,Robert Smith
+1277,Walmart Store 1277,Rockford,Illinois,Supercenter,2004,167,31236,Midwest,170326,Sam's Club,167,William Thomas
+1278,Walmart Store 1278,Aurora,Illinois,Neighborhood Market,2009,55,8029,Midwest,61124,Walmart Supercenter,55,Elizabeth Smith
+1279,Walmart Store 1279,Jacksonville,Florida,Neighborhood Market,2014,36,8000,South,38085,Walmart Supercenter,36,Elizabeth White
+1280,Walmart Store 1280,Charlotte,North Carolina,Warehouse,2004,106,16717,South,113473,Walmart Supercenter,106,Michael Jackson
+1281,Walmart Store 1281,Rockford,Illinois,Supercenter,2012,196,37074,Midwest,201307,Walmart Supercenter,196,Mary Brown
+1282,Walmart Store 1282,Aurora,Illinois,Neighborhood Market,2002,50,8000,Midwest,55544,Walmart Supercenter,50,John Johnson
+1283,Walmart Store 1283,Joliet,Illinois,Supercenter,2012,209,43855,Midwest,222448,Sam's Club,209,John Smith
+1284,Walmart Store 1284,Greensboro,North Carolina,Neighborhood Market,2023,47,8000,South,49249,Walmart Supercenter,47,John Taylor
+1285,Walmart Store 1285,Irving,Texas,Neighborhood Market,2003,48,8000,South,52933,Walmart Supercenter,48,John Martin
+1286,Walmart Store 1286,Rockford,Illinois,Warehouse,2012,114,17172,Midwest,125578,Walmart Supercenter,114,John Jackson
+1287,Walmart Store 1287,Scottsdale,Arizona,Neighborhood Market,2010,47,8000,West,50953,Sam's Club,47,Jennifer Thomas
+1288,Walmart Store 1288,Allentown,Pennsylvania,Supercenter,2005,151,28002,Northeast,155536,Walmart Discount Store,151,Elizabeth Jackson
+1289,Walmart Store 1289,Macon,Georgia,Neighborhood Market,2005,56,8000,South,58359,Walmart Supercenter,56,James Anderson
+1290,Walmart Store 1290,Philadelphia,Pennsylvania,Sam's Club,2022,174,34394,Northeast,177931,Walmart Supercenter,174,Linda Taylor
+1291,Walmart Store 1291,Cincinnati,Ohio,Supercenter,2019,208,44380,Midwest,219026,Walmart Discount Store,208,Robert Jackson
+1292,Walmart Store 1292,Long Beach,California,Neighborhood Market,2009,48,8000,West,52747,Walmart Supercenter,48,Linda Smith
+1293,Walmart Store 1293,Savannah,Georgia,Neighborhood Market,2022,68,8276,South,69749,Walmart Supercenter,68,Robert Taylor
+1294,Walmart Store 1294,Tallahassee,Florida,Neighborhood Market,2021,43,8000,South,45933,Sam's Club,43,John Martin
+1295,Walmart Store 1295,St. Petersburg,Florida,Neighborhood Market,2017,45,8000,South,48411,Walmart Supercenter,45,Elizabeth Jackson
+1296,Walmart Store 1296,Chicago,Illinois,Supercenter,2004,216,55988,Midwest,234350,Walmart Supercenter,216,William Brown
+1297,Walmart Store 1297,Glendale,Arizona,Sam's Club,2012,159,30534,West,178075,Walmart Supercenter,159,William Johnson
+1298,Walmart Store 1298,Durham,North Carolina,Neighborhood Market,2011,64,8000,South,69329,Walmart Supercenter,64,Linda Johnson
+1299,Walmart Store 1299,Rockford,Illinois,Neighborhood Market,2005,52,8000,Midwest,53494,Sam's Club,52,Robert Brown
+1300,Walmart Store 1300,Chandler,Arizona,Neighborhood Market,2002,49,8000,West,51843,Walmart Supercenter,49,Patricia Anderson
+1301,Walmart Store 1301,Ann Arbor,Michigan,Neighborhood Market,2022,54,8000,Midwest,58869,Walmart Discount Store,54,Patricia Brown
+1302,Walmart Store 1302,Glendale,Arizona,Neighborhood Market,2007,43,8000,West,47525,Walmart Supercenter,43,Linda Harris
+1303,Walmart Store 1303,Chicago,Illinois,Warehouse,2020,137,26086,Midwest,148278,Walmart Supercenter,137,Michael Taylor
+1304,Walmart Store 1304,Ann Arbor,Michigan,Neighborhood Market,2016,47,8000,Midwest,49441,Sam's Club,47,Linda Johnson
+1305,Walmart Store 1305,Augusta,Georgia,Neighborhood Market,2016,60,8607,South,68131,Walmart Supercenter,60,Linda Taylor
+1306,Walmart Store 1306,Miami,Florida,Sam's Club,2015,166,34721,South,180605,Walmart Supercenter,166,Linda White
+1307,Walmart Store 1307,Tallahassee,Florida,Sam's Club,2013,113,21431,South,126411,Sam's Club,113,Elizabeth White
+1308,Walmart Store 1308,Macon,Georgia,Supercenter,2000,198,34502,South,205119,Sam's Club,198,Linda Thomas
+1309,Walmart Store 1309,Naperville,Illinois,Sam's Club,2021,118,20755,Midwest,127056,Walmart Supercenter,118,John Harris
+1310,Walmart Store 1310,Aurora,Illinois,Neighborhood Market,2000,61,8000,Midwest,63037,Walmart Supercenter,61,Michael Martin
+1311,Walmart Store 1311,Phoenix,Arizona,Neighborhood Market,2018,41,8000,West,41954,Walmart Discount Store,41,John Taylor
+1312,Walmart Store 1312,Greensboro,North Carolina,Neighborhood Market,2020,50,8000,South,51377,Walmart Supercenter,50,John Taylor
+1313,Walmart Store 1313,Arlington,Texas,Neighborhood Market,2018,52,8000,South,57192,Sam's Club,52,Mary Taylor
+1314,Walmart Store 1314,Anaheim,California,Supercenter,2001,161,32296,West,171728,Walmart Supercenter,161,William Anderson
+1315,Walmart Store 1315,Chandler,Arizona,Supercenter,2011,197,40638,West,215239,Walmart Supercenter,197,John Smith
+1316,Walmart Store 1316,Akron,Ohio,Neighborhood Market,2009,54,8000,Midwest,60451,Walmart Discount Store,54,Robert Johnson
+1317,Walmart Store 1317,Sacramento,California,Supercenter,2011,204,44915,West,211234,Walmart Discount Store,204,William Smith
+1318,Walmart Store 1318,St. Petersburg,Florida,Sam's Club,2016,111,19881,South,118519,Walmart Supercenter,111,John White
+1319,Walmart Store 1319,Sacramento,California,Neighborhood Market,2015,45,8000,West,49343,Walmart Supercenter,45,Jennifer Smith
+1320,Walmart Store 1320,Raleigh,North Carolina,Supercenter,2013,157,30816,South,160867,Sam's Club,157,Jennifer Jackson
+1321,Walmart Store 1321,Long Beach,California,Supercenter,2001,145,31041,West,159412,Walmart Supercenter,145,James Martin
+1322,Walmart Store 1322,Jacksonville,Florida,Neighborhood Market,2018,63,8278,South,68527,Walmart Supercenter,63,Linda Anderson
+1323,Walmart Store 1323,Durham,North Carolina,Neighborhood Market,2018,51,8000,South,57292,Walmart Supercenter,51,Elizabeth Johnson
+1324,Walmart Store 1324,Warren,Michigan,Neighborhood Market,2002,50,8000,Midwest,52395,Walmart Supercenter,50,James Brown
+1325,Walmart Store 1325,Glendale,Arizona,Neighborhood Market,2021,61,8000,West,67054,Walmart Supercenter,61,Elizabeth Taylor
+1326,Walmart Store 1326,Detroit,Michigan,Supercenter,2009,156,33326,Midwest,164639,Walmart Supercenter,156,Michael Johnson
+1327,Walmart Store 1327,Columbus,Ohio,Sam's Club,2008,143,25439,Midwest,147545,Walmart Supercenter,143,Elizabeth Anderson
+1328,Walmart Store 1328,San Antonio,Texas,Neighborhood Market,2007,51,8000,South,55259,Walmart Supercenter,51,Linda Smith
+1329,Walmart Store 1329,Naperville,Illinois,Neighborhood Market,2011,50,8000,Midwest,52264,Walmart Discount Store,50,Patricia Smith
+1330,Walmart Store 1330,Cincinnati,Ohio,Sam's Club,2023,134,25790,Midwest,139050,Walmart Supercenter,134,Mary Martin
+1331,Walmart Store 1331,Joliet,Illinois,Neighborhood Market,2016,54,8000,Midwest,58820,Walmart Supercenter,54,Patricia Johnson
+1332,Walmart Store 1332,Tempe,Arizona,Neighborhood Market,2014,58,8000,West,62703,Walmart Supercenter,58,Linda Smith
+1333,Walmart Store 1333,St. Petersburg,Florida,Neighborhood Market,2004,58,8000,South,63526,Walmart Supercenter,58,Patricia Brown
+1334,Walmart Store 1334,Allentown,Pennsylvania,Neighborhood Market,2007,37,8000,Northeast,41440,Walmart Supercenter,37,Elizabeth Anderson
+1335,Walmart Store 1335,Tucson,Arizona,Sam's Club,2014,114,21097,West,126031,Walmart Supercenter,114,Robert Martin
+1336,Walmart Store 1336,Aurora,Illinois,Supercenter,2021,158,33957,Midwest,175624,Walmart Supercenter,158,James Taylor
+1337,Walmart Store 1337,Rockford,Illinois,Neighborhood Market,2003,42,8000,Midwest,44685,Walmart Supercenter,42,Robert Anderson
+1338,Walmart Store 1338,Chicago,Illinois,Sam's Club,2020,133,28073,Midwest,143652,Walmart Supercenter,133,John Taylor
+1339,Walmart Store 1339,San Francisco,California,Neighborhood Market,2012,71,10410,West,73493,Walmart Supercenter,71,Elizabeth Johnson
+1340,Walmart Store 1340,Tucson,Arizona,Neighborhood Market,2016,42,8000,West,46992,Walmart Supercenter,42,Michael White
+1341,Walmart Store 1341,Grand Rapids,Michigan,Sam's Club,2017,114,21412,Midwest,125239,Walmart Supercenter,114,Mary Martin
+1342,Walmart Store 1342,Chicago,Illinois,Supercenter,2008,154,39783,Midwest,166080,Walmart Supercenter,154,Michael White
+1343,Walmart Store 1343,Mesa,Arizona,Sam's Club,2019,115,20021,West,118418,Walmart Discount Store,115,Mary Taylor
+1344,Walmart Store 1344,Chicago,Illinois,Warehouse,2011,129,23710,Midwest,145932,Walmart Discount Store,129,Jennifer Anderson
+1345,Walmart Store 1345,Grand Rapids,Michigan,Supercenter,2023,149,31261,Midwest,166787,Walmart Supercenter,149,Michael Johnson
+1346,Walmart Store 1346,Plano,Texas,Neighborhood Market,2016,38,8000,South,41387,Walmart Supercenter,38,Jennifer Martin
+1347,Walmart Store 1347,Joliet,Illinois,Neighborhood Market,2014,62,8228,Midwest,64064,Walmart Supercenter,62,James Martin
+1348,Walmart Store 1348,Chicago,Illinois,Neighborhood Market,2004,48,8000,Midwest,53785,Sam's Club,48,Patricia Jackson
+1349,Walmart Store 1349,Tallahassee,Florida,Supercenter,2007,196,33711,South,201215,Walmart Supercenter,196,Mary Anderson
+1350,Walmart Store 1350,Rockford,Illinois,Warehouse,2011,103,15267,Midwest,111972,Walmart Supercenter,103,Elizabeth Thomas
+1351,Walmart Store 1351,Savannah,Georgia,Supercenter,2011,180,32760,South,192685,Walmart Supercenter,180,Jennifer Smith
+1352,Walmart Store 1352,Augusta,Georgia,Warehouse,2011,109,15276,South,115538,Walmart Supercenter,109,Jennifer Taylor
+1353,Walmart Store 1353,Scottsdale,Arizona,Neighborhood Market,2015,50,8000,West,53125,Sam's Club,50,Michael Harris
+1354,Walmart Store 1354,Irving,Texas,Neighborhood Market,2021,43,8000,South,45721,Walmart Supercenter,43,Robert Smith
+1355,Walmart Store 1355,Joliet,Illinois,Supercenter,2021,191,34192,Midwest,204150,Walmart Supercenter,191,James White
+1356,Walmart Store 1356,Chicago,Illinois,Neighborhood Market,2007,47,8000,Midwest,49870,Sam's Club,47,Jennifer Johnson
+1357,Walmart Store 1357,Phoenix,Arizona,Supercenter,2010,171,39778,West,184753,Walmart Supercenter,171,Robert Jackson
+1358,Walmart Store 1358,Warren,Michigan,Neighborhood Market,2000,63,8103,Midwest,68074,Sam's Club,63,Jennifer Taylor
+1359,Walmart Store 1359,Chicago,Illinois,Neighborhood Market,2001,54,8387,Midwest,58220,Walmart Discount Store,54,Jennifer Brown
+1360,Walmart Store 1360,Fort Worth,Texas,Sam's Club,2017,151,25102,South,162862,Walmart Supercenter,151,Mary Smith
+1361,Walmart Store 1361,Phoenix,Arizona,Neighborhood Market,2023,46,8000,West,47763,Walmart Discount Store,46,Patricia Harris
+1362,Walmart Store 1362,Charlotte,North Carolina,Neighborhood Market,2002,60,8419,South,66636,Walmart Supercenter,60,Mary Smith
+1363,Walmart Store 1363,Naperville,Illinois,Supercenter,2022,164,33121,Midwest,172310,Walmart Supercenter,164,Linda Smith
+1364,Walmart Store 1364,Orlando,Florida,Neighborhood Market,2020,33,8000,South,36591,Walmart Discount Store,33,Robert Brown
+1365,Walmart Store 1365,Long Beach,California,Neighborhood Market,2009,42,8000,West,43935,Walmart Supercenter,42,Robert Harris
+1366,Walmart Store 1366,Atlanta,Georgia,Warehouse,2000,126,23769,South,131048,Walmart Discount Store,126,Michael Smith
+1367,Walmart Store 1367,Aurora,Illinois,Neighborhood Market,2002,53,8000,Midwest,58848,Walmart Discount Store,53,James Thomas
+1368,Walmart Store 1368,St. Petersburg,Florida,Warehouse,2015,105,17089,South,117799,Walmart Discount Store,105,William Jackson
+1369,Walmart Store 1369,Chicago,Illinois,Neighborhood Market,2015,47,8287,Midwest,51705,Walmart Supercenter,47,Jennifer Johnson
+1370,Walmart Store 1370,Columbus,Ohio,Neighborhood Market,2016,62,8350,Midwest,69776,Walmart Supercenter,62,William Thomas
+1371,Walmart Store 1371,St. Petersburg,Florida,Sam's Club,2003,165,28839,South,169919,Walmart Supercenter,165,William Jackson
+1372,Walmart Store 1372,Allentown,Pennsylvania,Sam's Club,2023,121,21746,Northeast,126930,Walmart Discount Store,121,Patricia Anderson
+1373,Walmart Store 1373,Fresno,California,Neighborhood Market,2016,57,8000,West,62143,Walmart Supercenter,57,Elizabeth White
+1374,Walmart Store 1374,Miami,Florida,Neighborhood Market,2006,70,10882,South,72134,Walmart Discount Store,70,Elizabeth Johnson
+1375,Walmart Store 1375,Rockford,Illinois,Warehouse,2004,90,13508,Midwest,98384,Walmart Supercenter,90,James Anderson
+1376,Walmart Store 1376,Austin,Texas,Neighborhood Market,2008,60,8000,South,62450,Sam's Club,60,Robert White
+1377,Walmart Store 1377,Long Beach,California,Neighborhood Market,2002,61,8325,West,68770,Walmart Supercenter,61,John Martin
+1378,Walmart Store 1378,Durham,North Carolina,Sam's Club,2005,151,26379,South,159622,Sam's Club,151,James Thomas
+1379,Walmart Store 1379,Naperville,Illinois,Neighborhood Market,2016,64,9219,Midwest,71404,Walmart Supercenter,64,Patricia Brown
+1380,Walmart Store 1380,Erie,Pennsylvania,Warehouse,2005,104,15177,Northeast,109413,Walmart Discount Store,104,Robert Martin
+1381,Walmart Store 1381,Savannah,Georgia,Sam's Club,2018,129,21630,South,141231,Sam's Club,129,Michael White
+1382,Walmart Store 1382,Plano,Texas,Supercenter,2021,183,36613,South,194125,Walmart Discount Store,183,Mary Thomas
+1383,Walmart Store 1383,Scottsdale,Arizona,Neighborhood Market,2019,39,8000,West,41563,Walmart Supercenter,39,Patricia Martin
+1384,Walmart Store 1384,St. Petersburg,Florida,Neighborhood Market,2010,44,8000,South,45151,Walmart Discount Store,44,Jennifer Smith
+1385,Walmart Store 1385,Tallahassee,Florida,Sam's Club,2005,147,28464,South,162095,Sam's Club,147,Mary Martin
+1386,Walmart Store 1386,San Francisco,California,Supercenter,2008,179,42013,West,192505,Walmart Supercenter,179,Robert Anderson
+1387,Walmart Store 1387,Akron,Ohio,Neighborhood Market,2000,60,8000,Midwest,61821,Walmart Discount Store,60,William Jackson
+1388,Walmart Store 1388,Fort Lauderdale,Florida,Supercenter,2009,149,26626,South,155677,Walmart Discount Store,149,Linda Thomas
+1389,Walmart Store 1389,Bakersfield,California,Sam's Club,2002,152,28075,West,163733,Walmart Discount Store,152,Linda Smith
+1390,Walmart Store 1390,Tempe,Arizona,Supercenter,2000,169,31334,West,182064,Walmart Supercenter,169,Jennifer Thomas
+1391,Walmart Store 1391,Savannah,Georgia,Neighborhood Market,2010,43,8000,South,47243,Sam's Club,43,John White
+1392,Walmart Store 1392,Philadelphia,Pennsylvania,Sam's Club,2014,159,32581,Northeast,162471,Walmart Supercenter,159,William Johnson
+1393,Walmart Store 1393,San Diego,California,Supercenter,2013,202,51870,West,222751,Walmart Supercenter,202,James Taylor
+1394,Walmart Store 1394,Gilbert,Arizona,Neighborhood Market,2021,43,8000,West,45917,Walmart Discount Store,43,Mary Anderson
+1395,Walmart Store 1395,Santa Ana,California,Supercenter,2019,205,38883,West,215284,Walmart Supercenter,205,Linda Johnson
+1396,Walmart Store 1396,El Paso,Texas,Warehouse,2002,95,14882,South,105102,Walmart Supercenter,95,Patricia Harris
+1397,Walmart Store 1397,Warren,Michigan,Neighborhood Market,2022,38,8000,Midwest,41989,Walmart Discount Store,38,John Brown
+1398,Walmart Store 1398,Columbus,Ohio,Neighborhood Market,2019,52,8000,Midwest,53711,Walmart Discount Store,52,John Johnson
+1399,Walmart Store 1399,Warren,Michigan,Neighborhood Market,2018,55,8000,Midwest,56812,Walmart Supercenter,55,William Taylor
+1400,Walmart Store 1400,San Jose,California,Supercenter,2008,180,41193,West,189742,Walmart Supercenter,180,Michael White
+1401,Walmart Store 1401,Sacramento,California,Neighborhood Market,2013,38,8000,West,39017,Walmart Supercenter,38,Mary Martin
+1402,Walmart Store 1402,Macon,Georgia,Neighborhood Market,2016,37,8000,South,40473,Walmart Supercenter,37,Mary Anderson
+1403,Walmart Store 1403,Macon,Georgia,Sam's Club,2018,147,28077,South,164887,Walmart Supercenter,147,Linda Jackson
+1404,Walmart Store 1404,Aurora,Illinois,Supercenter,2015,203,39593,Midwest,225437,Walmart Supercenter,203,Linda Anderson
+1405,Walmart Store 1405,Irvine,California,Warehouse,2012,123,19263,West,135842,Walmart Supercenter,123,Linda Brown
+1406,Walmart Store 1406,Erie,Pennsylvania,Neighborhood Market,2020,35,8000,Northeast,39277,Walmart Supercenter,35,Jennifer Anderson
+1407,Walmart Store 1407,Irvine,California,Neighborhood Market,2010,49,8000,West,53120,Walmart Supercenter,49,Mary Taylor
+1408,Walmart Store 1408,Atlanta,Georgia,Sam's Club,2007,153,32324,South,166334,Walmart Discount Store,153,John Harris
+1409,Walmart Store 1409,Greensboro,North Carolina,Neighborhood Market,2012,55,8000,South,58083,Walmart Supercenter,55,Michael Jackson
+1410,Walmart Store 1410,Houston,Texas,Neighborhood Market,2018,68,12199,South,75422,Walmart Discount Store,68,Michael White
+1411,Walmart Store 1411,Chicago,Illinois,Sam's Club,2008,174,38801,Midwest,188305,Walmart Supercenter,174,Mary Harris
+1412,Walmart Store 1412,Tempe,Arizona,Neighborhood Market,2010,36,8000,West,37639,Sam's Club,36,William Thomas
+1413,Walmart Store 1413,Dayton,Ohio,Sam's Club,2016,116,21391,Midwest,122739,Walmart Discount Store,116,Patricia Johnson
+1414,Walmart Store 1414,Oakland,California,Neighborhood Market,2003,45,8000,West,47443,Walmart Discount Store,45,William White
+1415,Walmart Store 1415,Lansing,Michigan,Supercenter,2000,171,33142,Midwest,190211,Walmart Discount Store,171,Robert Smith
+1416,Walmart Store 1416,Toledo,Ohio,Neighborhood Market,2011,66,8395,Midwest,70389,Walmart Supercenter,66,Elizabeth Smith
+1417,Walmart Store 1417,Chandler,Arizona,Sam's Club,2009,134,23146,West,151127,Walmart Supercenter,134,William White
+1418,Walmart Store 1418,Chandler,Arizona,Neighborhood Market,2016,34,8000,West,37294,Walmart Supercenter,34,William Harris
+1419,Walmart Store 1419,Mesa,Arizona,Warehouse,2013,126,18993,West,135839,Walmart Supercenter,126,Patricia Harris
+1420,Walmart Store 1420,Joliet,Illinois,Neighborhood Market,2018,61,8000,Midwest,65035,Walmart Supercenter,61,John Anderson
+1421,Walmart Store 1421,El Paso,Texas,Neighborhood Market,2002,45,8000,South,48160,Walmart Supercenter,45,Patricia Martin
+1422,Walmart Store 1422,Ann Arbor,Michigan,Neighborhood Market,2014,59,8000,Midwest,62308,Walmart Supercenter,59,Michael Smith
+1423,Walmart Store 1423,El Paso,Texas,Neighborhood Market,2011,32,8000,South,35631,Walmart Supercenter,32,James Anderson
+1424,Walmart Store 1424,Plano,Texas,Warehouse,2009,89,12511,South,91865,Sam's Club,89,William Anderson
+1425,Walmart Store 1425,Long Beach,California,Warehouse,2013,92,14407,West,103147,Walmart Discount Store,92,Patricia Harris
+1426,Walmart Store 1426,Orlando,Florida,Warehouse,2007,118,19675,South,120768,Walmart Supercenter,118,Robert Anderson
+1427,Walmart Store 1427,Sacramento,California,Neighborhood Market,2018,68,10098,West,72421,Walmart Supercenter,68,Elizabeth Martin
+1428,Walmart Store 1428,Glendale,Arizona,Neighborhood Market,2007,51,8000,West,55872,Sam's Club,51,Patricia White
+1429,Walmart Store 1429,Pittsburgh,Pennsylvania,Sam's Club,2012,142,24031,Northeast,158386,Walmart Discount Store,142,John White
+1430,Walmart Store 1430,Aurora,Illinois,Neighborhood Market,2009,64,8670,Midwest,67117,Walmart Supercenter,64,James Smith
+1431,Walmart Store 1431,Riverside,California,Supercenter,2004,201,40802,West,218954,Walmart Supercenter,201,Michael White
+1432,Walmart Store 1432,Santa Ana,California,Sam's Club,2015,121,21769,West,135645,Walmart Supercenter,121,Mary Thomas
+1433,Walmart Store 1433,Los Angeles,California,Neighborhood Market,2004,44,8000,West,47301,Walmart Discount Store,44,Linda Brown
+1434,Walmart Store 1434,Orlando,Florida,Neighborhood Market,2017,38,8000,South,38512,Walmart Discount Store,38,William White
+1435,Walmart Store 1435,Garland,Texas,Neighborhood Market,2023,40,8000,South,44687,Sam's Club,40,Michael Brown
+1436,Walmart Store 1436,Atlanta,Georgia,Neighborhood Market,2019,47,8195,South,51038,Walmart Supercenter,47,Linda Martin
+1437,Walmart Store 1437,Columbus,Ohio,Sam's Club,2023,152,23969,Midwest,157932,Walmart Discount Store,152,Robert Johnson
+1438,Walmart Store 1438,Miami,Florida,Warehouse,2011,131,27883,South,145276,Walmart Supercenter,131,Robert Taylor
+1439,Walmart Store 1439,Columbus,Ohio,Supercenter,2011,161,28693,Midwest,165915,Walmart Supercenter,161,James Johnson
+1440,Walmart Store 1440,Cleveland,Ohio,Sam's Club,2012,143,26448,Midwest,156025,Walmart Supercenter,143,Elizabeth Martin
+1441,Walmart Store 1441,Naperville,Illinois,Neighborhood Market,2021,52,8000,Midwest,56522,Walmart Discount Store,52,Patricia Johnson
+1442,Walmart Store 1442,Columbus,Ohio,Warehouse,2020,130,20094,Midwest,134881,Walmart Discount Store,130,Elizabeth Thomas
+1443,Walmart Store 1443,Atlanta,Georgia,Sam's Club,2008,142,31906,South,156837,Walmart Discount Store,142,James Johnson
+1444,Walmart Store 1444,Dayton,Ohio,Supercenter,2016,195,34757,Midwest,204972,Walmart Discount Store,195,Linda Anderson
+1445,Walmart Store 1445,Macon,Georgia,Sam's Club,2006,147,26543,South,164265,Walmart Supercenter,147,Linda Taylor
+1446,Walmart Store 1446,Reading,Pennsylvania,Neighborhood Market,2014,41,8000,Northeast,41374,Walmart Discount Store,41,Robert White
+1447,Walmart Store 1447,Chicago,Illinois,Neighborhood Market,2002,53,9175,Midwest,56785,Walmart Supercenter,53,Patricia Harris
+1448,Walmart Store 1448,Columbus,Ohio,Sam's Club,2021,153,24733,Midwest,162150,Walmart Discount Store,153,Robert Jackson
+1449,Walmart Store 1449,Macon,Georgia,Neighborhood Market,2009,65,9128,South,71615,Sam's Club,65,Michael Johnson
+1450,Walmart Store 1450,Chandler,Arizona,Neighborhood Market,2011,37,8000,West,40698,Walmart Supercenter,37,Mary White
+1451,Walmart Store 1451,San Diego,California,Neighborhood Market,2021,38,8000,West,39338,Walmart Supercenter,38,Michael Smith
+1452,Walmart Store 1452,Scottsdale,Arizona,Supercenter,2021,166,32303,West,179585,Walmart Supercenter,166,Mary Martin
+1453,Walmart Store 1453,St. Petersburg,Florida,Sam's Club,2016,163,26488,South,168505,Walmart Supercenter,163,James Harris
+1454,Walmart Store 1454,Tampa,Florida,Sam's Club,2010,117,24627,South,127435,Walmart Discount Store,117,John Thomas
+1455,Walmart Store 1455,Greensboro,North Carolina,Supercenter,2007,154,32750,South,172310,Walmart Supercenter,154,Linda Smith
+1456,Walmart Store 1456,Chandler,Arizona,Supercenter,2008,183,35482,West,188643,Walmart Discount Store,183,James Brown
+1457,Walmart Store 1457,Atlanta,Georgia,Neighborhood Market,2010,47,8000,South,48997,Walmart Supercenter,47,Elizabeth Johnson
+1458,Walmart Store 1458,Tucson,Arizona,Neighborhood Market,2014,52,8000,West,56415,Walmart Discount Store,52,Robert Smith
+1459,Walmart Store 1459,Hialeah,Florida,Neighborhood Market,2002,33,8000,South,36514,Sam's Club,33,James Smith
+1460,Walmart Store 1460,Charlotte,North Carolina,Supercenter,2023,150,32861,South,164663,Sam's Club,150,Patricia Jackson
+1461,Walmart Store 1461,Tallahassee,Florida,Sam's Club,2021,158,29056,South,168875,Walmart Discount Store,158,Linda Brown
+1462,Walmart Store 1462,Santa Ana,California,Supercenter,2014,150,26388,West,157014,Walmart Supercenter,150,Michael Taylor
+1463,Walmart Store 1463,Arlington,Texas,Warehouse,2013,100,16605,South,107874,Walmart Discount Store,100,Michael Jackson
+1464,Walmart Store 1464,Raleigh,North Carolina,Warehouse,2014,110,15036,South,114185,Walmart Discount Store,110,Patricia Smith
+1465,Walmart Store 1465,Winston-Salem,North Carolina,Supercenter,2014,216,41347,South,225773,Walmart Supercenter,216,Linda Johnson
+1466,Walmart Store 1466,Phoenix,Arizona,Neighborhood Market,2016,67,10378,West,69079,Walmart Supercenter,67,Patricia Thomas
+1467,Walmart Store 1467,Warren,Michigan,Sam's Club,2001,156,28371,Midwest,164754,Sam's Club,156,Michael Thomas
+1468,Walmart Store 1468,Grand Rapids,Michigan,Warehouse,2018,95,14536,Midwest,103593,Sam's Club,95,Patricia Smith
+1469,Walmart Store 1469,Macon,Georgia,Sam's Club,2000,142,23229,South,149721,Walmart Supercenter,142,Michael Jackson
+1470,Walmart Store 1470,Macon,Georgia,Sam's Club,2009,145,24153,South,163872,Sam's Club,145,Mary Smith
+1471,Walmart Store 1471,San Jose,California,Neighborhood Market,2008,41,8000,West,45798,Walmart Supercenter,41,William Harris
+1472,Walmart Store 1472,Chicago,Illinois,Neighborhood Market,2023,54,8441,Midwest,57011,Walmart Supercenter,54,Linda Anderson
+1473,Walmart Store 1473,Naperville,Illinois,Neighborhood Market,2006,55,8000,Midwest,58494,Walmart Supercenter,55,William Smith
+1474,Walmart Store 1474,Philadelphia,Pennsylvania,Sam's Club,2006,165,38369,Northeast,185887,Walmart Supercenter,165,James Smith
+1475,Walmart Store 1475,Greensboro,North Carolina,Neighborhood Market,2009,55,8000,South,59232,Walmart Supercenter,55,Jennifer Anderson
+1476,Walmart Store 1476,Raleigh,North Carolina,Sam's Club,2005,155,26405,South,161726,Walmart Supercenter,155,Linda Harris
+1477,Walmart Store 1477,Fort Lauderdale,Florida,Sam's Club,2001,147,26448,South,150765,Sam's Club,147,John Johnson
+1478,Walmart Store 1478,San Francisco,California,Sam's Club,2011,140,32037,West,154635,Sam's Club,140,Elizabeth Harris
+1479,Walmart Store 1479,Toledo,Ohio,Sam's Club,2017,169,26861,Midwest,174896,Walmart Supercenter,169,Jennifer Jackson
+1480,Walmart Store 1480,Cleveland,Ohio,Neighborhood Market,2023,65,9936,Midwest,69863,Walmart Discount Store,65,Robert Thomas
+1481,Walmart Store 1481,Detroit,Michigan,Neighborhood Market,2005,47,8000,Midwest,52966,Walmart Discount Store,47,John Anderson
+1482,Walmart Store 1482,Greensboro,North Carolina,Supercenter,2007,179,32509,South,195953,Walmart Supercenter,179,James Anderson
+1483,Walmart Store 1483,Pittsburgh,Pennsylvania,Supercenter,2005,206,40700,Northeast,212479,Walmart Supercenter,206,Elizabeth Smith
+1484,Walmart Store 1484,Detroit,Michigan,Supercenter,2016,190,40183,Midwest,198167,Walmart Discount Store,190,Robert Brown
+1485,Walmart Store 1485,Chicago,Illinois,Neighborhood Market,2012,66,10202,Midwest,71615,Walmart Supercenter,66,Linda Martin
+1486,Walmart Store 1486,Philadelphia,Pennsylvania,Neighborhood Market,2001,42,8000,Northeast,45781,Sam's Club,42,William Thomas
+1487,Walmart Store 1487,Joliet,Illinois,Neighborhood Market,2015,40,8000,Midwest,43558,Walmart Supercenter,40,John Brown
+1488,Walmart Store 1488,Arlington,Texas,Supercenter,2023,196,34324,South,204860,Walmart Discount Store,196,Patricia Johnson
+1489,Walmart Store 1489,Akron,Ohio,Supercenter,2020,155,32748,Midwest,171682,Walmart Supercenter,155,Elizabeth Jackson
+1490,Walmart Store 1490,Greensboro,North Carolina,Neighborhood Market,2021,61,8150,South,66694,Walmart Supercenter,61,Mary Taylor
+1491,Walmart Store 1491,Columbus,Ohio,Warehouse,2018,96,14335,Midwest,105674,Walmart Supercenter,96,Robert Martin
+1492,Walmart Store 1492,Atlanta,Georgia,Neighborhood Market,2001,70,12050,South,73605,Walmart Discount Store,70,Michael Martin
+1493,Walmart Store 1493,Rockford,Illinois,Neighborhood Market,2017,41,8000,Midwest,45280,Walmart Discount Store,41,John White
+1494,Walmart Store 1494,Dallas,Texas,Supercenter,2020,218,57242,South,231378,Walmart Discount Store,218,Elizabeth Martin
+1495,Walmart Store 1495,Irvine,California,Sam's Club,2005,133,21065,West,137604,Walmart Supercenter,133,Robert Thomas
+1496,Walmart Store 1496,Fort Worth,Texas,Neighborhood Market,2002,44,8000,South,49711,Walmart Supercenter,44,Linda Harris
+1497,Walmart Store 1497,Savannah,Georgia,Neighborhood Market,2001,47,8000,South,49163,Walmart Discount Store,47,James Taylor
+1498,Walmart Store 1498,Tallahassee,Florida,Supercenter,2009,202,40651,South,211323,Walmart Supercenter,202,Patricia Smith
+1499,Walmart Store 1499,Durham,North Carolina,Sam's Club,2023,154,29973,South,170872,Walmart Supercenter,154,Linda Thomas
+1500,Walmart Store 1500,Los Angeles,California,Sam's Club,2016,162,35132,West,170951,Walmart Supercenter,162,John Jackson
