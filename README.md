@@ -105,3 +105,50 @@ Key: City in Demographics = City in Stores
   <img width="1384" height="458" alt="Screenshot 2025-08-19 124843" src="https://github.com/user-attachments/assets/618aa285-7178-4a23-974b-929223c4f102" />
   <img width="1441" height="432" alt="Screenshot 2025-08-19 124857" src="https://github.com/user-attachments/assets/cda52bd3-3bfd-44af-ac5e-2af6dcb02e7a" />
 
+  ******************************************************************************************************************************************************************************************************************************************************************************************
+
+** Assumptions and Caveats
+---------------------------
+
+- This project uses a sample of 1,500 Walmart stores, which represents about 15% of the company’s U.S. locations.
+
+- Store locations, cities, and states are real U.S. places, but the assignment of Walmart stores and some attributes are synthetic for project consistency.
+
+- Customer demographics (age, gender, income, employment status) were generated to reflect real-world distributions but are synthetic.
+
+- Cost-of-living and regional classifications are based on public data but have been adapted for analytical clarity.
+
+- Return rates and return values are calculated directly from product category data in the sales records; there is no separate return transactions table.
+
+- All monetary values are in U.S. dollars and have been rounded for clarity.
+
+  ******************************************************************************************************************************************************************************************************************************************************************************************
+
+** Next Steps and Stakeholder Questions
+----------------------------------------
+
+Based on the analysis, the following actions are recommended for key Walmart roles:
+
+- Prioritize Process Improvements in Clothing and Electronics
+   - Assigned to: Product Category Managers and Operations Teams
+     Clothing and Electronics have the highest return rates and value lost to returns. Category managers and operations should immediately review return policies, product quality, and customer support resources in these categories.
+
+- Review Product Mix by Region
+   - Assigned to: Regional Managers and Inventory Planners
+     Regional managers should adjust product mix and inventory based on local sales strengths (e.g., focus on Grocery in the Northeast) and reduce high-return categories where they most erode profitability.
+
+- Focus on High-Value Customer Segments
+    - Assigned to: Merchandising and Marketing Teams
+      Merchandising and marketing should prioritize products, promotions, and in-store experience for customers aged 45–64 and with annual incomes of $60,000–$80,000, who represent the most profitable segments.
+
+- Analyze Underperforming Stores or Regions
+    - Assigned to: Regional Managers and Store Performance Analysts
+      Identify stores or regions with lower sales and higher returns for targeted review and resource allocation.
+
+******************************************************************************************************************************************************************************************************************************************************************************************
+
+Potential Follow-Up Questions:
+------------------------------
+
+- Are there specific customer groups or regions where returns are unusually high, suggesting the need for targeted interventions by product or customer experience teams?
+- Would deeper product-level analysis (such as by brand or price point) help category managers further reduce returns and lost profit?
