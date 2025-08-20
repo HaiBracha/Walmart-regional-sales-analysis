@@ -17,15 +17,46 @@ The analysis is designed to provide actionable, data-driven recommendations for 
 ## Executive Summary
 ---------------------
 
-- Total Sales from 2016 to 2025: 21 billion US dollars across all regions and product categories.
 
-- Grocery is the leading product category in every region, responsible for 58–65% of sales.
+- Total Sales from 2016 to 2025: $20.8 billion across all regions and product categories.
+
+- Total Transactions: 5,408
+
+- Grocery is the leading product category in every region, responsible for 58–64% of sales:
+
+  -  Midwest: 62.08%
+
+  -  Northeast: 58.39%
+
+  -  South: 63.33%
+
+  -  West: 58.08%
 
 - Clothing has the highest return rate (8.4%), with Electronics also elevated (7%).
 
-- Total value lost to returns across all product categories: 751 million US dollars.
+- Total value lost to returns across all product categories: $751 million.
 
 - Customer Demographics: Most sales come from customers aged 45 to 64 and those with an annual income of $60,000 to $80,000.
+
+- Sales by Gender:
+
+  - Female: $11.0B
+
+  - Male: $9.8B
+
+- Sales by Customer Income Band:
+
+  - $0–20K: $3.06B
+
+  - $20K–40K: $0.84B
+
+  - $40K–60K: $4.21B
+
+  - $60K–80K: $6.91B
+
+  - $80K–100K: $1.65B
+
+  - $100K+: $4.14B
 
 - Profitability is significantly impacted by returns, especially in Clothing and Electronics. Grocery brings in the highest sales with the lowest returns.
 
@@ -87,16 +118,16 @@ Key: City in Demographics = City in Stores
 ------------------------------
 
 - Sales Performance by Region and Category
-   -  Grocery is the largest category across all regions (up to 65% of sales in the Northeast).
+   -  Grocery is the largest category across all regions (up to 63% of sales in the South).
    -  Clothing, Electronics, and Beauty have significant but smaller shares, with regional variation.
-   <img width="1464" height="522" alt="Screenshot 2025-08-19 124324" src="https://github.com/user-attachments/assets/b820e290-33f2-4823-bcd7-c604096517f8" />
+  <img width="1886" height="967" alt="Screenshot 2025-08-19 210011" src="https://github.com/user-attachments/assets/66896e41-2d10-40cb-939f-bdb4249993fd" />
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 - Demographic and Income Trends
    - Customers aged 45–64 and those with annual incomes of $60,000–$80,000 account for the largest share of sales.
    - Female customers slightly outspend males in total sales.
      
-   <img width="381" height="672" alt="Screenshot 2025-08-19 115730" src="https://github.com/user-attachments/assets/ef7d794f-1571-4b92-921b-9c3cbc50a3c9" />
-   <img width="769" height="251" alt="Screenshot 2025-08-19 115813" src="https://github.com/user-attachments/assets/9e8a4e4a-a1b9-47ff-a7e1-f727c7bd3c04" />
+   <img width="1919" height="994" alt="Screenshot 2025-08-19 210030" src="https://github.com/user-attachments/assets/0e57dfd8-ba85-4bb9-89a0-b754583836f6" />
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
    
@@ -104,9 +135,8 @@ Key: City in Demographics = City in Stores
 - Return Rates and Profitability
    - Clothing has the highest return rate (8.4%), Electronics is next (7%), while Grocery has the lowest (2%).
    - Total value lost to returns across all product categories is 751 million US dollars.
-     
-  <img width="1384" height="458" alt="Screenshot 2025-08-19 124843" src="https://github.com/user-attachments/assets/618aa285-7178-4a23-974b-929223c4f102" />
-  <img width="1441" height="432" alt="Screenshot 2025-08-19 124857" src="https://github.com/user-attachments/assets/cda52bd3-3bfd-44af-ac5e-2af6dcb02e7a" />
+
+<img width="1916" height="977" alt="Screenshot 2025-08-19 210045" src="https://github.com/user-attachments/assets/3a10366c-c2b3-49e1-974e-b38c25adfb22" />
 
   ********************************************************************************************************************************************************************************************************************
 
@@ -138,7 +168,7 @@ Based on the analysis, the following actions are recommended for key Walmart rol
 
 - Review Product Mix by Region
    - Assigned to: Regional Managers and Inventory Planners
-     Regional managers should adjust product mix and inventory based on local sales strengths (e.g., focus on Grocery in the Northeast) and reduce high-return categories where they most erode profitability.
+     Regional managers should adjust product mix and inventory based on local sales strengths (e.g., focus on Grocery in the South) and reduce high-return categories where they most erode profitability.
 
 - Focus on High-Value Customer Segments
     - Assigned to: Merchandising and Marketing Teams
